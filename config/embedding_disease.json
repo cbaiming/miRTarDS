@@ -1,0 +1,18 @@
+{
+  "model": {
+    "path": "SBERT_model/LR_5e-6-2_3e-6-2",
+    "device": "cpu"
+  },
+  "data": {
+    "miRTarDS_train_valid": "MTI/miRTarDS_train_valid_KNN_extract.csv",
+    "gene_disease_db": "raw_data/gene_disease_association.csv",
+    "miRNA_disease_excel": "raw_data/alldata_v4.xlsx"
+  },
+  "output": {
+    "disease_embeddings": "disease_embedding/miRTarDS_train_valid_KNN.csv"
+  },
+  "processing": {
+    "batch_size": 256,
+    "encoding_dimension_prefix": "dim_"
+  }
+}

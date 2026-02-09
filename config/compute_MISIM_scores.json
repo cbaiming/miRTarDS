@@ -1,0 +1,12 @@
+{
+    "file_paths": {
+        "input_mti": "MTI/miRTarDS_train_valid_KNN_extract.csv",
+        "output_result": "output/MISIM_KNN.csv",
+        "mesh_tree": "raw_data/MeSH_Tree.csv",
+        "mirna_disease_db": "raw_data/alldata_v4.xlsx",
+        "gene_disease_db": "raw_data/gene_disease_association.csv"
+    },
+    "settings": {
+        "csv_separator": "\t"
+    }
+}

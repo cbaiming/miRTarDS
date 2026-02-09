@@ -1,0 +1,24 @@
+{
+    "RAW_DATA_PATHS": {
+        "miRTarBase": "raw_data/miRTarBase_SE_WR.csv",
+        "TarBase": "raw_data/Homo_sapiens_TarBase-v9.tsv",
+        "miRWalk": "raw_data/hsa_miRWalk_3UTR.txt",
+        "miRDB": "raw_data/miRDB_v6.0_prediction_result.txt",
+        "TargetScan": "raw_data/Predicted_Targets_Context_Scores.default_predictions.txt",
+        "HGNC": "raw_data/ref2gene_HGNC_020326.txt",
+        "miRNA_disease": "raw_data/alldata_v4.xlsx",
+        "gene_disease": "raw_data/disgenet_2020_modify.db"
+    },
+    "OUTPUT_PATH": "MTI/concat_MTIs_with_counts.txt",
+    "FILTERS": {
+        "species": "hsa",
+        "experimental_methods": ["Western Blot", "Luciferase Reporter Assay"],
+        "support_type": "Functional MTI"
+    },
+    "PROCESSING": {
+        "csv_separator": ",",
+        "tsv_separator": "\t",
+        "chunk_size": 10000,
+        "low_memory": false
+    }
+}

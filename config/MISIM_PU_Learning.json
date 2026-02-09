@@ -1,0 +1,16 @@
+{
+    "paths": {
+        "MTI_data": "output/MISIM_KNN.csv"
+    },
+    "splitting": {
+        "external_val_size": 0.10,
+        "test_size": 0.20,
+        "random_state": 42
+    },
+    "model_params": {
+        "tree_depth": 10,
+        "n_estimators_rf": 50,
+        "n_estimators_xgb": 100,
+        "bagging_n_estimators": 50
+    }
+}
