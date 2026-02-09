@@ -1,6 +1,6 @@
 # Leveraging Disease Association Degree for High-Accuracy MicroRNA Target Prediction
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://elifesciences.org/articles/109602v1)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://elifesciences.org/reviewed-preprints/109602v1)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 This repository contains the official implementation of the paper: **"Leveraging Disease Association Degree for High-Accuracy MicroRNA Target Prediction"**.
