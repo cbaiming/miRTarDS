@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "shape": [
+    5,
+    768
+  ],
+  "source_vs_release_exact": true,
+  "native_pooling": "FP32 attention-mask mean then float64 L2",
+  "batch_single_max_abs": 1.356485935001539e-07,
+  "normalized_probe_convention_max_abs": 6.909636252050433e-09,
+  "inference_offline": true,
+  "dtype": "float64"
+}

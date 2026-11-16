@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mirtards"
+version = "0.2.0"
+description = "Disease-association profiles for microRNA target prioritization"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "numpy==1.26.4",
+    "pandas>=2.0,<3",
+    "scipy>=1.11,<2",
+    "scikit-learn==1.5.2",
+    "torch==2.6.0",
+    "joblib>=1.4,<2",
+]
+
+[project.optional-dependencies]
+biolord = ["transformers>=4.51,<5", "safetensors>=0.4"]
+training = ["transformers>=4.51,<5", "safetensors>=0.4", "sentence-transformers>=3,<6"]
+
+[project.scripts]
+mirtards = "mirtards_release.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["mirtards_release*"]
+

@@ -1,0 +1,53 @@
+{
+  "method": "2000 shared full-profile/precursor endpoint-group Poisson resamples; fixed original common1013rows; conditional on frozen scores",
+  "results": {
+    "preferred_alias_minus_exact": {
+      "delta": 0.005273516117920522,
+      "draws": 2000,
+      "interval_95": [
+        -0.009525587164251188,
+        0.028561828338285782
+      ]
+    },
+    "all_entryterm_minus_exact": {
+      "delta": 0.010355114719282002,
+      "draws": 2000,
+      "interval_95": [
+        -0.010053534307536536,
+        0.03986925566371198
+      ]
+    },
+    "preferred_alias_minus_raw_jaccard": {
+      "delta": -0.005881230133547133,
+      "draws": 2000,
+      "interval_95": [
+        -0.03328739084268623,
+        0.030709438455711044
+      ]
+    },
+    "all_entryterm_minus_raw_jaccard": {
+      "delta": -0.0007996315321856517,
+      "draws": 2000,
+      "interval_95": [
+        -0.027788036822346054,
+        0.0354718948710733
+      ]
+    },
+    "preferred_misim_minus_same_mapped_jaccard": {
+      "delta": -0.016790025490662552,
+      "draws": 2000,
+      "interval_95": [
+        -0.03641876191769168,
+        0.0062020317067925275
+      ]
+    },
+    "all_entryterm_misim_minus_same_mapped_jaccard": {
+      "delta": -0.02536659703904783,
+      "draws": 2000,
+      "interval_95": [
+        -0.04338517658479197,
+        0.0006170004079189841
+      ]
+    }
+  }
+}

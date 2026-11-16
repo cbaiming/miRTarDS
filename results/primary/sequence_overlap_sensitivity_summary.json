@@ -1,0 +1,137 @@
+{
+  "scope": "Current primary complete-profile miRTarDS, two encoders, frozen predictions",
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "model_groups": 18,
+  "exclusion": "Remove only original outer-test rows marked sequence_seen_in_train; retain models, scores, labels and every other test row",
+  "excluded_test_rows_by_data_seed": {
+    "0": 5,
+    "1": 0,
+    "2": 0
+  },
+  "training_repeated": false,
+  "prediction_source": "Current primary test predictions",
+  "aggregation": "Metrics per training seed; mean three training seeds per data seed; equal mean over three data seeds",
+  "per_data": [
+    {
+      "encoder": "biolord",
+      "data_seed": 0,
+      "original_test_rows": 338,
+      "excluded_rows": 5,
+      "retained_rows": 333,
+      "P": 162,
+      "U": 171,
+      "balanced_aps_mean": 0.6862677043996568,
+      "training_sd": 0.0015011934402875177,
+      "raw_aps_mean": 0.6753135283766394,
+      "auroc_mean": 0.6951844632156523
+    },
+    {
+      "encoder": "biolord",
+      "data_seed": 1,
+      "original_test_rows": 354,
+      "excluded_rows": 0,
+      "retained_rows": 354,
+      "P": 177,
+      "U": 177,
+      "balanced_aps_mean": 0.6601369033806656,
+      "training_sd": 0.0041509408960510134,
+      "raw_aps_mean": 0.6601369033806654,
+      "auroc_mean": 0.6472384478704502
+    },
+    {
+      "encoder": "biolord",
+      "data_seed": 2,
+      "original_test_rows": 328,
+      "excluded_rows": 0,
+      "retained_rows": 328,
+      "P": 165,
+      "U": 163,
+      "balanced_aps_mean": 0.6248224507601674,
+      "training_sd": 0.0017472481824975118,
+      "raw_aps_mean": 0.6275609301612731,
+      "auroc_mean": 0.6385821404226313
+    },
+    {
+      "encoder": "openai_large",
+      "data_seed": 0,
+      "original_test_rows": 338,
+      "excluded_rows": 5,
+      "retained_rows": 333,
+      "P": 162,
+      "U": 171,
+      "balanced_aps_mean": 0.7261776340028158,
+      "training_sd": 0.0032919694263793355,
+      "raw_aps_mean": 0.7159441623561977,
+      "auroc_mean": 0.7361923326835608
+    },
+    {
+      "encoder": "openai_large",
+      "data_seed": 1,
+      "original_test_rows": 354,
+      "excluded_rows": 0,
+      "retained_rows": 354,
+      "P": 177,
+      "U": 177,
+      "balanced_aps_mean": 0.7084353655923245,
+      "training_sd": 0.0009990092753807572,
+      "raw_aps_mean": 0.7084353655923241,
+      "auroc_mean": 0.6852543436858288
+    },
+    {
+      "encoder": "openai_large",
+      "data_seed": 2,
+      "original_test_rows": 328,
+      "excluded_rows": 0,
+      "retained_rows": 328,
+      "P": 165,
+      "U": 163,
+      "balanced_aps_mean": 0.6930062789045514,
+      "training_sd": 0.000887533927674157,
+      "raw_aps_mean": 0.6954418767206249,
+      "auroc_mean": 0.6944537398525128
+    }
+  ],
+  "macro_means": {
+    "biolord": {
+      "balanced_aps_mean": 0.6570756861801632,
+      "raw_aps_mean": 0.654337120639526,
+      "auroc_mean": 0.660335017169578
+    },
+    "openai_large": {
+      "balanced_aps_mean": 0.7092064261665638,
+      "raw_aps_mean": 0.7066071348897155,
+      "auroc_mean": 0.705300138740634
+    }
+  },
+  "source_prediction_sha256": {
+    "predictions/biolord/data0/training_seed0.tsv.gz": "9c9633a1d3dbc8052fd5ace6744bbe074a2be27ace8e40222f3e9d6f1322f526",
+    "predictions/biolord/data0/training_seed1.tsv.gz": "0905ed1b572ab6a4cdca215c16bed72dc42f4d12681c0533988b6e4a638fb9db",
+    "predictions/biolord/data0/training_seed2.tsv.gz": "4c90e78f426ac893b3295c5d30b811ba1cea4a379539877bdff60fd6fd82caf6",
+    "predictions/biolord/data1/training_seed0.tsv.gz": "79a993d6fbc313ab1114dbafa603e5bc9731f854da75239b8a4a368ef4fde91d",
+    "predictions/biolord/data1/training_seed1.tsv.gz": "4cabcb1c965f0609331876b828e013099c8956020756776a340d64f8ac5f3bd8",
+    "predictions/biolord/data1/training_seed2.tsv.gz": "1e3fabf784fea0f747120cf355aada520984254d8005ea0b0b6ce7418dbcd302",
+    "predictions/biolord/data2/training_seed0.tsv.gz": "c8e6276c57933f4ca9ded3a48f9d2d53c9bbb42174e84976c1413f1b3adf6a03",
+    "predictions/biolord/data2/training_seed1.tsv.gz": "36efa7beca1351242ac6e46058db3bec3026fb2ae93e381a0ab1cdc68a7ab9b2",
+    "predictions/biolord/data2/training_seed2.tsv.gz": "dbaec2e82fb02ac383853497939e8d9c6821ee0c66a7e8cd8a1b0bf04bb2d818",
+    "predictions/openai_large/data0/training_seed0.tsv.gz": "5a5edd651f8461926f824bcf3835dc90736205620e7a590a31e391419125d259",
+    "predictions/openai_large/data0/training_seed1.tsv.gz": "d880471e328199458f39c69c182b83e4043aceb408da0d223da4102e9357404f",
+    "predictions/openai_large/data0/training_seed2.tsv.gz": "cd972c34c89744b353286b24eff44e566bef71b45b47774d45be26d339f0d27b",
+    "predictions/openai_large/data1/training_seed0.tsv.gz": "fb858c80d26a512ef45c00eb5d16d0408c9583d7bc4dadd144594f84e10cd145",
+    "predictions/openai_large/data1/training_seed1.tsv.gz": "ce325df5ef195f76fdf35ce18a251e1cd6f747156aa73bda114e18206b53e22a",
+    "predictions/openai_large/data1/training_seed2.tsv.gz": "e9adb93d1499f662d8d0f14021670eb8609acde9d8c0c9a44d5b35f08d4103e7",
+    "predictions/openai_large/data2/training_seed0.tsv.gz": "1c5c83ddc6678c071be93737bd17cbee37d0cb46e1a5e6bd8bdde8e2da35edd1",
+    "predictions/openai_large/data2/training_seed1.tsv.gz": "e10e561b263204a9afc608b002435b1b2e8038691a4183450d58e17a84044423",
+    "predictions/openai_large/data2/training_seed2.tsv.gz": "0d3b8f91772ce7d4aa920f61d754696445f270f984cc336c819cebaecd99a09f"
+  },
+  "helper_script_sha256": "5ca16a44a470696afd5e1da62360bf65e6b5cd877a8226d6d2f579315b1d098a",
+  "independent_balanced_ap_checked": true
+}

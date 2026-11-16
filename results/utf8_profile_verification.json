@@ -1,0 +1,42 @@
+{
+  "explicit_encoding": "UTF8",
+  "stored_original_profile_fingerprints_matched": true,
+  "checks": [
+    {
+      "data_seed": 0,
+      "side": "a",
+      "rows": 17148,
+      "mismatches": 0
+    },
+    {
+      "data_seed": 0,
+      "side": "b",
+      "rows": 17148,
+      "mismatches": 0
+    },
+    {
+      "data_seed": 1,
+      "side": "a",
+      "rows": 17614,
+      "mismatches": 0
+    },
+    {
+      "data_seed": 1,
+      "side": "b",
+      "rows": 17614,
+      "mismatches": 0
+    },
+    {
+      "data_seed": 2,
+      "side": "a",
+      "rows": 16854,
+      "mismatches": 0
+    },
+    {
+      "data_seed": 2,
+      "side": "b",
+      "rows": 16854,
+      "mismatches": 0
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "official_archive_sha256": "ccd4d0d33bebfd4c836a59e7dd0c635b1d4e20c4f5a6abc55e2eb0ba4c8716dd",
+  "official_archive_bytes": 16812612,
+  "parsed_official_descriptors": 31110,
+  "anchored_preferred_descriptors": 5049,
+  "old_descriptors": 5056,
+  "original_unique_input_names": 14134,
+  "strict_added_unique_names": 562,
+  "broad_added_unique_names": 2104,
+  "outside_fixed_graph_input_names": 209,
+  "original_common_rows": 1013,
+  "strict_covered_rows": 1016,
+  "broad_covered_rows": 1018,
+  "rows_unchanged": true,
+  "graph_unchanged": true,
+  "mapping_frozen_before_labels": true,
+  "scope": "Exploratory mapping sensitivity on previously evaluated data; never used outcomes to select aliases or parameters"
+}

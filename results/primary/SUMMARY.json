@@ -1,0 +1,176 @@
+{
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "encoders": [
+    "biolord",
+    "openai_large"
+  ],
+  "candidate": 892,
+  "feature_scope": "Original complete profiles without MeSH restriction",
+  "model_macro_means": {
+    "biolord": {
+      "balanced_aps": 0.6560230716355884,
+      "raw_aps": 0.6529140251098265,
+      "auroc": 0.6591032338200251,
+      "f1": 0.6025749075288168,
+      "accuracy": 0.6133421633668079,
+      "recall": 0.590458324459978,
+      "precision": 0.6152251034909937,
+      "balanced_aps_data_seed_sd": 0.02936065820132679,
+      "balanced_aps_training_sd_rms": 0.002759189766571631
+    },
+    "openai_large": {
+      "balanced_aps": 0.7088380923394225,
+      "raw_aps": 0.7059038697785396,
+      "auroc": 0.7048019251142819,
+      "f1": 0.6391939870590053,
+      "accuracy": 0.6473102847399282,
+      "recall": 0.6302208386747452,
+      "precision": 0.6487270953489186,
+      "balanced_aps_data_seed_sd": 0.016036969794655184,
+      "balanced_aps_training_sd_rms": 0.002062988367056577
+    }
+  },
+  "comparison_macro_means": {
+    "all_test": {
+      "Jaccard_raw": {
+        "balanced_aps": 0.5758271780877634,
+        "raw_aps": 0.5722022066140068,
+        "auroc": 0.5702677623808687
+      },
+      "biolord": {
+        "balanced_aps": 0.6560230716355884,
+        "raw_aps": 0.6529140251098265,
+        "auroc": 0.6591032338200251
+      },
+      "openai_large": {
+        "balanced_aps": 0.7088380923394224,
+        "raw_aps": 0.7059038697785397,
+        "auroc": 0.7048019251142819
+      }
+    },
+    "common_mapped": {
+      "Jaccard_mapped": {
+        "balanced_aps": 0.5764379971368622,
+        "raw_aps": 0.5724234921605462,
+        "auroc": 0.5752194568671368
+      },
+      "Jaccard_raw": {
+        "balanced_aps": 0.5770947270729213,
+        "raw_aps": 0.5730057853105937,
+        "auroc": 0.5727891596781378
+      },
+      "MISIM2010": {
+        "balanced_aps": 0.5659399808214537,
+        "raw_aps": 0.5617780858361141,
+        "auroc": 0.5665470067589452
+      },
+      "biolord": {
+        "balanced_aps": 0.655516977567994,
+        "raw_aps": 0.6520004630348615,
+        "auroc": 0.6576741869205216
+      },
+      "openai_large": {
+        "balanced_aps": 0.7086733528517676,
+        "raw_aps": 0.7053752827889038,
+        "auroc": 0.7044119270950282
+      }
+    }
+  },
+  "coverage": [
+    {
+      "data_seed": 0,
+      "full_test_rows": 338,
+      "full_P": 164,
+      "full_U": 174,
+      "common_mapped_rows": 336,
+      "mature_sequence_seen_rows": 5
+    },
+    {
+      "data_seed": 1,
+      "full_test_rows": 354,
+      "full_P": 177,
+      "full_U": 177,
+      "common_mapped_rows": 353,
+      "mature_sequence_seen_rows": 0
+    },
+    {
+      "data_seed": 2,
+      "full_test_rows": 328,
+      "full_P": 165,
+      "full_U": 163,
+      "common_mapped_rows": 324,
+      "mature_sequence_seen_rows": 0
+    }
+  ],
+  "classification_threshold": 0.5,
+  "aggregation": "Separate model metrics, mean training seeds within data, equal data average",
+  "paired_mean_intervals": {
+    "openai_large_minus_biolord_all_test": {
+      "delta": 0.05281502070383407,
+      "draws": 2000,
+      "interval_95": [
+        0.01825107088322192,
+        0.08808711668765869
+      ]
+    },
+    "openai_large_minus_jaccard_raw_all_test": {
+      "delta": 0.13301091425165915,
+      "draws": 2000,
+      "interval_95": [
+        0.0595768640282615,
+        0.20315106257316248
+      ]
+    },
+    "biolord_minus_jaccard_raw_all_test": {
+      "delta": 0.08019589354782508,
+      "draws": 2000,
+      "interval_95": [
+        0.006186383883212631,
+        0.1483386508381462
+      ]
+    },
+    "openai_large_minus_misim_common_mapped": {
+      "delta": 0.142733372030314,
+      "draws": 2000,
+      "interval_95": [
+        0.06343714202870791,
+        0.20969144203422835
+      ]
+    },
+    "biolord_minus_misim_common_mapped": {
+      "delta": 0.08957699674654025,
+      "draws": 2000,
+      "interval_95": [
+        0.007876431028165497,
+        0.15504991596540613
+      ]
+    },
+    "openai_large_minus_jaccard_mapped_common_mapped": {
+      "delta": 0.13223535571490552,
+      "draws": 2000,
+      "interval_95": [
+        0.05921364603589923,
+        0.1985752184582219
+      ]
+    },
+    "biolord_minus_jaccard_mapped_common_mapped": {
+      "delta": 0.07907898043113178,
+      "draws": 2000,
+      "interval_95": [
+        0.0038302873291390467,
+        0.1484883013466605
+      ]
+    }
+  },
+  "primary_seed_subset_requested_after_prior_five_seed_evaluation": true,
+  "model_search_started": false
+}

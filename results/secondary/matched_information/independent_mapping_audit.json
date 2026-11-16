@@ -1,0 +1,329 @@
+{
+  "status": "Independent read-only exact-MeSH matched-information protocol audit",
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "mapping": "NFKC, whitespace collapse, lowercase exact current Category-C MeSH preferred-descriptor match; no new aliases",
+  "common_information": "Unique canonical descriptor set at each endpoint, embedded as normalized lowercase canonical descriptor names",
+  "original_partition_membership_preserved": true,
+  "coverage_filter_applied_to_all_training_and_evaluation_roles": true,
+  "duplicates": [
+    {
+      "data_seed": 0,
+      "side": "a",
+      "duplicate_mapped_descriptor_entities": 0
+    },
+    {
+      "data_seed": 0,
+      "side": "b",
+      "duplicate_mapped_descriptor_entities": 0
+    },
+    {
+      "data_seed": 1,
+      "side": "a",
+      "duplicate_mapped_descriptor_entities": 0
+    },
+    {
+      "data_seed": 1,
+      "side": "b",
+      "duplicate_mapped_descriptor_entities": 0
+    },
+    {
+      "data_seed": 2,
+      "side": "a",
+      "duplicate_mapped_descriptor_entities": 0
+    },
+    {
+      "data_seed": 2,
+      "side": "b",
+      "duplicate_mapped_descriptor_entities": 0
+    }
+  ],
+  "coverage": [
+    {
+      "data_seed": 0,
+      "role": "train",
+      "original_rows": 15920,
+      "rows": 15711,
+      "P": 3894,
+      "U": 11817
+    },
+    {
+      "data_seed": 0,
+      "role": "test",
+      "original_rows": 338,
+      "rows": 336,
+      "P": 163,
+      "U": 173
+    },
+    {
+      "data_seed": 0,
+      "role": "0_fit",
+      "original_rows": 5681,
+      "rows": 5583,
+      "P": 1430,
+      "U": 4153
+    },
+    {
+      "data_seed": 0,
+      "role": "0_tune",
+      "original_rows": 626,
+      "rows": 624,
+      "P": 162,
+      "U": 462
+    },
+    {
+      "data_seed": 0,
+      "role": "1_fit",
+      "original_rows": 5716,
+      "rows": 5642,
+      "P": 1354,
+      "U": 4288
+    },
+    {
+      "data_seed": 0,
+      "role": "1_tune",
+      "original_rows": 666,
+      "rows": 657,
+      "P": 170,
+      "U": 487
+    },
+    {
+      "data_seed": 1,
+      "role": "train",
+      "original_rows": 16391,
+      "rows": 16190,
+      "P": 4040,
+      "U": 12150
+    },
+    {
+      "data_seed": 1,
+      "role": "test",
+      "original_rows": 354,
+      "rows": 353,
+      "P": 176,
+      "U": 177
+    },
+    {
+      "data_seed": 1,
+      "role": "0_fit",
+      "original_rows": 6220,
+      "rows": 6157,
+      "P": 1525,
+      "U": 4632
+    },
+    {
+      "data_seed": 1,
+      "role": "0_tune",
+      "original_rows": 710,
+      "rows": 701,
+      "P": 179,
+      "U": 522
+    },
+    {
+      "data_seed": 1,
+      "role": "1_fit",
+      "original_rows": 6230,
+      "rows": 6156,
+      "P": 1452,
+      "U": 4704
+    },
+    {
+      "data_seed": 1,
+      "role": "1_tune",
+      "original_rows": 418,
+      "rows": 417,
+      "P": 122,
+      "U": 295
+    },
+    {
+      "data_seed": 2,
+      "role": "train",
+      "original_rows": 15721,
+      "rows": 15532,
+      "P": 3871,
+      "U": 11661
+    },
+    {
+      "data_seed": 2,
+      "role": "test",
+      "original_rows": 328,
+      "rows": 324,
+      "P": 163,
+      "U": 161
+    },
+    {
+      "data_seed": 2,
+      "role": "0_fit",
+      "original_rows": 6115,
+      "rows": 6035,
+      "P": 1455,
+      "U": 4580
+    },
+    {
+      "data_seed": 2,
+      "role": "0_tune",
+      "original_rows": 684,
+      "rows": 675,
+      "P": 174,
+      "U": 501
+    },
+    {
+      "data_seed": 2,
+      "role": "1_fit",
+      "original_rows": 4868,
+      "rows": 4807,
+      "P": 1189,
+      "U": 3618
+    },
+    {
+      "data_seed": 2,
+      "role": "1_tune",
+      "original_rows": 847,
+      "rows": 833,
+      "P": 203,
+      "U": 630
+    }
+  ],
+  "profile_collisions": [
+    {
+      "data_seed": 0,
+      "training_role": "train",
+      "evaluation_role": "test",
+      "evaluation_rows": 336,
+      "a_shared_rows": 0,
+      "b_shared_rows": 8,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 0,
+      "b_entities_shared": 7,
+      "a_shared_profile_keys": 0,
+      "b_shared_profile_keys": 6
+    },
+    {
+      "data_seed": 0,
+      "training_role": "0_fit",
+      "evaluation_role": "0_tune",
+      "evaluation_rows": 624,
+      "a_shared_rows": 1,
+      "b_shared_rows": 3,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 1,
+      "b_entities_shared": 3,
+      "a_shared_profile_keys": 1,
+      "b_shared_profile_keys": 3
+    },
+    {
+      "data_seed": 0,
+      "training_role": "1_fit",
+      "evaluation_role": "1_tune",
+      "evaluation_rows": 657,
+      "a_shared_rows": 0,
+      "b_shared_rows": 13,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 0,
+      "b_entities_shared": 11,
+      "a_shared_profile_keys": 0,
+      "b_shared_profile_keys": 7
+    },
+    {
+      "data_seed": 1,
+      "training_role": "train",
+      "evaluation_role": "test",
+      "evaluation_rows": 353,
+      "a_shared_rows": 0,
+      "b_shared_rows": 2,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 0,
+      "b_entities_shared": 2,
+      "a_shared_profile_keys": 0,
+      "b_shared_profile_keys": 2
+    },
+    {
+      "data_seed": 1,
+      "training_role": "0_fit",
+      "evaluation_role": "0_tune",
+      "evaluation_rows": 701,
+      "a_shared_rows": 0,
+      "b_shared_rows": 6,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 0,
+      "b_entities_shared": 6,
+      "a_shared_profile_keys": 0,
+      "b_shared_profile_keys": 5
+    },
+    {
+      "data_seed": 1,
+      "training_role": "1_fit",
+      "evaluation_role": "1_tune",
+      "evaluation_rows": 417,
+      "a_shared_rows": 1,
+      "b_shared_rows": 1,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 1,
+      "b_entities_shared": 1,
+      "a_shared_profile_keys": 1,
+      "b_shared_profile_keys": 1
+    },
+    {
+      "data_seed": 2,
+      "training_role": "train",
+      "evaluation_role": "test",
+      "evaluation_rows": 324,
+      "a_shared_rows": 0,
+      "b_shared_rows": 3,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 0,
+      "b_entities_shared": 3,
+      "a_shared_profile_keys": 0,
+      "b_shared_profile_keys": 3
+    },
+    {
+      "data_seed": 2,
+      "training_role": "0_fit",
+      "evaluation_role": "0_tune",
+      "evaluation_rows": 675,
+      "a_shared_rows": 0,
+      "b_shared_rows": 6,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 0,
+      "b_entities_shared": 6,
+      "a_shared_profile_keys": 0,
+      "b_shared_profile_keys": 6
+    },
+    {
+      "data_seed": 2,
+      "training_role": "1_fit",
+      "evaluation_role": "1_tune",
+      "evaluation_rows": 833,
+      "a_shared_rows": 5,
+      "b_shared_rows": 3,
+      "both_shared_rows": 0,
+      "exact_oriented_profile_pair_shared_rows": 0,
+      "a_entities_shared": 3,
+      "b_entities_shared": 3,
+      "a_shared_profile_keys": 1,
+      "b_shared_profile_keys": 3
+    }
+  ],
+  "notes": [
+    "Individual reduced gene profiles can coincide across old partitions even when full original profiles were isolated.",
+    "No oriented pair of mapped endpoint profiles repeats across outer train/test or either inner fit/tune partition.",
+    "These checks do not establish absence of rounded 12-feature collisions; actual D12 arrays require a separate check.",
+    "Input filtering uses disease profiles and vocabulary only, without outcome labels. Labels enter coverage summaries after the mask is fixed."
+  ]
+}

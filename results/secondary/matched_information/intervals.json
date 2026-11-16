@@ -1,0 +1,75 @@
+{
+  "method": "2000 shared miRNA-group x gene-group Poisson paired resamples",
+  "grouping": "Global endpoint identity, original profile hash, restricted descriptor-set hash, and miRNA precursor",
+  "interpretation": "Conditional on the fitted models; three resplits of one mother cohort are dependent",
+  "mirtards_mean_aps_interval_95": [
+    0.5946729878446367,
+    0.7149489964706457
+  ],
+  "results": {
+    "0": {
+      "MISIM2010": {
+        "draws": 2000,
+        "interval_95": [
+          -0.022949817292834088,
+          0.23288074574261572
+        ]
+      },
+      "Jaccard": {
+        "draws": 2000,
+        "interval_95": [
+          -0.032593514121959336,
+          0.21579489413482267
+        ]
+      }
+    },
+    "1": {
+      "MISIM2010": {
+        "draws": 2000,
+        "interval_95": [
+          -0.06446341100712233,
+          0.1623866407573841
+        ]
+      },
+      "Jaccard": {
+        "draws": 2000,
+        "interval_95": [
+          -0.05514437714890124,
+          0.15498857491761253
+        ]
+      }
+    },
+    "2": {
+      "MISIM2010": {
+        "draws": 2000,
+        "interval_95": [
+          -0.055544191806580656,
+          0.18417986306063783
+        ]
+      },
+      "Jaccard": {
+        "draws": 2000,
+        "interval_95": [
+          -0.06260729919372246,
+          0.17280408259173502
+        ]
+      }
+    },
+    "mean": {
+      "MISIM2010": {
+        "draws": 2000,
+        "interval_95": [
+          0.0030750316638387264,
+          0.1456020319244404
+        ]
+      },
+      "Jaccard": {
+        "draws": 2000,
+        "interval_95": [
+          -0.0026528060100196723,
+          0.1341371099568915
+        ]
+      }
+    }
+  }
+}

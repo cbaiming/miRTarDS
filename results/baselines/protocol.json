@@ -1,0 +1,34 @@
+{
+  "methods": {
+    "MISIM2010_direct": "Wang2010 disease DAG and symmetric best-match averaging, delta0.5, adapted from miRNA-miRNA to miRNA-gene profiles",
+    "Jaccard_similarity": "Raw normalized disease-name set intersection divided by union, higher predicts observed P",
+    "Jaccard_mapped": "Intersection divided by union of the unique exact-MeSH descriptor sets used by MISIM; abstain on empty mapped endpoints."
+  },
+  "mapping": "Exact NFKC/lowercase/whitespace MeSH Category C names. No fuzzy aliases. Unmapped names omitted. Empty mapped endpoint means abstention/NaN.",
+  "primary_comparison": "Both complete-profile trained encoders, MISIM and explicit raw/mapped Jaccard scores on identical MeSH-covered candidates. Their disease-information scopes are stated separately.",
+  "full_cohort": "Both complete-profile miRTarDS encoders and raw-name Jaccard on all test candidates. MISIM missing scores are not imputed.",
+  "mesh": {
+    "filename": "raw_data/MeSH_Tree.csv",
+    "snapshot_version": "Version/date not recorded in the supplied CSV. Snapshot identified by SHA256; do not infer a MeSH release year.",
+    "sha256": "3b76b96e8020faee03235a9ecbb849352b394740aa680c51b911e14d66f3ff4b",
+    "bytes": 562953
+  },
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "model_selection": "Frozen miRTarDS predictor selected on earlier BioLORD development splits. No baseline fitting or threshold tuning.",
+  "metrics": "Class-balanced AP from tie-aware average precision with each class total mass0.5. Report raw AP and ROC-AUC separately.",
+  "selection_timing": "The data0/1/2 release subset was chosen after review of five exploratory resplits. Current classifier training seeds are0/1/2 for both primary encoders.",
+  "encoders": [
+    "biolord",
+    "openai_large"
+  ],
+  "secondary_matched_information": "results/secondary/matched_information: all three methods use the identical restricted MeSH descriptor sets; miRTarDS is retrained."
+}

@@ -1,0 +1,238 @@
+{
+  "completed_at_utc": "2026-08-21T09:56:45+00:00",
+  "concept_split": {
+    "counts": {
+      "dev": 2323,
+      "test": 3485,
+      "train": 17423
+    },
+    "fractions": {
+      "dev": 0.09999569540699926,
+      "test": 0.15001506607550255,
+      "train": 0.7499892385174982
+    },
+    "ic_bin_boundaries": [
+      0.793157136654582,
+      0.890720606018574,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "ratios_requested": {
+      "dev": 0.1,
+      "test": 0.15,
+      "train": 0.75
+    },
+    "root_assignments": {
+      "MONDO:0700096": "train"
+    },
+    "seed": 42,
+    "stratum_count": 160
+  },
+  "dataset_name": "MondoSBERT-v0 training splits",
+  "input_checksums_sha256": "9fc98633bcca671dcdf1dd37aa6f6bf01189e7b918a6976aca065bef272e3688",
+  "input_results_dir": "MondoDS-v0_v2026-08-04_seed42",
+  "node_count": 23231,
+  "pair_split": {
+    "canonical_pair_overlap_errors": {},
+    "counts": {
+      "dev_lexical_equivalence": 12517,
+      "dev_seen_seen": 39842,
+      "dev_seen_unseen": 216694,
+      "dev_unseen_unseen": 14663,
+      "test_lexical_equivalence_unseen": 18096,
+      "test_seen_seen": 39844,
+      "test_seen_unseen": 325793,
+      "test_unseen_unseen": 33153,
+      "train_natural": 506291,
+      "train_structural": 232396,
+      "train_synonyms": 75195,
+      "unused": 44040
+    },
+    "errors": [],
+    "excluded_normalized_synonym_count": 100,
+    "lexical_leakage_counts": {
+      "dev_concepts__test_concepts": 0,
+      "train_concepts__dev_concepts": 0,
+      "train_concepts__test_concepts": 0
+    },
+    "lexical_leakage_examples": {
+      "dev_concepts__test_concepts": [],
+      "train_concepts__dev_concepts": [],
+      "train_concepts__test_concepts": []
+    },
+    "outputs": {
+      "dev_lexical_equivalence": "dev_lexical_equivalence.tsv.gz",
+      "dev_seen_seen": "dev_seen_seen.tsv.gz",
+      "dev_seen_unseen": "dev_seen_unseen.tsv.gz",
+      "dev_unseen_unseen": "dev_unseen_unseen.tsv.gz",
+      "test_lexical_equivalence_unseen": "test_lexical_equivalence_unseen.tsv.gz",
+      "test_seen_seen": "test_seen_seen.tsv.gz",
+      "test_seen_unseen": "test_seen_unseen.tsv.gz",
+      "test_unseen_unseen": "test_unseen_unseen.tsv.gz",
+      "train_natural": "train_natural.tsv.gz",
+      "train_structural": "train_structural.tsv.gz",
+      "train_synonyms": "train_synonyms.tsv.gz"
+    },
+    "passed": true,
+    "relation_counts": {
+      "dev_lexical_equivalence": {
+        "exact_synonym_pair": 4326,
+        "identity": 2323,
+        "preferred_exact_synonym": 5868
+      },
+      "dev_seen_seen": {
+        "ancestor_descendant_distance_2_4": 2571,
+        "cousins": 2800,
+        "cross_top_level_branch": 2799,
+        "parent_child": 989,
+        "siblings": 2710,
+        "unconstrained_random": 27973
+      },
+      "dev_seen_unseen": {
+        "ancestor_descendant_distance_2_4": 16199,
+        "cousins": 15010,
+        "cross_top_level_branch": 14794,
+        "parent_child": 6187,
+        "siblings": 14901,
+        "unconstrained_random": 149603
+      },
+      "dev_unseen_unseen": {
+        "ancestor_descendant_distance_2_4": 1188,
+        "cousins": 1012,
+        "cross_top_level_branch": 991,
+        "parent_child": 486,
+        "siblings": 952,
+        "unconstrained_random": 10034
+      },
+      "test_lexical_equivalence_unseen": {
+        "exact_synonym_pair": 6165,
+        "identity": 3485,
+        "preferred_exact_synonym": 8446
+      },
+      "test_seen_seen": {
+        "ancestor_descendant_distance_2_4": 2524,
+        "cousins": 2943,
+        "cross_top_level_branch": 2779,
+        "parent_child": 949,
+        "siblings": 2746,
+        "unconstrained_random": 27903
+      },
+      "test_seen_unseen": {
+        "ancestor_descendant_distance_2_4": 24352,
+        "cousins": 22351,
+        "cross_top_level_branch": 22663,
+        "parent_child": 7363,
+        "siblings": 23490,
+        "unconstrained_random": 225574
+      },
+      "test_unseen_unseen": {
+        "ancestor_descendant_distance_2_4": 2771,
+        "cousins": 2218,
+        "cross_top_level_branch": 2201,
+        "parent_child": 728,
+        "siblings": 2597,
+        "unconstrained_random": 22638
+      },
+      "train_natural": {
+        "unconstrained_random": 506291
+      },
+      "train_structural": {
+        "ancestor_descendant_distance_2_4": 46715,
+        "cousins": 50712,
+        "cross_top_level_branch": 50817,
+        "identity": 17422,
+        "parent_child": 17349,
+        "siblings": 49381
+      },
+      "train_synonyms": {
+        "exact_synonym_pair": 31939,
+        "preferred_exact_synonym": 43256
+      }
+    },
+    "source_counts": {
+      "dev_lexical_equivalence": {
+        "structural": 2323,
+        "synonyms": 10194
+      },
+      "dev_seen_seen": {
+        "natural": 27973,
+        "structural": 11869
+      },
+      "dev_seen_unseen": {
+        "natural": 149603,
+        "structural": 67091
+      },
+      "dev_unseen_unseen": {
+        "natural": 10034,
+        "structural": 4629
+      },
+      "test_lexical_equivalence_unseen": {
+        "structural": 3485,
+        "synonyms": 14611
+      },
+      "test_seen_seen": {
+        "natural": 27903,
+        "structural": 11941
+      },
+      "test_seen_unseen": {
+        "natural": 225574,
+        "structural": 100219
+      },
+      "test_unseen_unseen": {
+        "natural": 22638,
+        "structural": 10515
+      },
+      "train_natural": {
+        "natural": 506291
+      },
+      "train_structural": {
+        "structural": 232396
+      },
+      "train_synonyms": {
+        "synonyms": 75195
+      }
+    }
+  },
+  "preparation_script_sha256": "0e5d0e71906c582640e3fed76d6e689a0901b633010a14706d32c16406ef0bdb",
+  "rank_triples": {
+    "counts": {
+      "easy": 60000,
+      "hard": 150000,
+      "medium": 90000
+    },
+    "eligible_anchor_count": 16434,
+    "requested": 300000,
+    "unique_triple_count": 300000,
+    "written": 300000
+  },
+  "seed": 42,
+  "started_at_utc": "2026-08-21T09:55:41+00:00",
+  "token_length_audit": {
+    "maximum": 79,
+    "mean": 10.93028849118739,
+    "minimum": 3,
+    "model_dir": "BioLORD-2023",
+    "p50": 10.0,
+    "p90": 17.0,
+    "p95": 20.0,
+    "p99": 25.0,
+    "p999": 35.0,
+    "selected_max_seq_length": 48,
+    "selection_rule": "smallest candidate with <=0.1% truncation",
+    "truncation_fraction": {
+      "128": 0.0,
+      "16": 0.11343537624727111,
+      "24": 0.012358622050643215,
+      "32": 0.0017514214882149068,
+      "48": 7.400372485415099e-05,
+      "64": 1.2333954142358498e-05,
+      "96": 0.0
+    },
+    "unique_text_count": 81077
+  }
+}

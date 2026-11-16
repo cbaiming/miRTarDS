@@ -1,0 +1,19 @@
+{
+  "public_formula_matches_paper": true,
+  "paper_doi": "10.1093/bioinformatics/btq241",
+  "paper_example_breast_neoplasms_DV": 2.625,
+  "descriptor_count": 5056,
+  "max_recurrence_checks": 38953,
+  "legacy_self_similarity_checks": 5056,
+  "random_disease_pairs": 64,
+  "random_profile_pairs": 32,
+  "empty_profile_legacy_warning": true,
+  "cwd_independent_import": true,
+  "public_baseline_scores_unchanged": true,
+  "legacy_source_after_sha256": "1e8704a8a19ecc3070515f6a84f302f69a9982bf8f0eba83905c247dc94364bc",
+  "legacy_counterexamples_before": {
+    "Breast Neoplasms": 1.380952380952381,
+    "Lung Neoplasms": 2.018181818181818,
+    "Abdomen, Acute": 1.6666666666666667
+  }
+}

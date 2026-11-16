@@ -1,0 +1,126 @@
+{
+  "mapping": {
+    "a": {
+      "entities": 172,
+      "unique_names": 802,
+      "unique_names_mapped": 626,
+      "profile_name_entries": 4551,
+      "profile_name_entries_mapped": 4132,
+      "entry_fraction": 0.9079323225664689,
+      "entity_fraction_quantiles": [
+        0.5,
+        0.8804477611940298,
+        0.9230769230769231,
+        1.0,
+        1.0
+      ],
+      "completely_mapped_entities": 61,
+      "unmapped_entities": 0
+    },
+    "b": {
+      "entities": 618,
+      "unique_names": 13816,
+      "unique_names_mapped": 2389,
+      "profile_name_entries": 122886,
+      "profile_name_entries_mapped": 39697,
+      "entry_fraction": 0.3230392396204612,
+      "entity_fraction_quantiles": [
+        0.0,
+        0.25,
+        0.3065591397849462,
+        0.361200616419165,
+        1.0
+      ],
+      "completely_mapped_entities": 2,
+      "unmapped_entities": 6
+    }
+  },
+  "overlap": {
+    "all_test_rows": 1020,
+    "common_rows": 1013,
+    "pairs_losing_shared_names": 369,
+    "lost_intersection_counts": 564,
+    "raw_overlap_zero": 189,
+    "raw_nonzero_but_mapped_overlap_zero": 5,
+    "completely_mapped_rows": 0
+  },
+  "semantic_uplift_by_label": {
+    "mean": {
+      "0": 0.21842582678528724,
+      "1": 0.2321342843658541
+    },
+    "median": {
+      "0": 0.2386460366427577,
+      "1": 0.24850054324182444
+    }
+  },
+  "equal_data_means": {
+    "identity_bma": 0.5764379971368622,
+    "mapped_jaccard": 0.5764379971368622,
+    "misim": 0.5659399808214537,
+    "raw_jaccard": 0.5770947270729213
+  },
+  "paired_intervals": {
+    "per_data": {
+      "0": {
+        "misim__raw_jaccard": [
+          -0.06420467156470162,
+          0.039279803912169196
+        ],
+        "mapped_jaccard__raw_jaccard": [
+          -0.04418138717535357,
+          0.04607317577066716
+        ],
+        "misim__mapped_jaccard": [
+          -0.05204547252374848,
+          0.022436796526110723
+        ]
+      },
+      "1": {
+        "misim__raw_jaccard": [
+          -0.054673185357903754,
+          0.06685329794936003
+        ],
+        "mapped_jaccard__raw_jaccard": [
+          -0.03300115766440157,
+          0.04733491416099313
+        ],
+        "misim__mapped_jaccard": [
+          -0.039878667232861174,
+          0.03786007126501732
+        ]
+      },
+      "2": {
+        "misim__raw_jaccard": [
+          -0.06682318616222677,
+          0.03061715087053095
+        ],
+        "mapped_jaccard__raw_jaccard": [
+          -0.04636059623783803,
+          0.02823855522942044
+        ],
+        "misim__mapped_jaccard": [
+          -0.05517453449001541,
+          0.03281719949001421
+        ]
+      }
+    },
+    "equal_data_mean": {
+      "misim__raw_jaccard": [
+        -0.040303347721964304,
+        0.023828331230609342
+      ],
+      "mapped_jaccard__raw_jaccard": [
+        -0.02409419912902782,
+        0.023576693200846405
+      ],
+      "misim__mapped_jaccard": [
+        -0.03154410455230441,
+        0.01528797459056531
+      ]
+    }
+  },
+  "mesh_descriptors": 5056,
+  "mesh_tree_addresses": 13180,
+  "note": "Fixed diagnostic comparisons on existing heldouts; no outcome-based mapping or parameter selection."
+}

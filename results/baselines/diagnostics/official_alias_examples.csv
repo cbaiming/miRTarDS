@@ -1,0 +1,2105 @@
+name,strict,descriptor,uid,gene_entities
+malignant neoplasms,False,Neoplasms,D009369,468
+breast carcinoma,False,Breast Neoplasms,D001943,412
+malignant neoplasm of breast,False,Breast Neoplasms,D001943,411
+colorectal carcinoma,False,Colorectal Neoplasms,D015179,351
+non-small cell lung carcinoma,True,"Carcinoma, Non-Small-Cell Lung",D002289,300
+alzheimer's disease,True,Alzheimer Disease,D000544,263
+glioblastoma multiforme,False,Glioblastoma,D005909,262
+mammary neoplasms,True,"Mammary Neoplasms, Animal",D015674,261
+pancreatic carcinoma,False,Pancreatic Neoplasms,D010190,256
+ovarian neoplasm,True,Ovarian Neoplasms,D010051,242
+"diabetes mellitus, non-insulin-dependent",True,"Diabetes Mellitus, Type 2",D003924,240
+rheumatoid arthritis,True,"Arthritis, Rheumatoid",D001172,234
+squamous cell carcinoma,True,"Carcinoma, Squamous Cell",D002294,232
+"leukemia, myelocytic, acute",True,"Leukemia, Myeloid, Acute",D015470,231
+renal cell carcinoma,True,"Carcinoma, Renal Cell",D002292,201
+bladder neoplasm,True,Urinary Bladder Neoplasms,D001749,199
+endometrial carcinoma,False,Endometrial Neoplasms,D016889,181
+cervical cancer,False,Uterine Cervical Neoplasms,D002583,179
+b-cell lymphomas,True,"Lymphoma, B-Cell",D016393,170
+cerebrovascular accident,True,Stroke,D020521,155
+squamous cell carcinoma of the head and neck,True,Squamous Cell Carcinoma of Head and Neck,D000077195,155
+congestive heart failure,False,Heart Failure,D006333,151
+chronic lymphocytic leukemia,True,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451,147
+coronary heart disease,True,Coronary Disease,D003327,146
+papillary thyroid carcinoma,True,"Thyroid Cancer, Papillary",D000077273,143
+ulcerative colitis,True,"Colitis, Ulcerative",D003093,142
+neurodegenerative disorders,True,Neurodegenerative Diseases,D019636,142
+coronary arteriosclerosis,False,Coronary Artery Disease,D003324,141
+chronic obstructive airway disease,True,"Pulmonary Disease, Chronic Obstructive",D029424,139
+"myeloid leukemia, chronic",True,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464,136
+"diabetes mellitus, insulin-dependent",True,"Diabetes Mellitus, Type 1",D003922,135
+"fibrosis, liver",False,Liver Cirrhosis,D008103,133
+acute lymphocytic leukemia,True,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198,132
+thyroid carcinoma,False,Thyroid Neoplasms,D013964,130
+epithelial ovarian cancer,True,"Carcinoma, Ovarian Epithelial",D000077216,130
+thyroid neoplasm,True,Thyroid Neoplasms,D013964,130
+diabetic nephropathy,True,Diabetic Nephropathies,D003928,128
+diffuse large b-cell lymphoma,True,"Lymphoma, Large B-Cell, Diffuse",D016403,123
+septicemia,False,Sepsis,D018805,122
+steatohepatitis,False,Fatty Liver,D005234,119
+systemic scleroderma,True,"Scleroderma, Systemic",D012595,117
+myelodysplastic syndrome,True,Myelodysplastic Syndromes,D009190,115
+chronic kidney diseases,False,"Renal Insufficiency, Chronic",D051436,114
+congenital abnormality,True,Congenital Abnormalities,D000013,107
+osteopenia,False,"Bone Diseases, Metabolic",D001851,104
+pancreatic neoplasm,True,Pancreatic Neoplasms,D010190,102
+metabolic syndrome x,True,Metabolic Syndrome,D024821,102
+benign prostatic hyperplasia,False,Prostatic Hyperplasia,D011470,101
+cirrhosis,False,Fibrosis,D005355,101
+"cardiomyopathy, familial idiopathic",False,"Cardiomyopathy, Dilated",D002311,101
+idiopathic pulmonary arterial hypertension,False,Familial Primary Pulmonary Hypertension,D065627,98
+nervous system disorder,True,Nervous System Diseases,D009422,97
+childhood medulloblastoma,False,Medulloblastoma,D008527,96
+adult medulloblastoma,False,Medulloblastoma,D008527,96
+"kidney failure, acute",False,Acute Kidney Injury,D058186,87
+malignant glioma,False,Glioma,D005910,87
+nephroblastoma,True,Wilms Tumor,D009396,87
+precursor cell lymphoblastic leukemia lymphoma,True,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198,86
+pneumonitis,False,Pneumonia,D011014,84
+renal carcinoma,True,"Carcinoma, Renal Cell",D002292,83
+ankylosing spondylitis,True,"Spondylitis, Ankylosing",D013167,80
+ewings sarcoma,True,"Sarcoma, Ewing",D012512,80
+middle cerebral artery occlusion,False,"Infarction, Middle Cerebral Artery",D020244,77
+gestational diabetes,True,"Diabetes, Gestational",D016640,77
+age related macular degeneration,False,Macular Degeneration,D008268,76
+acute monocytic leukemia,True,"Leukemia, Monocytic, Acute",D007948,76
+influenza,True,"Influenza, Human",D007251,75
+impaired glucose tolerance,True,Glucose Intolerance,D018149,74
+infection,True,Infections,D007239,74
+presenile dementia,False,Alzheimer Disease,D000544,72
+acute promyelocytic leukemia,True,"Leukemia, Promyelocytic, Acute",D015473,71
+t-cell lymphoma,True,"Lymphoma, T-Cell",D016399,68
+kaposi sarcoma,True,"Sarcoma, Kaposi",D012514,68
+aplasia cutis congenita,False,Ectodermal Dysplasia,D004476,66
+uterine fibroids,False,Leiomyoma,D007889,66
+anaplastic thyroid carcinoma,True,"Thyroid Carcinoma, Anaplastic",D065646,66
+"mammary carcinoma, human",False,Breast Neoplasms,D001943,65
+"mammary neoplasms, human",False,Breast Neoplasms,D001943,64
+intrahepatic cholangiocarcinoma,False,Cholangiocarcinoma,D018281,63
+noninfiltrating intraductal carcinoma,True,"Carcinoma, Intraductal, Noninfiltrating",D002285,63
+fibroid tumor,True,Leiomyoma,D007889,61
+patent ductus arteriosus,True,"Ductus Arteriosus, Patent",D004374,61
+laryngeal squamous cell carcinoma,False,Squamous Cell Carcinoma of Head and Neck,D000077195,60
+malignant mesothelioma,True,"Mesothelioma, Malignant",D000086002,60
+nonalcoholic steatohepatitis,False,Non-alcoholic Fatty Liver Disease,D065626,60
+precursor b-cell lymphoblastic leukemia,True,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,D015452,60
+benign neoplasm,False,Neoplasms,D009369,60
+myeloid leukemia,True,"Leukemia, Myeloid",D007951,59
+cervical intraepithelial neoplasia,True,Uterine Cervical Dysplasia,D002578,58
+iga glomerulonephritis,True,"Glomerulonephritis, IGA",D005922,58
+"lymphoma, non-hodgkin, familial",False,"Lymphoma, Non-Hodgkin",D008228,58
+primary biliary cirrhosis,False,"Liver Cirrhosis, Biliary",D008105,56
+acute pancreatitis,False,Pancreatitis,D010195,56
+mechanical allodynia,False,Hyperalgesia,D006930,55
+synovial sarcoma,True,"Sarcoma, Synovial",D013584,55
+cardiac arrest,True,Heart Arrest,D006323,55
+hearing impairment,True,Hearing Loss,D034381,53
+mantle cell lymphoma,True,"Lymphoma, Mantle-Cell",D020522,53
+hematopoietic neoplasms,False,Hematologic Neoplasms,D019337,52
+craniosynostosis,True,Craniosynostoses,D003398,52
+graft-vs-host disease,True,Graft vs Host Disease,D006086,52
+juvenile arthritis,True,"Arthritis, Juvenile",D001171,52
+malignant pleural mesothelioma,False,"Mesothelioma, Malignant",D000086002,51
+hyperlipidemia,True,Hyperlipidemias,D006949,51
+anoxia,False,Hypoxia,D000860,51
+congenital heart defects,True,"Heart Defects, Congenital",D006330,50
+epithelioma,True,Carcinoma,D002277,50
+"alcoholic intoxication, chronic",True,Alcoholism,D000437,50
+cardiac arrhythmia,True,"Arrhythmias, Cardiac",D001145,50
+adult hodgkin lymphoma,False,Hodgkin Disease,D006689,49
+"alzheimer disease, late onset",False,Alzheimer Disease,D000544,49
+left ventricular hypertrophy,True,"Hypertrophy, Left Ventricular",D017379,49
+malignant peripheral nerve sheath tumor,False,Neurofibrosarcoma,D018319,48
+endometrioma,False,Endometriosis,D004715,48
+ventricular septal defects,True,"Heart Septal Defects, Ventricular",D006345,48
+male infertility,True,"Infertility, Male",D007248,47
+"respiratory distress syndrome, adult",False,Respiratory Distress Syndrome,D012128,47
+"glaucoma, primary open angle",False,"Glaucoma, Open-Angle",D005902,47
+immune thrombocytopenic purpura,True,"Purpura, Thrombocytopenic, Idiopathic",D016553,47
+blast phase,True,Blast Crisis,D001752,47
+refractory anemias,True,"Anemia, Refractory",D000753,46
+miscarriage,False,"Abortion, Spontaneous",D000022,46
+kidney failure,False,Renal Insufficiency,D051437,46
+myopathy,True,Muscular Diseases,D009135,46
+undifferentiated carcinoma,False,Carcinoma,D002277,45
+ductal carcinoma,True,"Carcinoma, Ductal",D044584,45
+follicular thyroid carcinoma,True,"Adenocarcinoma, Follicular",D018263,45
+"b-cell malignancy, low-grade",True,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451,44
+merkel cell carcinoma,True,"Carcinoma, Merkel Cell",D015266,44
+peripheral neuropathy,True,Peripheral Nervous System Diseases,D010523,44
+drug abuse,False,Substance-Related Disorders,D019966,44
+kidney neoplasm,True,Kidney Neoplasms,D007680,44
+transient ischemic attack,True,"Ischemic Attack, Transient",D002546,43
+atrial septal defects,True,"Heart Septal Defects, Atrial",D006344,43
+hypertrophic cardiomyopathy,True,"Cardiomyopathy, Hypertrophic",D002312,43
+drug-induced liver disease,False,Chemical and Drug Induced Liver Injury,D056486,43
+melanocytic nevus,True,"Nevus, Pigmented",D009508,43
+adenoid cystic carcinoma,True,"Carcinoma, Adenoid Cystic",D003528,42
+germ cell tumor,False,"Neoplasms, Germ Cell and Embryonal",D009373,41
+steroid sulfatase deficiency disease,False,"Ichthyosis, X-Linked",D016114,41
+gastroesophageal reflux disease,True,Gastroesophageal Reflux,D005764,41
+dengue fever,True,Dengue,D003715,41
+primary sclerosing cholangitis,False,"Cholangitis, Sclerosing",D015209,40
+lymphoid leukemia,True,"Leukemia, Lymphoid",D007945,39
+macrocephaly,True,Megalencephaly,D058627,39
+"cleft palate, isolated",False,Cleft Palate,D002972,38
+focal glomerulosclerosis,True,"Glomerulosclerosis, Focal Segmental",D005923,38
+peripheral arterial diseases,True,Peripheral Arterial Disease,D058729,37
+anaplastic carcinoma,False,Carcinoma,D002277,36
+carotid atherosclerosis,False,Carotid Artery Diseases,D002340,36
+encephalopathies,False,Brain Diseases,D001927,35
+hematological disease,True,Hematologic Diseases,D006402,35
+"neoplasms, intracranial",False,Brain Neoplasms,D001932,35
+"ovarian failure, premature",True,Primary Ovarian Insufficiency,D016649,35
+malignant fibrous histiocytoma,True,"Histiocytoma, Malignant Fibrous",D051677,34
+epileptic seizures,False,Seizures,D012640,34
+well differentiated oligodendroglioma,False,Oligodendroglioma,D009837,34
+congenital heart disease,True,"Heart Defects, Congenital",D006330,34
+prostatic intraepithelial neoplasias,True,Prostatic Intraepithelial Neoplasia,D019048,33
+inflammatory breast carcinoma,True,Inflammatory Breast Neoplasms,D058922,33
+congenital diaphragmatic hernia,True,"Hernias, Diaphragmatic, Congenital",D065630,33
+hyperreflexia,False,"Reflex, Abnormal",D012021,33
+anaplastic astrocytoma,False,Astrocytoma,D001254,33
+senile plaques,False,"Plaque, Amyloid",D058225,32
+respiratory failure,False,Respiratory Insufficiency,D012131,32
+pulmonary hypertension,True,"Hypertension, Pulmonary",D006976,32
+membranous glomerulonephritis,True,"Glomerulonephritis, Membranous",D015433,32
+familial alzheimer disease (fad),False,Alzheimer Disease,D000544,32
+juvenile rheumatoid arthritis,True,"Arthritis, Juvenile",D001171,32
+peripheral t-cell lymphoma,True,"Lymphoma, T-Cell, Peripheral",D016411,32
+deformity,True,Congenital Abnormalities,D000013,32
+chronic graft-versus-host disease,False,Bronchiolitis Obliterans Syndrome,D000092122,31
+pterygium of conjunctiva and cornea,True,Pterygium,D011625,31
+right ventricular hypertrophy,True,"Hypertrophy, Right Ventricular",D017380,31
+sleep disorders,False,Sleep Wake Disorders,D012893,31
+alcoholic liver diseases,True,"Liver Diseases, Alcoholic",D008108,31
+"carcinoma, spindle-cell",False,Carcinoma,D002277,31
+urinary tract infection,True,Urinary Tract Infections,D014552,31
+mental retardation,True,Intellectual Disability,D008607,30
+"neuroectodermal tumor, primitive",True,"Neuroectodermal Tumors, Primitive",D018242,30
+aplastic anemia,True,"Anemia, Aplastic",D000741,30
+spinal muscular atrophy,True,"Muscular Atrophy, Spinal",D009134,30
+pituitary adenoma,False,Pituitary Neoplasms,D010911,30
+adult type dermatomyositis,False,Dermatomyositis,D003882,30
+visual seizure,False,Seizures,D012640,29
+hypoxic-ischemic encephalopathy,False,"Hypoxia-Ischemia, Brain",D020925,29
+hereditary nonpolyposis colorectal cancer,False,"Colorectal Neoplasms, Hereditary Nonpolyposis",D003123,29
+cerebral ventriculomegaly,False,Hydrocephalus,D006849,29
+mucosa-associated lymphoid tissue lymphoma,True,"Lymphoma, B-Cell, Marginal Zone",D018442,29
+mixed salivary gland tumor,True,"Adenoma, Pleomorphic",D008949,29
+uterine cervical neoplasm,True,Uterine Cervical Neoplasms,D002583,29
+"hepatitis, drug-induced",False,Chemical and Drug Induced Liver Injury,D056486,28
+von hippel-lindau syndrome,True,von Hippel-Lindau Disease,D006623,28
+high-grade squamous intraepithelial lesions,False,Squamous Intraepithelial Lesions,D000081483,28
+alcohol abuse,False,Alcoholism,D000437,28
+alcohol use disorder,False,Alcoholism,D000437,28
+carcinomatosis,False,Carcinoma,D002277,28
+biliary tract cancer,False,Biliary Tract Neoplasms,D001661,28
+chemically-induced liver toxicity,False,Chemical and Drug Induced Liver Injury,D056486,27
+mucoepidermoid carcinoma,True,"Carcinoma, Mucoepidermoid",D018277,27
+complications of diabetes mellitus,True,Diabetes Complications,D048909,27
+myotonic dystrophy 1,True,Myotonic Dystrophy,D009223,27
+drug-induced acute liver injury,False,Chemical and Drug Induced Liver Injury,D056486,27
+acute erythroblastic leukemia,True,"Leukemia, Erythroblastic, Acute",D004915,27
+henoch-schoenlein purpura,True,IgA Vasculitis,D011695,27
+"hepatitis, toxic",False,Chemical and Drug Induced Liver Injury,D056486,27
+follicular adenoma,False,Adenoma,D000236,27
+pilocytic astrocytoma,False,Astrocytoma,D001254,27
+memory loss,False,Memory Disorders,D008569,27
+neurologic symptoms,False,Neurologic Manifestations,D009461,27
+autoimmune chronic hepatitis,True,"Hepatitis, Autoimmune",D019693,27
+primary effusion lymphoma,True,"Lymphoma, Primary Effusion",D054685,27
+st segment elevation myocardial infarction,True,ST Elevation Myocardial Infarction,D000072657,26
+bicuspid aortic valve,True,Bicuspid Aortic Valve Disease,D000082882,26
+"hypercholesterolemia, familial",True,Hyperlipoproteinemia Type II,D006938,26
+"brain tumor, primary",False,Brain Neoplasms,D001932,26
+arthropathy,True,Joint Diseases,D007592,25
+acute cerebrovascular accidents,False,Stroke,D020521,25
+mucinous adenocarcinoma,True,"Adenocarcinoma, Mucinous",D002288,25
+cone-rod dystrophy 2,False,Cone-Rod Dystrophies,D000071700,25
+"seizures, focal",False,Seizures,D012640,25
+hypodontia,False,Anodontia,D000848,25
+deep vein thrombosis,False,Venous Thrombosis,D020246,25
+papillary renal cell carcinoma,False,"Carcinoma, Renal Cell",D002292,25
+embryonal rhabdomyosarcoma,True,"Rhabdomyosarcoma, Embryonal",D018233,25
+adrenal cortical adenoma,True,Adrenocortical Adenoma,D018246,25
+acoustic neuroma,True,"Neuroma, Acoustic",D009464,24
+acne,False,Acne Vulgaris,D000152,24
+visual impairment,False,Vision Disorders,D014786,24
+"adenocarcinoma, tubular",False,Adenocarcinoma,D000230,24
+drug dependence,False,Substance-Related Disorders,D019966,24
+autoimmune thyroiditis,True,"Thyroiditis, Autoimmune",D013967,24
+marinesco-sjogren syndrome,False,Spinocerebellar Degenerations,D013132,24
+severe sepsis,False,Sepsis,D018805,24
+experimental autoimmune encephalomyelitis,True,"Encephalomyelitis, Autoimmune, Experimental",D004681,24
+"melanoma, b16",False,"Melanoma, Experimental",D008546,24
+premature menopause,True,"Menopause, Premature",D008594,23
+"adenocarcinoma, oxyphilic",False,Adenocarcinoma,D000230,23
+myelofibrosis,True,Primary Myelofibrosis,D055728,23
+agnosia for pain,False,Agnosia,D000377,23
+adult oligodendroglioma,False,Oligodendroglioma,D009837,23
+childhood oligodendroglioma,False,Oligodendroglioma,D009837,23
+alveolar rhabdomyosarcoma,True,"Rhabdomyosarcoma, Alveolar",D018232,23
+rheumatism,True,Rheumatic Diseases,D012216,23
+generalized seizures,False,Seizures,D012640,23
+gastric ulcer,True,Stomach Ulcer,D013276,23
+pemphigus vulgaris,False,Pemphigus,D010392,23
+proliferative vitreoretinopathy,True,"Vitreoretinopathy, Proliferative",D018630,23
+actinic keratosis,True,"Keratosis, Actinic",D055623,23
+angioimmunoblastic lymphadenopathy,True,Immunoblastic Lymphadenopathy,D007119,23
+lobar pneumonia,False,Pneumonia,D011014,22
+portal hypertension,True,"Hypertension, Portal",D006975,22
+stable angina,True,"Angina, Stable",D060050,22
+conductive hearing loss,True,"Hearing Loss, Conductive",D006314,22
+nicotine dependence,False,Tobacco Use Disorder,D014029,22
+"carcinoma, cribriform",False,Adenocarcinoma,D000230,22
+miller dieker syndrome,False,Classical Lissencephalies and Subcortical Band Heterotopias,D054221,22
+"hyperalgesia, thermal",False,Hyperalgesia,D006930,22
+cyst,True,Cysts,D003560,22
+toxic epidermal necrolysis,False,Stevens-Johnson Syndrome,D013262,22
+progressive supranuclear palsy,True,"Supranuclear Palsy, Progressive",D013494,22
+"adenocarcinoma, basal cell",False,Adenocarcinoma,D000230,22
+hiv coinfection,False,HIV Infections,D015658,21
+cancer of nasopharynx,False,Nasopharyngeal Neoplasms,D009303,21
+autoimmune hepatitis,True,"Hepatitis, Autoimmune",D019693,21
+"carcinoma, granular cell",False,Adenocarcinoma,D000230,21
+convulsions,False,Seizures,D012640,21
+beta thalassemia,True,beta-Thalassemia,D017086,21
+breast fibrocystic disease,True,Fibrocystic Breast Disease,D005348,21
+hyperlipoproteinemia type iia,False,Hyperlipoproteinemia Type II,D006938,21
+peptic esophagitis,True,"Esophagitis, Peptic",D004942,21
+icterus,True,Jaundice,D007565,21
+absence seizures,False,Seizures,D012640,21
+febrile convulsions,True,"Seizures, Febrile",D003294,21
+juvenile-onset still disease,False,"Arthritis, Juvenile",D001171,21
+congenital clubfoot,True,Clubfoot,D003025,21
+dysplastic nevus,False,Dysplastic Nevus Syndrome,D004416,20
+embryonal carcinoma,True,"Carcinoma, Embryonal",D018236,20
+hypertrophic obstructive cardiomyopathy,False,"Cardiomyopathy, Hypertrophic",D002312,20
+cocaine dependence,False,Cocaine-Related Disorders,D019970,20
+extrahepatic cholangiocarcinoma,False,Cholangiocarcinoma,D018281,20
+animal mammary neoplasms,True,"Mammary Neoplasms, Animal",D015674,20
+idiopathic pulmonary hypertension,False,Familial Primary Pulmonary Hypertension,D065627,20
+leukoencephalopathy,True,Leukoencephalopathies,D056784,19
+"heart failure, right-sided",False,Heart Failure,D006333,19
+adenovirus infections,True,Adenoviridae Infections,D000257,19
+spina bifida,True,Spinal Dysraphism,D016135,19
+neoplastic cell transformation,True,"Cell Transformation, Neoplastic",D002471,19
+complex partial seizures,False,Seizures,D012640,19
+substance use disorders,False,Substance-Related Disorders,D019966,19
+juvenile myelomonocytic leukemia,True,"Leukemia, Myelomonocytic, Juvenile",D054429,19
+osteoarthritis of hip,True,"Osteoarthritis, Hip",D015207,19
+hypogonadotropic hypogonadism,False,Hypogonadism,D007006,19
+cavernous hemangioma of brain,False,"Hemangioma, Cavernous, Central Nervous System",D020786,19
+hyporeflexia,False,"Reflex, Abnormal",D012021,19
+paget disease extramammary,True,"Paget Disease, Extramammary",D010145,19
+bullous pemphigoid,True,"Pemphigoid, Bullous",D010391,19
+"mammary carcinoma, animal",False,"Mammary Neoplasms, Animal",D015674,19
+disease exacerbation,False,Disease Progression,D018450,19
+drug habituation,False,Substance-Related Disorders,D019966,19
+hurthle cell tumor,False,"Adenoma, Oxyphilic",D018249,19
+adenosquamous carcinoma,True,"Carcinoma, Adenosquamous",D018196,18
+dysautonomia,True,Autonomic Nervous System Diseases,D001342,18
+clonic seizures,False,Seizures,D012640,18
+grn-related frontotemporal dementia,True,Frontotemporal Dementia,D057180,18
+chronic granulomatous disease,True,"Granulomatous Disease, Chronic",D006105,18
+acute megakaryocytic leukemias,True,"Leukemia, Megakaryoblastic, Acute",D007947,18
+biliary cirrhosis,True,"Liver Cirrhosis, Biliary",D008105,18
+hairy cell leukemia,True,"Leukemia, Hairy Cell",D007943,18
+cytokine storm,False,Cytokine Release Syndrome,D000080424,18
+"diabetes, autoimmune",False,"Diabetes Mellitus, Type 1",D003922,18
+cutaneous mastocytosis,True,"Mastocytosis, Cutaneous",D034701,18
+medullary carcinoma,True,"Carcinoma, Medullary",D018276,18
+lynch syndrome,False,"Colorectal Neoplasms, Hereditary Nonpolyposis",D003123,18
+"adenocarcinoma, endometrioid",False,"Carcinoma, Endometrioid",D018269,18
+collecting duct carcinoma of the kidney,False,"Carcinoma, Renal Cell",D002292,18
+idiopathic inflammatory myopathies,False,Myositis,D009220,18
+paroxysmal atrial fibrillation,False,Atrial Fibrillation,D001281,18
+eating disorders,False,Feeding and Eating Disorders,D001068,18
+cocaine abuse,False,Cocaine-Related Disorders,D019970,17
+iron deficiency,True,Iron Deficiencies,D000090463,17
+chronic idiopathic urticaria,False,Chronic Urticaria,D000080223,17
+wheezing,False,Respiratory Sounds,D012135,17
+left-sided heart failure,False,Heart Failure,D006333,17
+adult-onset still disease,True,"Still's Disease, Adult-Onset",D016706,17
+sicca syndrome,False,Sjogren's Syndrome,D012859,17
+"cardiomyopathies, primary",False,Cardiomyopathies,D009202,17
+giant cell fibroblastoma,False,Dermatofibrosarcoma,D018223,17
+spontaneous abortion,True,"Abortion, Spontaneous",D000022,17
+marginal zone b-cell lymphoma,True,"Lymphoma, B-Cell, Marginal Zone",D018442,17
+fuchs endothelial dystrophy,True,Fuchs' Endothelial Dystrophy,D005642,17
+tonic seizures,False,Seizures,D012640,17
+dermatofibrosarcoma protuberans,True,Dermatofibrosarcoma,D018223,17
+parathyroid adenoma,False,Parathyroid Neoplasms,D010282,17
+aids related complex,True,AIDS-Related Complex,D000386,17
+"liposarcoma, dedifferentiated",False,Liposarcoma,D008080,17
+thymic carcinoma,False,Thymoma,D013945,17
+"cockayne syndrome, type i",False,Cockayne Syndrome,D003057,17
+neck neoplasms,False,Head and Neck Neoplasms,D006258,17
+malabsorption syndrome,True,Malabsorption Syndromes,D008286,17
+cerebral ischemia,False,Brain Ischemia,D002545,17
+brachycephaly,False,Craniosynostoses,D003398,16
+islet cell tumor,False,"Adenoma, Islet Cell",D007516,16
+joint laxity,False,Joint Instability,D007593,16
+japanese encephalitis,True,"Encephalitis, Japanese",D004672,16
+tactile allodynia,False,Hyperalgesia,D006930,16
+"condition, preneoplastic",False,Precancerous Conditions,D011230,16
+myocardial failure,False,Heart Failure,D006333,16
+heart decompensation,False,Heart Failure,D006333,16
+convulsive seizures,False,Seizures,D012640,16
+sudden infant death syndrome,True,Sudden Infant Death,D013398,16
+gestational trophoblastic neoplasms,False,Gestational Trophoblastic Disease,D031901,16
+interstitial cystitis,True,"Cystitis, Interstitial",D018856,16
+diaphragmatic hernia,True,"Hernia, Diaphragmatic",D006548,16
+androgenetic alopecia,False,Alopecia,D000505,16
+cerebral aneurysm,False,Intracranial Aneurysm,D002532,16
+cancer of digestive system,False,Digestive System Neoplasms,D004067,16
+chromophobe renal cell carcinoma,False,"Carcinoma, Renal Cell",D002292,16
+cooley's anemia,False,beta-Thalassemia,D017086,16
+myoclonic seizures,False,Seizures,D012640,16
+"alzheimer disease, early onset",False,Alzheimer Disease,D000544,16
+intestinal cancer,False,Intestinal Neoplasms,D007414,16
+gustatory seizure,False,Seizures,D012640,15
+"seizures, sensory",False,Seizures,D012640,15
+pancreatic intraductal papillary mucinous neoplasm,False,Pancreatic Intraductal Neoplasms,D000077779,15
+single seizure,False,Seizures,D012640,15
+cranial nerve palsies,False,Cranial Nerve Diseases,D003389,15
+olfactory seizure,False,Seizures,D012640,15
+generalized absence seizures,False,Seizures,D012640,15
+cardiac event,False,Cardiovascular Diseases,D002318,15
+"seizures, auditory",False,Seizures,D012640,15
+"lymphoma, large-cell, follicular",False,"Lymphoma, Follicular",D008224,15
+allergic reaction,False,Hypersensitivity,D006967,15
+alloxan diabetes,False,"Diabetes Mellitus, Experimental",D003921,15
+sarcomatoid renal cell carcinoma,False,"Carcinoma, Renal Cell",D002292,15
+painful bladder syndrome,False,"Cystitis, Interstitial",D018856,15
+"seizures, somatosensory",False,Seizures,D012640,15
+nonepileptic seizures,False,Seizures,D012640,15
+non-epileptic convulsion,False,Seizures,D012640,15
+autoimmune thrombocytopenia,True,"Purpura, Thrombocytopenic, Idiopathic",D016553,15
+necrotizing enterocolitis,True,"Enterocolitis, Necrotizing",D020345,15
+atonic absence seizures,False,Seizures,D012640,15
+substance dependence,False,Substance-Related Disorders,D019966,15
+squamous intraepithelial lesion,True,Squamous Intraepithelial Lesions,D000081483,15
+congenital defects,True,Congenital Abnormalities,D000013,15
+anaplastic oligodendroglioma,False,Oligodendroglioma,D009837,15
+"nephrotic syndrome, minimal change",False,"Nephrosis, Lipoid",D009402,15
+"myocardial diseases, secondary",False,Cardiomyopathies,D009202,15
+streptozotocin diabetes,False,"Diabetes Mellitus, Experimental",D003921,15
+chronic active hepatitis,False,"Hepatitis, Chronic",D006521,15
+hay fever,True,"Rhinitis, Allergic, Seasonal",D006255,15
+liver dysfunction,False,Liver Diseases,D008107,15
+fetal alcohol syndrome,False,Fetal Alcohol Spectrum Disorders,D063647,15
+muscular dystrophy,True,Muscular Dystrophies,D009136,15
+giant cell glioblastoma,False,Glioblastoma,D005909,15
+jacksonian seizure,False,Seizures,D012640,15
+isolated somatotropin deficiency,True,"Dwarfism, Pituitary",D004393,15
+vertiginous seizure,False,Seizures,D012640,15
+"abortion, tubal",False,"Abortion, Spontaneous",D000022,14
+congenital dysplasia of the hip,False,"Hip Dislocation, Congenital",D006618,14
+common migraine,True,Migraine without Aura,D020326,14
+juvenile psoriatic arthritis,False,"Arthritis, Juvenile",D001171,14
+libman-sacks disease,False,"Lupus Erythematosus, Systemic",D008180,14
+acute kidney insufficiency,False,Acute Kidney Injury,D058186,14
+early pregnancy loss,False,"Abortion, Spontaneous",D000022,14
+delayed puberty,True,"Puberty, Delayed",D011628,14
+solitary fibrous tumor,True,Solitary Fibrous Tumors,D054364,14
+shigella infections,False,"Dysentery, Bacillary",D004405,14
+"polyarthritis, juvenile, rheumatoid factor negative",False,"Arthritis, Juvenile",D001171,14
+paroxysmal nocturnal hemoglobinuria,False,"Hemoglobinuria, Paroxysmal",D006457,14
+acute myelomonocytic leukemia,True,"Leukemia, Myelomonocytic, Acute",D015479,14
+"polyarthritis, juvenile, rheumatoid factor positive",False,"Arthritis, Juvenile",D001171,14
+low vision,True,"Vision, Low",D015354,14
+atherogenesis,False,Atherosclerosis,D050197,14
+"alveolitis, fibrosing",False,Pulmonary Fibrosis,D011658,14
+avascular necrosis of bone,False,Osteonecrosis,D010020,14
+milroy disease,False,Lymphedema,D008209,13
+reticulosarcoma,False,"Lymphoma, Non-Hodgkin",D008228,13
+upper respiratory infections,False,Respiratory Tract Infections,D012141,13
+withdrawal symptoms,False,Substance Withdrawal Syndrome,D013375,13
+acute confusional senile dementia,False,Alzheimer Disease,D000544,13
+pulmonary stenosis,False,Pulmonary Valve Stenosis,D011666,13
+precocious puberty,True,"Puberty, Precocious",D011629,13
+hepatocellular adenoma,True,"Adenoma, Liver Cell",D018248,13
+mixed gliomas,False,Glioma,D005910,13
+uterine cancer,False,Uterine Neoplasms,D014594,13
+pleural tuberculosis,True,"Tuberculosis, Pleural",D014396,13
+primary immune deficiency disorder,True,Primary Immunodeficiency Diseases,D000081207,13
+"fibromatosis, aggressive",True,Desmoid Tumors,D018222,13
+monoclonal gammapathies,False,Paraproteinemias,D010265,13
+anterior uveitis,True,"Uveitis, Anterior",D014606,13
+"alzheimer's disease, focal onset",False,Alzheimer Disease,D000544,13
+bacterial endocarditis,True,"Endocarditis, Bacterial",D004697,13
+bacterial vaginosis,True,"Vaginosis, Bacterial",D016585,13
+"sarcoma, epithelioid",False,Sarcoma,D012509,13
+endometrial stromal sarcoma,True,"Sarcoma, Endometrial Stromal",D018203,13
+cortical dysplasia,False,Malformations of Cortical Development,D054220,13
+avascular necrosis of femur head,False,Femur Head Necrosis,D005271,13
+intracranial meningioma,False,Meningioma,D008579,13
+ichthyoses,True,Ichthyosis,D007057,13
+difficulty walking,False,Mobility Limitation,D051346,13
+tropical spastic paraparesis,True,"Paraparesis, Tropical Spastic",D015493,13
+clear cell sarcoma of soft tissue,True,"Sarcoma, Clear Cell",D018227,13
+dystrophia myotonica 2,False,Myotonic Dystrophy,D009223,13
+gilles de la tourette syndrome,True,Tourette Syndrome,D005879,13
+genitourinary cancer,False,Urogenital Neoplasms,D014565,13
+sebaceous adenocarcinoma,True,"Adenocarcinoma, Sebaceous",D018266,13
+"ataxia, spinocerebellar",True,Spinocerebellar Ataxias,D020754,13
+atherothrombosis,False,Thrombosis,D013927,13
+hip dysplasia,False,Hip Dislocation,D006617,13
+sleeplessness,False,Sleep Initiation and Maintenance Disorders,D007319,13
+yolk sac tumor,True,Endodermal Sinus Tumor,D018240,12
+postoperative cognitive dysfunction,True,Postoperative Cognitive Complications,D000079690,12
+iron deficiency anemia,True,"Anemia, Iron-Deficiency",D018798,12
+idiopathic membranous glomerulonephritis,False,"Glomerulonephritis, Membranous",D015433,12
+cerebral vasospasm,False,"Vasospasm, Intracranial",D020301,12
+nodular glomerulosclerosis,False,Diabetic Nephropathies,D003928,12
+autonomic nervous system disorders,True,Autonomic Nervous System Diseases,D001342,12
+cardiac hypertrophy,False,Cardiomegaly,D006332,12
+conn adenoma,False,Adrenocortical Adenoma,D018246,12
+myxoid cyst,True,Ganglion Cysts,D045888,12
+recurrent infections,False,Reinfection,D000084063,12
+angle closure glaucoma,True,"Glaucoma, Angle-Closure",D015812,12
+rous sarcoma,False,"Sarcoma, Avian",D001357,12
+benign meningioma,False,Meningioma,D008579,12
+desmoplastic medulloblastoma,False,Medulloblastoma,D008527,12
+spinocerebellar ataxia type 1,False,Spinocerebellar Ataxias,D020754,12
+"alopecia, male pattern",False,Alopecia,D000505,12
+somnolence,True,Sleepiness,D000077260,12
+optic atrophy 1,True,"Optic Atrophy, Autosomal Dominant",D029241,12
+opiate addiction,True,Opioid-Related Disorders,D009293,12
+dupuytren's disease,False,Dupuytren Contracture,D004387,12
+acute intermittent porphyria,True,"Porphyria, Acute Intermittent",D017118,12
+hemiparesis,False,Paresis,D010291,12
+inverted papilloma,True,"Papilloma, Inverted",D018308,11
+acinar cell carcinoma,True,"Carcinoma, Acinar Cell",D018267,11
+"sarcoma, spindle cell",False,Sarcoma,D012509,11
+toxic shock syndrome,False,"Shock, Septic",D012772,11
+acute interstitial pneumonia,True,Hamman-Rich Syndrome,D000080203,11
+sleep-disordered breathing,False,Sleep Apnea Syndromes,D012891,11
+"guillain-barre syndrome, familial",False,Guillain-Barre Syndrome,D020275,11
+sclerocystic ovaries,False,Polycystic Ovary Syndrome,D011085,11
+"epilepsy, cryptogenic",False,Epilepsy,D004827,11
+malignant meningioma,False,Meningioma,D008579,11
+"hepatoma, morris",False,"Liver Neoplasms, Experimental",D008114,11
+smoldering myeloma,True,Smoldering Multiple Myeloma,D000075122,11
+atypical lipoma,False,Lipoma,D008067,11
+nerve sheath tumors,True,Nerve Sheath Neoplasms,D018317,11
+mycoplasma pneumonia,True,"Pneumonia, Mycoplasma",D011019,11
+muscular fasciculation,True,Fasciculation,D005207,11
+pleomorphic xanthoastrocytoma,False,Astrocytoma,D001254,11
+"multiple sclerosis, acute fulminating",False,Multiple Sclerosis,D009103,11
+"subfertility, male",False,"Infertility, Male",D007248,11
+usual interstitial pneumonia,False,Idiopathic Pulmonary Fibrosis,D054990,11
+community acquired pneumonia,True,Community-Acquired Pneumonia,D000098968,11
+acquired hypogammaglobulinemia,False,Common Variable Immunodeficiency,D017074,11
+prostatic hypertrophy,False,Prostatic Hyperplasia,D011470,11
+regional enteritis,True,Crohn Disease,D003424,11
+sudden cardiac death,True,"Death, Sudden, Cardiac",D016757,11
+group b streptococcal infection,False,Streptococcal Infections,D013290,11
+hallopeau-siemens disease,False,Epidermolysis Bullosa Dystrophica,D016108,11
+infective endocarditis,False,Endocarditis,D004696,11
+central diabetes insipidus,True,"Diabetes Insipidus, Neurogenic",D020790,11
+polyneuropathy,True,Polyneuropathies,D011115,11
+creutzfeldt-jakob disease,True,Creutzfeldt-Jakob Syndrome,D007562,11
+contact dermatitis,True,"Dermatitis, Contact",D003877,11
+schwartz-jampel syndrome,False,Osteochondrodysplasias,D010009,11
+"hyperalgesia, secondary",False,Hyperalgesia,D006930,11
+cystic echinococcosis,False,Echinococcosis,D004443,11
+medullomyoblastoma,False,Medulloblastoma,D008527,10
+adamantinous craniopharyngioma,False,Craniopharyngioma,D003397,10
+multiple endocrine neoplasia type 2,True,Multiple Endocrine Neoplasia Type 2a,D018813,10
+chronic fatigue syndrome,True,"Fatigue Syndrome, Chronic",D015673,10
+plexiform neurofibroma,True,"Neurofibroma, Plexiform",D018318,10
+pleocytosis,False,Leukocytosis,D007964,10
+fibrodysplasia ossificans progressiva,False,Myositis Ossificans,D009221,10
+childhood ataxia with central nervous system hypomyelinization,False,Leukoencephalopathies,D056784,10
+pustulosis of palms and soles,False,Psoriasis,D011565,10
+intervertebral disk displacement,True,Intervertebral Disc Displacement,D007405,10
+"arthritis, collagen-induced",False,"Arthritis, Experimental",D001169,10
+allodynia,False,Hyperalgesia,D006930,10
+choroid plexus papilloma,True,"Papilloma, Choroid Plexus",D020288,10
+tubular aggregate myopathy,False,"Myopathies, Structural, Congenital",D020914,10
+"pneumonia, interstitial",False,"Lung Diseases, Interstitial",D017563,10
+mitral valve prolapse syndrome,True,Mitral Valve Prolapse,D008945,10
+stevens-johnson syndrome toxic epidermal necrolysis spectrum,False,Stevens-Johnson Syndrome,D013262,10
+"gait, unsteady",False,"Gait Disorders, Neurologic",D020233,10
+dystonia disorders,True,Dystonic Disorders,D020821,10
+petit mal status,False,Status Epilepticus,D013226,10
+extrinsic allergic alveolitis,True,"Alveolitis, Extrinsic Allergic",D000542,10
+amphetamine addiction,False,Amphetamine-Related Disorders,D019969,10
+perihilar cholangiocarcinoma,True,Klatskin Tumor,D018285,10
+"hyperalgesia, primary",False,Hyperalgesia,D006930,10
+hypersomnia,False,Disorders of Excessive Somnolence,D006970,10
+russell-silver syndrome,True,Silver-Russell Syndrome,D056730,10
+autoimmune hemolytic anemia,True,"Anemia, Hemolytic, Autoimmune",D000744,10
+"arthritis, adjuvant-induced",False,"Arthritis, Experimental",D001169,10
+"hepatoma, novikoff",False,"Liver Neoplasms, Experimental",D008114,10
+awakening epilepsy,False,Epilepsy,D004827,10
+barrett epithelium,False,Barrett Esophagus,D001471,10
+oral mucositis,False,Stomatitis,D013280,10
+incontinentia pigmenti achromians,False,Pigmentation Disorders,D010859,10
+drug toxicity,False,Drug-Related Side Effects and Adverse Reactions,D064420,10
+lyme arthritis,False,Lyme Disease,D008193,10
+germ cell cancer,False,"Neoplasms, Germ Cell and Embryonal",D009373,10
+aura,False,Epilepsy,D004827,10
+pemphigus foliaceus,False,Pemphigus,D010392,10
+carotid artery plaque,False,Carotid Stenosis,D016893,10
+subfertility,False,Infertility,D007246,9
+"liposarcoma, pleomorphic",False,Liposarcoma,D008080,9
+cervical dysplasia,True,Uterine Cervical Dysplasia,D002578,9
+absent reflex,False,"Reflex, Abnormal",D012021,9
+pulmonary artery stenosis,True,"Stenosis, Pulmonary Artery",D000071079,9
+postoperative delirium,True,Emergence Delirium,D000071257,9
+verrucous carcinoma,True,"Carcinoma, Verrucous",D018289,9
+"hyperglycemia, postprandial",False,Hyperglycemia,D006943,9
+lhermitte-duclos disease,False,"Hamartoma Syndrome, Multiple",D006223,9
+action tremor,False,Tremor,D014202,9
+insulin sensitivity,False,Insulin Resistance,D007333,9
+plasma cell neoplasm,True,"Neoplasms, Plasma Cell",D054219,9
+experimental lung inflammation,False,Pneumonia,D011014,9
+experimental hepatoma,False,"Liver Neoplasms, Experimental",D008114,9
+cancer of urinary tract,False,Urologic Neoplasms,D014571,9
+non-convulsive status epilepticus,False,Status Epilepticus,D013226,9
+gallbladder neoplasm,True,Gallbladder Neoplasms,D005706,9
+cartilaginous exostosis,True,Osteochondroma,D015831,9
+persistent atrial fibrillation,False,Atrial Fibrillation,D001281,9
+amebic colitis,True,"Dysentery, Amebic",D004404,9
+hypogammaglobulinemia,False,Agammaglobulinemia,D000361,9
+gastrointestinal stromal sarcoma,False,Gastrointestinal Stromal Tumors,D046152,9
+familial atrial fibrillation,False,Atrial Fibrillation,D001281,9
+staphylococcus aureus infection,False,Staphylococcal Infections,D013203,9
+tooth crowding,False,Malocclusion,D008310,9
+allergic conjunctivitis,True,"Conjunctivitis, Allergic",D003233,9
+bladder neck obstruction,True,Urinary Bladder Neck Obstruction,D001748,9
+laryngeal neoplasm,True,Laryngeal Neoplasms,D007822,9
+bilateral wilms tumor,False,Wilms Tumor,D009396,9
+spastic paraplegia,False,Paraplegia,D010264,9
+neuropsychiatric systemic lupus erythematosus,False,"Lupus Vasculitis, Central Nervous System",D020945,9
+oxyphilic adenoma,True,"Adenoma, Oxyphilic",D018249,9
+hereditary hemorrhagic telangiectasia,True,"Telangiectasia, Hereditary Hemorrhagic",D013683,9
+dentatorubral-pallidoluysian atrophy,False,"Myoclonic Epilepsies, Progressive",D020191,9
+drooling,False,Sialorrhea,D012798,9
+drug withdrawal symptoms,False,Substance Withdrawal Syndrome,D013375,9
+"diabetes mellitus, ketosis-prone",False,"Diabetes Mellitus, Type 1",D003922,9
+bradykinesia,False,Hypokinesia,D018476,9
+x-linked adrenal hypoplasia,False,"Hypoadrenocorticism, Familial",D000075262,9
+pseudomonas aeruginosa infection,False,Pseudomonas Infections,D011552,9
+diffuse scleroderma,True,"Scleroderma, Diffuse",D045743,9
+"disk, herniated",True,Intervertebral Disc Displacement,D007405,9
+viral encephalitis,True,"Encephalitis, Viral",D018792,9
+vesicoureteral reflux 1,False,Vesico-Ureteral Reflux,D014718,8
+pten hamartoma tumor syndrome,False,"Hamartoma Syndrome, Multiple",D006223,8
+"inclusion body myopathy, sporadic",False,"Myositis, Inclusion Body",D018979,8
+christ-siemens-touraine syndrome,True,"Ectodermal Dysplasia 1, Anhidrotic",D053358,8
+clubbed fingers,False,"Osteoarthropathy, Secondary Hypertrophic",D010005,8
+osteoarthrosis deformans,False,Osteoarthritis,D010003,8
+hypsarrhythmia,False,"Spasms, Infantile",D013036,8
+spinocerebellar ataxia type 2,False,Spinocerebellar Ataxias,D020754,8
+tick-borne encephalitis,True,"Encephalitis, Tick-Borne",D004675,8
+deficiency of glucose-6-phosphate dehydrogenase,True,Glucosephosphate Dehydrogenase Deficiency,D005955,8
+overactive bladder,True,"Urinary Bladder, Overactive",D053201,8
+dysphasia,False,Aphasia,D001037,8
+drug use disorders,False,Substance-Related Disorders,D019966,8
+simple partial status epilepticus,False,Status Epilepticus,D013226,8
+orofacial pain,False,Facial Pain,D005157,8
+tumoral calcinosis,False,Calcinosis,D002114,8
+transient cerebral ischemia,False,"Ischemic Attack, Transient",D002546,8
+"osteoporosis, age-related",False,Osteoporosis,D010024,8
+gemistocytic astrocytoma,False,Astrocytoma,D001254,8
+keratosis follicularis,True,Darier Disease,D007644,8
+hiv encephalopathy,False,AIDS Dementia Complex,D015526,8
+urinary stress incontinence,True,"Urinary Incontinence, Stress",D014550,8
+supraventricular tachycardia,True,"Tachycardia, Supraventricular",D013617,8
+raynaud phenomenon,False,Raynaud Disease,D011928,8
+chronic lung injury,False,Lung Injury,D055370,8
+chronic kidney insufficiency,True,"Renal Insufficiency, Chronic",D051436,8
+acute biphenotypic leukemia,True,"Leukemia, Biphenotypic, Acute",D015456,8
+grand mal status epilepticus,False,Status Epilepticus,D013226,8
+harlequin fetus,False,"Ichthyosis, Lamellar",D017490,8
+west syndrome,True,"Spasms, Infantile",D013036,8
+aortic valve disorder,True,Aortic Valve Disease,D000082862,8
+"apraxia, developmental verbal",False,Apraxias,D001072,8
+freckles,False,Melanosis,D008548,8
+mixed oligodendroglioma-astrocytoma,False,Oligodendroglioma,D009837,8
+polyglandular type i autoimmune syndrome,False,"Polyendocrinopathies, Autoimmune",D016884,8
+epithelioid hemangioendothelioma,True,"Hemangioendothelioma, Epithelioid",D018323,8
+macular holes,False,Retinal Perforations,D012167,8
+"status epilepticus, subclinical",False,Status Epilepticus,D013226,8
+stenosis,True,"Constriction, Pathologic",D003251,8
+ambiguous genitalia,False,Disorders of Sex Development,D012734,8
+alveolar soft part sarcoma,True,"Sarcoma, Alveolar Soft Part",D018234,8
+complex partial status epilepticus,False,Status Epilepticus,D013226,8
+esophageal varices,False,Esophageal and Gastric Varices,D004932,8
+"nephritis, tubulointerstitial",False,"Nephritis, Interstitial",D009395,8
+localized scleroderma,True,"Scleroderma, Localized",D012594,8
+burkitt leukemia,False,Burkitt Lymphoma,D002051,8
+"liposarcoma, well differentiated",False,Liposarcoma,D008080,8
+cutis marmorata,False,Livedo Reticularis,D054068,8
+"macular edema, cystoid",False,Macular Edema,D008269,8
+embryonal neoplasm,False,"Neoplasms, Germ Cell and Embryonal",D009373,8
+microcalcification,False,Calcinosis,D002114,8
+congenital mesoblastic nephroma,False,"Nephroma, Mesoblastic",D018201,8
+heart valve disease,True,Heart Valve Diseases,D006349,8
+enchondroma,False,Chondroma,D002812,8
+"hyper-immunoglobulin e syndrome, autosomal dominant",False,Job Syndrome,D007589,7
+"obesity, visceral",False,"Obesity, Abdominal",D056128,7
+"dermatomyositis, childhood type",False,Dermatomyositis,D003882,7
+optic neuropathy,True,Optic Nerve Diseases,D009901,7
+bright disease,False,Glomerulonephritis,D005921,7
+adrenal cancer,False,Adrenal Gland Neoplasms,D000310,7
+infantile spasm,True,"Spasms, Infantile",D013036,7
+infantile severe myoclonic epilepsy,False,"Epilepsies, Myoclonic",D004831,7
+"lymphoma, intermediate-grade",False,"Lymphoma, Non-Hodgkin",D008228,7
+x-linked lymphoproliferative disorder,False,Lymphoproliferative Disorders,D008232,7
+immunoblastic large-cell lymphoma,True,"Lymphoma, Large-Cell, Immunoblastic",D016400,7
+primary ciliary dyskinesia,False,Ciliary Motility Disorders,D002925,7
+"organic mental disorders, substance-induced",False,Substance-Related Disorders,D019966,7
+diffuse cutaneous leishmaniasis,True,"Leishmaniasis, Diffuse Cutaneous",D016774,7
+herpes encephalitis,True,"Encephalitis, Herpes Simplex",D020803,7
+"pain, burning",False,Pain,D010146,7
+oral candidiasis,True,"Candidiasis, Oral",D002180,7
+intraventricular meningioma,False,Meningioma,D008579,7
+glial scar,False,Gliosis,D005911,7
+sex differentiation disorders,False,Disorders of Sex Development,D012734,7
+senile dementia,True,Alzheimer Disease,D000544,7
+small lymphocytic lymphoma,True,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451,7
+basal cell cancer,False,"Neoplasms, Basal Cell",D018295,7
+diverticulosis,False,Diverticulum,D004240,7
+"diabetes mellitus, sudden-onset",True,"Diabetes Mellitus, Type 1",D003922,7
+renal artery stenosis,False,Renal Artery Obstruction,D012078,7
+steroid-sensitive nephrotic syndrome,False,Nephrotic Syndrome,D009404,7
+plasma cell dyscrasia,False,Paraproteinemias,D010265,7
+adenosis of breast,False,Fibrocystic Breast Disease,D005348,7
+"lymphoma, undifferentiated",False,"Lymphoma, Non-Hodgkin",D008228,7
+prolymphocytic leukemia,True,"Leukemia, Prolymphocytic",D015463,7
+"mental retardation, psychosocial",False,Intellectual Disability,D008607,7
+color vision defect,True,Color Vision Defects,D003117,7
+lipoid nephrosis,True,"Nephrosis, Lipoid",D009402,7
+hyperkinesia,True,Hyperkinesis,D006948,7
+congenital adrenal hyperplasia,True,"Adrenal Hyperplasia, Congenital",D000312,7
+mucocutaneous leishmaniasis,True,"Leishmaniasis, Mucocutaneous",D007897,7
+"lipomatosis, multiple",False,Lipoma,D008067,7
+anaplastic ependymoma,False,Ependymoma,D004806,7
+mental deficiency,False,Intellectual Disability,D008607,7
+"lymphoma, small noncleaved-cell",False,"Lymphoma, Non-Hodgkin",D008228,7
+"granulomatous disease, chronic, x-linked",False,"Granulomatous Disease, Chronic",D006105,7
+angiomatous meningioma,False,Meningioma,D008579,7
+prescription drug abuse,False,Substance-Related Disorders,D019966,7
+cerebellar dysmetria,False,Cerebellar Ataxia,D002524,7
+complete hydatidiform mole,False,Hydatidiform Mole,D006828,7
+neonatal hypotonia,False,Muscle Hypotonia,D009123,7
+"arteriovenous malformations, cerebral",False,Intracranial Arteriovenous Malformations,D002538,7
+"adenoma, microcystic",False,Adenoma,D000236,7
+amphetamine abuse,False,Amphetamine-Related Disorders,D019969,7
+"pheochromocytoma, extra-adrenal",False,Pheochromocytoma,D010673,7
+cornelia de lange syndrome,True,De Lange Syndrome,D003635,7
+rod-cone dystrophy,False,Cone-Rod Dystrophies,D000071700,7
+bulbar palsy,False,"Bulbar Palsy, Progressive",D010244,7
+becker muscular dystrophy,False,"Muscular Dystrophy, Duchenne",D020388,7
+spinal meningioma,False,Meningioma,D008579,7
+"eczema, infantile",False,"Dermatitis, Atopic",D003876,7
+secretory meningioma,False,Meningioma,D008579,7
+seborrheic keratosis,True,"Keratosis, Seborrheic",D017492,7
+cardioembolic stroke,False,Embolic Stroke,D000083262,7
+papillary craniopharyngioma,False,Craniopharyngioma,D003397,7
+juvenile myoclonic epilepsy,True,"Myoclonic Epilepsy, Juvenile",D020190,7
+pseudopelade,False,Alopecia,D000505,6
+"adenoma, trabecular",False,Adenoma,D000236,6
+ache,False,Pain,D010146,6
+"psychoses, drug",False,"Psychoses, Substance-Induced",D011605,6
+left ventricular systolic dysfunction,False,"Ventricular Dysfunction, Left",D018487,6
+parasagittal meningioma,False,Meningioma,D008579,6
+parainfluenza,False,Paramyxoviridae Infections,D018184,6
+parasitic infection,True,Parasitic Diseases,D010272,6
+"parkinson disease 2, autosomal recessive juvenile",False,Parkinsonian Disorders,D020734,6
+laryngospasm,True,Laryngismus,D007826,6
+spastic quadriplegia,False,Quadriplegia,D011782,6
+"biliary cirrhosis, primary, 1",False,"Liver Cirrhosis, Biliary",D008105,6
+biliary tract neoplasm,True,Biliary Tract Neoplasms,D001661,6
+sex cord-stromal tumor,True,Sex Cord-Gonadal Stromal Tumors,D018312,6
+septic shock,True,"Shock, Septic",D012772,6
+left middle cerebral artery infarction,False,"Infarction, Middle Cerebral Artery",D020244,6
+ocular toxoplasmosis,True,"Toxoplasmosis, Ocular",D014126,6
+"keratoconjunctivitis, vernal",False,"Conjunctivitis, Allergic",D003233,6
+functional gastrointestinal disorders,False,Gastrointestinal Diseases,D005767,6
+olfactory neuroblastoma,True,"Esthesioneuroblastoma, Olfactory",D018304,6
+tuberculoid leprosy,True,"Leprosy, Tuberculoid",D015441,6
+"pain, splitting",False,Pain,D010146,6
+basal cell neoplasm,True,"Neoplasms, Basal Cell",D018295,6
+"pain, crushing",False,Pain,D010146,6
+"pain, migratory",False,Pain,D010146,6
+nyctalopia,True,Night Blindness,D009755,6
+"osteoporosis, senile",False,Osteoporosis,D010024,6
+oligodontia,False,Anodontia,D000848,6
+hiatal hernia,True,"Hernia, Hiatal",D006551,6
+psammomatous meningioma,False,Meningioma,D008579,6
+viral meningitis,True,"Meningitis, Viral",D008587,6
+tobacco dependence,False,Tobacco Use Disorder,D014029,6
+"aneurysm, dissecting",True,Aortic Dissection,D000784,6
+mammary ductal carcinoma,False,"Carcinoma, Ductal, Breast",D018270,6
+fulminant hepatitis,False,Massive Hepatic Necrosis,D047508,6
+autosomal recessive polycystic kidney disease,True,"Polycystic Kidney, Autosomal Recessive",D017044,6
+peyronie disease,True,Penile Induration,D010411,6
+right middle cerebral artery infarction,False,"Infarction, Middle Cerebral Artery",D020244,6
+"ataxia, appendicular",False,Ataxia,D001259,6
+nail abnormality,False,"Nails, Malformed",D009264,6
+adrenal gland hypofunction,True,Adrenal Insufficiency,D000309,6
+african trypanosomiasis,True,"Trypanosomiasis, African",D014353,6
+steroid-resistant nephrotic syndrome,False,Nephrotic Syndrome,D009404,6
+excessive daytime sleepiness,False,Disorders of Excessive Somnolence,D006970,6
+rumination disorders,True,Rumination Syndrome,D000079562,6
+pertussis,True,Whooping Cough,D014917,6
+male sterility,False,"Infertility, Male",D007248,6
+secondary biliary cholangitis,False,"Liver Cirrhosis, Biliary",D008105,6
+papillary meningioma,False,Meningioma,D008579,6
+hereditary multiple exostoses,True,"Exostoses, Multiple Hereditary",D005097,6
+"tibial muscular dystrophy, tardive",False,Distal Myopathies,D049310,6
+medulloepithelioma,False,"Neuroectodermal Tumors, Primitive",D018242,6
+filarial elephantiases,True,"Elephantiasis, Filarial",D004605,6
+"epilepsy, benign psychomotor, childhood",False,"Epilepsy, Temporal Lobe",D004833,6
+"epilepsy, lateral temporal",False,"Epilepsy, Temporal Lobe",D004833,6
+papillary adenoma,False,Adenoma,D000236,6
+sphenoid wing meningioma,False,Meningioma,D008579,6
+atypical endometrial hyperplasia,False,Endometrial Hyperplasia,D004714,6
+intrahepatic cholestasis,True,"Cholestasis, Intrahepatic",D002780,6
+cow milk allergy,False,Milk Hypersensitivity,D016269,6
+"arnold-chiari malformation, type i",False,Arnold-Chiari Malformation,D001139,6
+conn syndrome,False,Hyperaldosteronism,D006929,6
+"embolic infarction, middle cerebral artery",False,"Infarction, Middle Cerebral Artery",D020244,6
+tension headache,True,Tension-Type Headache,D018781,6
+"thrombotic infarction, middle cerebral artery",False,"Infarction, Middle Cerebral Artery",D020244,6
+chronic interstitial cystitis,False,"Cystitis, Interstitial",D018856,6
+radiating pain,False,Pain,D010146,6
+renal hypertension,True,"Hypertension, Renal",D006977,6
+juvenile pilocytic astrocytoma,False,Astrocytoma,D001254,6
+hepatic form of wilson disease,False,Hepatolenticular Degeneration,D006527,6
+fibrous meningioma,False,Meningioma,D008579,6
+"mental retardation, x-linked",True,X-Linked Intellectual Disability,D038901,6
+gall bladder diseases,True,Gallbladder Diseases,D005705,6
+uncinate epilepsy,False,"Epilepsy, Temporal Lobe",D004833,6
+"adenoma, basal cell",False,Adenoma,D000236,6
+congenital cytomegalovirus infection,False,Cytomegalovirus Infections,D003586,6
+synovial osteochondromatosis,False,"Chondromatosis, Synovial",D015838,6
+"suffering, physical",False,Pain,D010146,6
+subependymal giant cell astrocytoma,False,Astrocytoma,D001254,6
+chronic q fever,False,Q Fever,D011778,6
+"adenoma, monomorphic",False,Adenoma,D000236,6
+internal carotid artery stenosis,False,Carotid Stenosis,D016893,6
+igg4-related sclerosing disease,False,Immunoglobulin G4-Related Disease,D000077733,6
+premature obstetric labor,True,"Obstetric Labor, Premature",D007752,6
+"meningiomas, multiple",False,Meningioma,D008579,6
+hematopoetic myelodysplasia,False,Myelodysplastic Syndromes,D009190,6
+pure red-cell aplasia,True,"Red-Cell Aplasia, Pure",D012010,6
+middle ear cholesteatoma,True,"Cholesteatoma, Middle Ear",D018424,6
+thrombus,False,Thrombosis,D013927,6
+"amyotrophic lateral sclerosis, guam form",False,Amyotrophic Lateral Sclerosis,D000690,6
+postherpetic neuralgia,True,"Neuralgia, Postherpetic",D051474,6
+middle cerebral artery embolus,False,"Infarction, Middle Cerebral Artery",D020244,6
+middle cerebral artery syndrome,False,"Infarction, Middle Cerebral Artery",D020244,6
+middle cerebral artery thrombosis,False,"Infarction, Middle Cerebral Artery",D020244,6
+absence epilepsy,True,"Epilepsy, Absence",D004832,6
+protoplasmic astrocytoma,False,Astrocytoma,D001254,5
+clostridium difficile infection,False,Clostridium Infections,D003015,5
+"lymphoma, diffuse",False,"Lymphoma, Non-Hodgkin",D008228,5
+"lymphoma, mixed-cell",False,"Lymphoma, Non-Hodgkin",D008228,5
+xanthomatous meningioma,False,Meningioma,D008579,5
+microcystic meningioma,False,Meningioma,D008579,5
+middle east respiratory syndrome,False,Coronavirus Infections,D018352,5
+anasarca,False,Edema,D004487,5
+morbilliform drug reaction,False,Drug Eruptions,D003875,5
+fibrillary astrocytoma,False,Astrocytoma,D001254,5
+fibromatosis,False,Fibroma,D005350,5
+familial retinoblastoma,False,Retinoblastoma,D012175,5
+mucopolysaccharidosis type iiia,False,Mucopolysaccharidosis III,D009084,5
+"multiple sclerosis, secondary progressive",False,"Multiple Sclerosis, Chronic Progressive",D020528,5
+mycoplasma-induced stevens-johnson syndrome,False,Stevens-Johnson Syndrome,D013262,5
+fasting hypoglycemia,False,Hypoglycemia,D007003,5
+female infertility,True,"Infertility, Female",D007247,5
+subependymal glioma,True,"Glioma, Subependymal",D018315,5
+hemorrhagic cystitis,True,"Cystitis, Hemorrhagic",D000096722,5
+tethered cord syndrome,False,Neural Tube Defects,D009436,5
+eye infection,True,Eye Infections,D015817,5
+astrocytosis,False,Gliosis,D005911,5
+arnold chiari malformation,True,Arnold-Chiari Malformation,D001139,5
+arsenic encephalopathy,False,Arsenic Poisoning,D020261,5
+arsenic induced polyneuropathy,False,Arsenic Poisoning,D020261,5
+"arsenic poisoning, inorganic",False,Arsenic Poisoning,D020261,5
+myoclonic epilepsy,True,"Epilepsies, Myoclonic",D004831,5
+hereditary nonpolyposis colorectal neoplasms,True,"Colorectal Neoplasms, Hereditary Nonpolyposis",D003123,5
+exfoliative dermatitis,True,"Dermatitis, Exfoliative",D003873,5
+narcolepsy-cataplexy syndrome,False,Narcolepsy,D009290,5
+nephrogenic diabetes insipidus,True,"Diabetes Insipidus, Nephrogenic",D018500,5
+"nervous system, organic arsenic poisoning",False,Arsenic Poisoning,D020261,5
+intraorbital meningioma,False,Meningioma,D008579,5
+"encephalopathy, toxic",False,Neurotoxicity Syndromes,D020258,5
+nonmedullary thyroid carcinoma,False,"Thyroid Cancer, Papillary",D000077273,5
+ependymoblastoma,False,"Neuroectodermal Tumors, Primitive",D018242,5
+mccune-albright syndrome,False,"Fibrous Dysplasia, Polyostotic",D005359,5
+fish-eye disease,False,Lecithin Cholesterol Acyltransferase Deficiency,D007863,5
+angioblastic meningioma,False,Meningioma,D008579,5
+histiocytoid hemangioma,False,Hemangioma,D006391,5
+"leiomyosarcoma, epithelioid",False,Leiomyosarcoma,D007890,5
+"hypophosphatemic rickets, x-linked dominant",False,Familial Hypophosphatemic Rickets,D053098,5
+soft tissue infection,True,Soft Tissue Infections,D018461,5
+oculomotor nerve paralysis,True,Oculomotor Nerve Diseases,D015840,5
+olfactory groove meningioma,False,Meningioma,D008579,5
+omenn syndrome,False,Severe Combined Immunodeficiency,D016511,5
+early onset periodontitis,True,Aggressive Periodontitis,D010520,5
+intravascular hemolysis,False,Hemolysis,D006461,5
+invasive candidiasis,True,"Candidiasis, Invasive",D058365,5
+globoid cell leukodystrophy,True,"Leukodystrophy, Globoid Cell",D007965,5
+toxic encephalitis,False,Neurotoxicity Syndromes,D020258,5
+transitional meningioma,False,Meningioma,D008579,5
+trigonocephaly,False,Craniosynostoses,D003398,5
+"tuberculosis, drug-resistant",False,"Tuberculosis, Multidrug-Resistant",D018088,5
+generalized thyroid hormone resistance,False,Thyroid Hormone Resistance Syndrome,D018382,5
+diabetic polyneuropathies,False,Diabetic Neuropathies,D003929,5
+drug-induced stevens johnson syndrome,False,Stevens-Johnson Syndrome,D013262,5
+diffuse mixed-cell lymphoma,False,"Lymphoma, Non-Hodgkin",D008228,5
+bloch sulzberger syndrome,True,Incontinentia Pigmenti,D007184,5
+osteitis fibrosa disseminata,True,Fibrous Dysplasia of Bone,D005357,5
+osteoid osteoma,True,"Osteoma, Osteoid",D010017,5
+palmoplantar keratosis,True,"Keratoderma, Palmoplantar",D007645,5
+bronchogenic carcinoma,True,"Carcinoma, Bronchogenic",D002283,5
+pathological fracture,True,"Fractures, Spontaneous",D005598,5
+seborrheic dermatitis,True,"Dermatitis, Seborrheic",D012628,5
+secondary hypothyroidism,False,Hypothyroidism,D007037,5
+adrenal gland hyperfunction,True,Adrenocortical Hyperfunction,D000308,5
+adult craniopharyngioma,False,Craniopharyngioma,D003397,5
+alport syndrome,False,"Nephritis, Hereditary",D009394,5
+malignant hypertension,True,"Hypertension, Malignant",D006974,5
+cancer of head,False,Head and Neck Neoplasms,D006258,5
+cannabis abuse,False,Marijuana Abuse,D002189,5
+saethre-chotzen syndrome,False,Acrocephalosyndactylia,D000168,5
+salaam seizures,False,"Spasms, Infantile",D013036,5
+cystic kidney,False,"Kidney Diseases, Cystic",D052177,5
+partial trisomy,False,Trisomy,D014314,5
+pineoblastoma,False,Pinealoma,D010871,5
+central nervous system infection,True,Central Nervous System Infections,D002494,5
+cerebral convexity meningioma,False,Meningioma,D008579,5
+restrictive cardiomyopathy,True,"Cardiomyopathy, Restrictive",D002313,5
+polyarthritis,False,Arthritis,D001168,5
+corneal dystrophy,True,"Corneal Dystrophies, Hereditary",D003317,5
+"lupus erythematosus, subacute cutaneous",False,"Lupus Erythematosus, Cutaneous",D008178,5
+heart murmur,True,Heart Murmurs,D006337,5
+acute monoblastic leukemia,True,"Leukemia, Monocytic, Acute",D007948,5
+hemangioblastic meningioma,False,Meningioma,D008579,5
+hemangiopericytic meningioma,False,Meningioma,D008579,5
+hematochezia,False,Gastrointestinal Hemorrhage,D006471,5
+complete trisomy 18 syndrome,False,Trisomy 18 Syndrome,D000073842,5
+contact hypersensitivity,False,"Dermatitis, Contact",D003877,5
+post-traumatic osteoporosis,False,Osteoporosis,D010024,5
+posterior fossa meningioma,False,Meningioma,D008579,5
+hypereosinophilia,False,Eosinophilia,D004802,5
+"hyperkinesia, generalized",False,Hyperkinesis,D006948,5
+renal tubular acidosis,True,"Acidosis, Renal Tubular",D000141,5
+classical phenylketonuria,False,Phenylketonurias,D010661,5
+clear cell meningioma,False,Meningioma,D008579,5
+central precocious puberty,False,"Puberty, Precocious",D011629,5
+central retinal vein occlusion,False,Retinal Vein Occlusion,D012170,5
+precursor t-cell lymphoblastic lymphoma,True,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,D054218,5
+pulmonary cystic fibrosis,False,Cystic Fibrosis,D003550,5
+pyemia,False,Sepsis,D018805,5
+"hallucinations, visual",False,Hallucinations,D006212,5
+adolescent obesity,False,Pediatric Obesity,D063766,5
+acute kidney tubular necrosis,True,"Kidney Tubular Necrosis, Acute",D007683,5
+"vitamin d-resistant rickets, x-linked",False,Familial Hypophosphatemic Rickets,D053098,5
+acrania,False,Neural Tube Defects,D009436,4
+venezuelan equine encephalomyelitis,True,"Encephalomyelitis, Venezuelan Equine",D004685,4
+van buchem disease,False,Osteochondrodysplasias,D010009,4
+widespread chronic pain,False,Chronic Pain,D059350,4
+von willebrand disease,True,von Willebrand Diseases,D014842,4
+acanthamoeba infection,False,Amebiasis,D000562,4
+"lymphoma, small cleaved-cell, follicular",False,"Lymphoma, Follicular",D008224,4
+"lymphoma, follicular, grade 3",False,"Lymphoma, Follicular",D008224,4
+"lymphoma, follicular, grade 1",False,"Lymphoma, Follicular",D008224,4
+lymph node tuberculosis,True,"Tuberculosis, Lymph Node",D014388,4
+granulomatous slack skin,False,"Lymphoma, T-Cell, Cutaneous",D016410,4
+granulocytic sarcoma,False,"Sarcoma, Myeloid",D023981,4
+head neoplasms,False,Head and Neck Neoplasms,D006258,4
+hamman-rich disease,True,Hamman-Rich Syndrome,D000080203,4
+little's disease,False,Cerebral Palsy,D002547,4
+malignant histiocytosis,False,Histiocytic Sarcoma,D054747,4
+hallervorden-spatz syndrome,True,Pantothenate Kinase-Associated Neurodegeneration,D006211,4
+grade i astrocytoma,False,Astrocytoma,D001254,4
+fukuyama type congenital muscular dystrophy,False,Walker-Warburg Syndrome,D058494,4
+"microangiopathy, diabetic",False,Diabetic Angiopathies,D003925,4
+meningococcal meningitis,True,"Meningitis, Meningococcal",D008585,4
+"memory disorder, spatial",False,Memory Disorders,D008569,4
+"memory disorder, semantic",False,Memory Disorders,D008569,4
+familial exudative vitreoretinopathy,True,Familial Exudative Vitreoretinopathies,D000080345,4
+mixed oligoastrocytoma,False,Astrocytoma,D001254,4
+female sterility,False,"Infertility, Female",D007247,4
+female genital diseases,True,"Genital Diseases, Female",D005831,4
+"multiple sclerosis, primary progressive",False,"Multiple Sclerosis, Chronic Progressive",D020528,4
+familial idiopathic pulmonary fibrosis,False,Idiopathic Pulmonary Fibrosis,D054990,4
+familial hemophagocytic lymphocytosis,False,"Lymphohistiocytosis, Hemophagocytic",D051359,4
+myoclonic astatic epilepsy,False,"Epilepsies, Myoclonic",D004831,4
+extrapyramidal disorders,False,Basal Ganglia Diseases,D001480,4
+exencephaly,False,Neural Tube Defects,D009436,4
+endometrial diseases,False,Uterine Diseases,D014591,4
+neurenteric cyst,False,Neural Tube Defects,D009436,4
+neonatal early-onset sepsis,False,Neonatal Sepsis,D000071074,4
+neonatal death,False,Perinatal Death,D066087,4
+neurogenic urinary bladder,True,"Urinary Bladder, Neurogenic",D001750,4
+eosinophilic leukemia,False,Hypereosinophilic Syndrome,D017681,4
+eosinophilic granulomatosis with polyangiitis,True,Churg-Strauss Syndrome,D015267,4
+nodular goiter,True,"Goiter, Nodular",D006044,4
+leptomeningeal neoplasms,False,Meningeal Neoplasms,D008577,4
+"leishmaniasis, new world",False,"Leishmaniasis, Cutaneous",D016773,4
+"leiomyosarcoma, myxoid",False,Leiomyosarcoma,D007890,4
+left ventricular diastolic dysfunction,False,"Ventricular Dysfunction, Left",D018487,4
+"dyskinesia, medication-induced",False,"Dyskinesia, Drug-Induced",D004409,4
+dysgraphia,False,Agraphia,D000381,4
+dyschondroplasias,False,Osteochondrodysplasias,D010009,4
+noonan syndrome 1,False,Noonan Syndrome,D009634,4
+ear inflammation,True,Otitis,D010031,4
+opioid abuse,False,Opioid-Related Disorders,D009293,4
+ophthalmoparesis,False,Ophthalmoplegia,D009886,4
+distal muscular dystrophies,True,Distal Myopathies,D049310,4
+ossifying fibroma,True,"Fibroma, Ossifying",D018214,4
+oropharyngeal dysphagia,False,Deglutition Disorders,D003680,4
+oxalosis,False,Hyperoxaluria,D006959,4
+ostium secundum atrial septal defect,False,"Heart Septal Defects, Atrial",D006344,4
+diastematomyelia,False,Neural Tube Defects,D009436,4
+heroin abuse,False,Heroin Dependence,D006556,4
+human granulocytic anaplasmosis,False,Anaplasmosis,D000712,4
+horseshoe kidney,False,Fused Kidney,D000069337,4
+"degenerative diseases, spinal cord",False,Neurodegenerative Diseases,D019636,4
+"degenerative diseases, central nervous system",False,Neurodegenerative Diseases,D019636,4
+dermatophytosis,True,Tinea,D014005,4
+dental diseases,False,Stomatognathic Diseases,D009057,4
+papillomatosis,False,Papilloma,D010212,4
+papillary adenocarcinoma,True,"Adenocarcinoma, Papillary",D000231,4
+pathologic neovascularization,True,"Neovascularization, Pathologic",D009389,4
+cystic kidney diseases,True,"Kidney Diseases, Cystic",D052177,4
+curling ulcer,False,Duodenal Ulcer,D004381,4
+perineurioma,False,Nerve Sheath Neoplasms,D018317,4
+craniorachischisis,False,Neural Tube Defects,D009436,4
+conotruncal anomaly face syndrome,False,DiGeorge Syndrome,D004062,4
+congenital thrombotic thrombocytopenic purpura,False,"Purpura, Thrombotic Thrombocytopenic",D011697,4
+phototoxicity,False,"Dermatitis, Phototoxic",D017484,4
+"pneumothorax, primary spontaneous",False,Pneumothorax,D011030,4
+compensatory hyperinsulinemia,False,Hyperinsulinism,D006946,4
+communicating hydrocephalus,False,Hydrocephalus,D006849,4
+"colorectal cancer, hereditary nonpolyposis, type 1",False,"Colorectal Neoplasms, Hereditary Nonpolyposis",D003123,4
+premature ventricular contractions,True,Ventricular Premature Complexes,D018879,4
+comatose,True,Coma,D003128,4
+chronic persistent hepatitis,False,"Hepatitis, Chronic",D006521,4
+punctate inner choroidopathy,False,White Dot Syndromes,D000080363,4
+chronic airflow obstruction,False,"Pulmonary Disease, Chronic Obstructive",D029424,4
+cerebral primitive neuroectodermal tumor,False,"Neuroectodermal Tumors, Primitive",D018242,4
+radiation syndrome,False,Radiation Injuries,D011832,4
+rachischisis,False,Spinal Dysraphism,D016135,4
+quadriparesis,False,Quadriplegia,D011782,4
+pyogenic granuloma,True,"Granuloma, Pyogenic",D017789,4
+cholera infantum,False,Gastrointestinal Diseases,D005767,4
+chlamydia pneumoniae infections,False,Chlamydophila Infections,D023521,4
+renal osteodystrophy,False,Chronic Kidney Disease-Mineral and Bone Disorder,D012080,4
+"reflex epilepsy, audiogenic",False,"Epilepsy, Reflex",D020195,4
+involuntary movements,False,Dyskinesias,D020820,4
+retrobulbar neuritis,False,Optic Neuritis,D009902,4
+cerebral astrocytoma,False,Astrocytoma,D001254,4
+cardiac carcinoma,False,Heart Neoplasms,D006338,4
+carcinoma of endocrine gland,False,Endocrine Gland Neoplasms,D004701,4
+cannabis dependence,False,Marijuana Abuse,D002189,4
+cancer of neck,False,Head and Neck Neoplasms,D006258,4
+"seizure, febrile, complex",False,"Seizures, Febrile",D003294,4
+sclerosing hemangioma,False,"Histiocytoma, Benign Fibrous",D018219,4
+shprintzen syndrome,False,DiGeorge Syndrome,D004062,4
+biliary calculi,True,Gallstones,D042882,4
+shwachman syndrome,True,Shwachman-Diamond Syndrome,D000081003,4
+bone marrow failure syndromes,True,Bone Marrow Failure Disorders,D000080983,4
+blood vessel tumors,False,"Neoplasms, Vascular Tissue",D009383,4
+bartter disease,True,Bartter Syndrome,D001477,4
+hypoxemia,False,Hypoxia,D000860,4
+hypopharyngeal cancer,False,Hypopharyngeal Neoplasms,D007012,4
+hypomenorrhea,False,Menstruation Disturbances,D008599,4
+autosomal dominant parkinsonism,False,Parkinsonian Disorders,D020734,4
+spinal cord myelodysplasia,False,Neural Tube Defects,D009436,4
+autoimmune lymphoproliferative syndrome type 2b,False,Autoimmune Lymphoproliferative Syndrome,D056735,4
+"sterility, postpartum",False,"Infertility, Female",D007247,4
+static tremor,False,Tremor,D014202,4
+squamous cell neoplasms,True,"Neoplasms, Squamous Cell",D018307,4
+"arthritis, bacterial",False,"Arthritis, Infectious",D001170,4
+"ataxia, sensory",False,Ataxia,D001259,4
+supravalvular aortic stenosis,True,"Aortic Stenosis, Supravalvular",D021921,4
+sudden cardiac arrest,False,"Death, Sudden, Cardiac",D016757,4
+"subfertility, female",False,"Infertility, Female",D007247,4
+"hypogonadism, isolated hypogonadotropic",False,Hypogonadism,D007006,4
+intracranial hemorrhage,True,Intracranial Hemorrhages,D020300,4
+intracranial arteriovenous malformation,True,Intracranial Arteriovenous Malformations,D002538,4
+anhydrotic ectodermal dysplasias,False,Ectodermal Dysplasia,D004476,4
+t-cell prolymphocytic leukemia,True,"Leukemia, Prolymphocytic, T-Cell",D015461,4
+t-cell large granular lymphocyte leukemia,False,"Leukemia, Large Granular Lymphocytic",D054066,4
+apert syndrome,False,Acrocephalosyndactylia,D000168,4
+thrombocytopenic purpura,True,"Purpura, Thrombocytopenic",D011696,4
+"teratoma, malignant",False,Teratoma,D013724,4
+angioma,False,Hemangioma,D006391,4
+tic disorder,True,Tic Disorders,D013981,4
+amyotrophic lateral sclerosis with dementia,False,Amyotrophic Lateral Sclerosis,D000690,4
+"alport syndrome, x-linked",False,"Nephritis, Hereditary",D009394,4
+adult rickets,True,Osteomalacia,D010018,4
+age-related memory disorders,False,Memory Disorders,D008569,4
+urethral stenosis,True,Urethral Stricture,D014525,4
+upper aerodigestive tract neoplasms,False,Head and Neck Neoplasms,D006258,4
+iniencephaly,False,Neural Tube Defects,D009436,4
+"infarction, lacunar",False,"Stroke, Lacunar",D059409,4
+infantile neuroaxonal dystrophy,False,Neuroaxonal Dystrophies,D019150,4
+inborn errors of metabolism,True,"Metabolism, Inborn Errors",D008661,4
+vertical talus,False,Flatfoot,D005413,4
+vitamin deficiency,False,Avitaminosis,D001361,4
+developmental academic disorder,False,Learning Disabilities,D007859,3
+delayed hypersensitivity,True,"Hypersensitivity, Delayed",D006968,3
+patau syndrome,True,Trisomy 13 Syndrome,D000073839,3
+venous engorgement,False,Hyperemia,D006940,3
+orthostatic headache,False,Headache,D006261,3
+orthopnea,False,Dyspnea,D004417,3
+cystathionine beta-synthase deficiency disease,False,Homocystinuria,D006712,3
+umbilical hernia,True,"Hernia, Umbilical",D006554,3
+idiopathic myoclonic epilepsy,False,"Epilepsies, Myoclonic",D004831,3
+idiopathic hypereosinophilic syndrome,False,Hypereosinophilic Syndrome,D017681,3
+active hyperemia,False,Hyperemia,D006940,3
+infantile neuronal ceroid lipofuscinosis,False,Neuronal Ceroid-Lipofuscinoses,D009472,3
+infantile colic,False,Colic,D003085,3
+industrial dermatosis,False,"Dermatitis, Occupational",D009783,3
+dural arteriovenous fistula,False,Central Nervous System Vascular Malformations,D020785,3
+cor pulmonale,True,Pulmonary Heart Disease,D011660,3
+congenital nephrogenic diabetes insipidus,False,"Diabetes Insipidus, Nephrogenic",D018500,3
+dyslipoproteinemias,False,Dyslipidemias,D050171,3
+phonophobia,False,Hyperacusis,D012001,3
+"polycystic kidney disease, type 2",False,"Polycystic Kidney, Autosomal Dominant",D016891,3
+echinococcus granulosus infection,False,Echinococcosis,D004443,3
+"early childhood epilepsy, myoclonic",False,"Epilepsies, Myoclonic",D004831,3
+pituitary dwarfism,True,"Dwarfism, Pituitary",D004393,3
+"polyposis, adenomatous intestinal",False,Adenomatous Polyposis Coli,D011125,3
+"tremor, rubral",False,Ataxia,D001259,3
+intracranial atherosclerosis,False,Intracranial Arteriosclerosis,D002537,3
+intracranial astrocytoma,False,Astrocytoma,D001254,3
+adult learning disorders,False,Learning Disabilities,D007859,3
+adrenomyeloneuropathy,False,Adrenoleukodystrophy,D000326,3
+alcohol problem,False,Alcohol-Related Disorders,D019973,3
+"eosinophilia, tropical",False,Eosinophilia,D004802,3
+entamoeba histolytica infection,False,Entamoebiasis,D004749,3
+"niemann-pick disease, type c1",False,"Niemann-Pick Disease, Type C",D052556,3
+nicotine use disorder,False,Tobacco Use Disorder,D014029,3
+endogenous hyperinsulinism,False,Hyperinsulinism,D006946,3
+endemic cretinism,False,Congenital Hypothyroidism,D003409,3
+eczema herpeticum,False,Kaposi Varicelliform Eruption,D007617,3
+keratoglobus,False,Keratoconus,D007640,3
+tendinosis,False,Tendinopathy,D052256,3
+total anomalous pulmonary venous return,False,Scimitar Syndrome,D012587,3
+"cockayne syndrome, type ii",False,Cockayne Syndrome,D003057,3
+posterior reversible encephalopathy syndrome,False,Posterior Leukoencephalopathy Syndrome,D054038,3
+classical lissencephaly,False,Classical Lissencephalies and Subcortical Band Heterotopias,D054221,3
+etat marbre,False,Movement Disorders,D009069,3
+"epilepsy, myoclonic, infantile",False,"Epilepsies, Myoclonic",D004831,3
+chronic kidney disease mineral and bone disorder,True,Chronic Kidney Disease-Mineral and Bone Disorder,D012080,3
+"chronic infantile neurological, cutaneous, and articular syndrome",False,Cryopyrin-Associated Periodic Syndromes,D056587,3
+nephrogenic systemic fibrosis,True,Nephrogenic Fibrosing Dermopathy,D054989,3
+primary amyloidosis,True,Immunoglobulin Light-chain Amyloidosis,D000075363,3
+"pseudohypoaldosteronism, type ii",False,Pseudohypoaldosteronism,D011546,3
+pseudogout,True,Chondrocalcinosis,D002805,3
+protein misfolding disorders,False,Proteostasis Deficiencies,D057165,3
+exogenous hyperinsulinism,False,Hyperinsulinism,D006946,3
+eumycetoma,False,Mycetoma,D008271,3
+myoclonic encephalopathy,False,"Epilepsies, Myoclonic",D004831,3
+myoclonic absence epilepsy,False,"Epilepsies, Myoclonic",D004831,3
+esophageal stricture,False,Esophageal Stenosis,D004940,3
+chronic prostatitis with chronic pelvic pain syndrome,False,Prostatitis,D011472,3
+anhidrosis,False,Hypohidrosis,D007007,3
+tendinitis,False,Tendinopathy,D052256,3
+lateral sclerosis,False,Motor Neuron Disease,D016472,3
+"hydrops fetalis, non-immune",False,Hydrops Fetalis,D015160,3
+"hydatidiform mole, partial",False,Hydatidiform Mole,D006828,3
+"hyalinosis, segmental glomerular",False,"Glomerulosclerosis, Focal Segmental",D005923,3
+analgesic overuse headache,False,"Headache Disorders, Secondary",D051271,3
+"thrombocytosis, autosomal dominant",False,"Thrombocythemia, Essential",D013920,3
+chromosome breaks,False,Chromosome Breakage,D019457,3
+"pseudohypoparathyroidism, type ia",False,Pseudohypoparathyroidism,D011547,3
+chloasma,False,Melanosis,D008548,3
+childhood cerebral astrocytoma,False,Astrocytoma,D001254,3
+multiple epiphyseal dysplasia,False,Osteochondrodysplasias,D010009,3
+multi-infarct dementia,True,"Dementia, Multi-Infarct",D015161,3
+mucolipidosis type iv,False,Mucolipidoses,D009081,3
+hospital acquired pneumonia,False,Healthcare-Associated Pneumonia,D000077299,3
+left ventricular outflow tract obstruction,True,"Ventricular Outflow Obstruction, Left",D000092242,3
+antibody deficiency syndrome,False,Immunologic Deficiency Syndromes,D007153,3
+anterior ischemic optic neuropathy,False,"Optic Neuropathy, Ischemic",D018917,3
+synovial hypertrophy,False,Synovitis,D013585,3
+synostotic posterior plagiocephaly,False,Craniosynostoses,D003398,3
+muckle-wells syndrome,False,Cryopyrin-Associated Periodic Syndromes,D056587,3
+familial atypical multiple mole-melanoma,False,Dysplastic Nevus Syndrome,D004416,3
+pulsatile tinnitus,False,Tinnitus,D014012,3
+cervix diseases,True,Uterine Cervical Diseases,D002577,3
+cerebral thrombosis,False,Intracranial Thrombosis,D020767,3
+cerebral hypoxia-ischemia,False,"Hypoxia-Ischemia, Brain",D020925,3
+reactive hypoglycemia,False,Hypoglycemia,D007003,3
+reactive hyperemia,False,Hyperemia,D006940,3
+aseptic meningitis,True,"Meningitis, Aseptic",D008582,3
+left main coronary artery disease,False,Coronary Artery Disease,D003324,3
+learning disturbance,False,Learning Disabilities,D007859,3
+learning disorders,False,Learning Disabilities,D007859,3
+rasmussen syndrome,False,Encephalitis,D004660,3
+radiation-induced cancer,False,"Neoplasms, Radiation-Induced",D009381,3
+cerebral atherosclerosis,False,Intracranial Arteriosclerosis,D002537,3
+cerebral abscess,False,Brain Abscess,D001922,3
+"cerebellar ataxia, early onset",False,Spinocerebellar Degenerations,D013132,3
+central sleep apnea syndrome,True,"Sleep Apnea, Central",D020182,3
+reiter syndrome,False,"Arthritis, Reactive",D016918,3
+right bundle branch block,False,Bundle-Branch Block,D002037,3
+familial nonmedullary thyroid cancer,False,"Thyroid Cancer, Papillary",D000077273,3
+familial intestinal polyposis,False,Adenomatous Polyposis Coli,D011125,3
+resting tremor,False,Tremor,D014202,3
+calcium pyrophosphate deposition disease,True,Chondrocalcinosis,D002805,3
+cardiopulmonary arrest,False,Heart Arrest,D006323,3
+lipoidosis,True,Lipidoses,D008064,3
+aspiration pneumonia,True,"Pneumonia, Aspiration",D011015,3
+symptomatic myoclonic epilepsy,False,"Epilepsies, Myoclonic",D004831,3
+sudden death,True,"Death, Sudden",D003645,3
+fibrinogen deficiency,False,Afibrinogenemia,D000347,3
+microangiopathic hemolytic anemia,False,"Anemia, Hemolytic",D000743,3
+metopic synostosis,False,Craniosynostoses,D003398,3
+morphea,False,"Scleroderma, Localized",D012594,3
+mixed dementia,True,Mixed Dementias,D000093902,3
+carditis,False,Myocarditis,D009205,3
+secondary parkinson disease,True,"Parkinson Disease, Secondary",D010302,3
+"cancer, embryonal",False,"Neoplasms, Germ Cell and Embryonal",D009373,3
+"micronuclei, genotoxicant-induced",False,"Micronuclei, Chromosome-Defective",D048629,3
+microlissencephaly,False,Microcephaly,D008831,3
+ascending aortic dissection,True,"Dissection, Ascending Aorta",D000094630,3
+"ataxia, truncal",False,Ataxia,D001259,3
+"hemangioma, intramuscular",False,Hemangioma,D006391,3
+semantic dementia,False,Frontotemporal Dementia,D057180,3
+blv infections,False,Deltaretrovirus Infections,D006800,3
+metabolic acidosis,False,Acidosis,D000138,3
+mesenchymal chondrosarcoma,True,"Chondrosarcoma, Mesenchymal",D018211,3
+bitemporal hemianopia,False,Hemianopsia,D006423,3
+bilateral cryptorchidism,False,Cryptorchidism,D003456,3
+beryllium disease,False,Berylliosis,D001607,3
+situs ambiguus,False,Heterotaxy Syndrome,D059446,3
+massive osteolyses,False,"Osteolysis, Essential",D010015,3
+genital herpes,True,Herpes Genitalis,D006558,3
+sinus histiocytosis,True,"Histiocytosis, Sinus",D015618,3
+stridor,False,Respiratory Sounds,D012135,3
+stippled epiphyses,True,Chondrodysplasia Punctata,D002806,3
+status dysraphicus,False,Spinal Dysraphism,D016135,3
+spontaneous pneumothorax,False,Pneumothorax,D011030,3
+healthcare associated pneumonia,True,Healthcare-Associated Pneumonia,D000077299,3
+spongioblastoma,False,"Neuroectodermal Tumors, Primitive",D018242,3
+benign infantile myoclonic epilepsy,False,"Epilepsies, Myoclonic",D004831,3
+banti's syndrome,True,Idiopathic Noncirrhotic Portal Hypertension,D000094724,3
+bannayan-riley-ruvalcaba syndrome,False,"Hamartoma Syndrome, Multiple",D006223,3
+spastic cerebral palsy,False,Cerebral Palsy,D002547,3
+malignant cystosarcoma phyllodes,False,Phyllodes Tumor,D003557,3
+maffucci syndrome,False,Enchondromatosis,D004687,3
+macular dystrophy,True,Macular Degeneration,D008268,3
+medullary neoplasms,False,Brain Stem Neoplasms,D020295,3
+autosomal recessive parkinsonism,False,Parkinsonian Disorders,D020734,3
+spondyloepiphyseal dysplasia,False,Osteochondrodysplasias,D010009,3
+"lymphoma, mixed-cell, follicular",False,"Lymphoma, Follicular",D008224,3
+"lymphoma, follicular, grade 2",False,"Lymphoma, Follicular",D008224,3
+hemoglobin f disease,False,beta-Thalassemia,D017086,3
+general paralysis,False,Neurosyphilis,D009494,3
+"gaucher disease, type 1",False,Gaucher Disease,D005776,3
+speech delay,False,Language Development Disorders,D007805,3
+dacryoadenitis,False,Dacryocystitis,D003607,3
+pachygyria,False,Lissencephaly,D054082,3
+diabetic neuralgia,False,Diabetic Neuropathies,D003929,3
+intraepithelial squamous cell carcinoma,True,Bowen's Disease,D001913,3
+hypothalamic dysfunction syndromes,False,Hypothalamic Diseases,D007027,3
+hypoplastic anemia,False,"Anemia, Aplastic",D000741,3
+type ii mucolipidosis,False,Mucolipidoses,D009081,3
+acute q fever,False,Q Fever,D011778,3
+"papilloma, squamous cell",False,Papilloma,D010212,3
+intrahepatic biliary atresia,False,Biliary Atresia,D001656,3
+zellweger spectrum,False,Zellweger Syndrome,D015211,2
+"down syndrome, partial trisomy 21",False,Down Syndrome,D004314,2
+internal carotid artery diseases,False,Carotid Artery Diseases,D002340,2
+achalasia,True,Esophageal Achalasia,D004931,2
+x-linked dyskeratosis congenita,False,Dyskeratosis Congenita,D019871,2
+"immunoglobulin deficiency, late-onset",False,Common Variable Immunodeficiency,D017074,2
+abdominal cryptorchidism,False,Cryptorchidism,D003456,2
+vertex headache,False,Headache,D006261,2
+cystic neoplasm,False,"Neoplasms, Cystic, Mucinous, and Serous",D018297,2
+"parkinsonism, juvenile",False,Parkinsonian Disorders,D020734,2
+"parkinsonism, experimental",False,Parkinsonian Disorders,D020734,2
+cryptogenic tonic-clonic epilepsy,False,"Epilepsy, Tonic-Clonic",D004830,2
+"craniosynostosis, type 1",False,Craniosynostoses,D003398,2
+alagille syndrome 1,False,Alagille Syndrome,D016738,2
+akinetic-rigid variant of huntington disease,False,Huntington Disease,D006816,2
+adult-onset vitelliform macular dystrophy,False,Vitelliform Macular Dystrophy,D057826,2
+intention tremor,False,Tremor,D014202,2
+visual agnosia,False,Agnosia,D000377,2
+"acid cholesteryl ester hydrolase deficiency, type 2",False,Wolman Disease,D015223,2
+waxy flexibility,False,Catalepsy,D002375,2
+acrocephaly,False,Craniosynostoses,D003398,2
+inguinal cryptorchidism,False,Cryptorchidism,D003456,2
+cranioosteoarthropathy,False,"Osteoarthropathy, Primary Hypertrophic",D010004,2
+odontome,False,Tooth Abnormalities,D014071,2
+"hearing loss, extreme",False,Deafness,D003638,2
+"autoimmune syndrome type ii, polyglandular",False,"Polyendocrinopathies, Autoimmune",D016884,2
+majewski syndrome,False,Short Rib-Polydactyly Syndrome,D012779,2
+gynandroblastoma,False,Sex Cord-Gonadal Stromal Tumors,D018312,2
+megaesophagus,False,Esophageal Achalasia,D004931,2
+"gait, shuffling",False,"Gait Disorders, Neurologic",D020233,2
+fungal eye infections,True,"Eye Infections, Fungal",D015821,2
+fulminant hepatic failure with cerebral edema,False,Hepatic Encephalopathy,D006501,2
+sotos' syndrome,True,Sotos Syndrome,D058495,2
+"atrophy, disuse",False,"Muscular Disorders, Atrophic",D020966,2
+b virus infection,False,Herpesviridae Infections,D006566,2
+autosome abnormalities,False,Chromosome Aberrations,D002869,2
+autosomal dominant juvenile parkinson disease,False,Parkinsonian Disorders,D020734,2
+"spondyloepiphyseal dysplasia tarda, x-linked",False,Osteochondrodysplasias,D010009,2
+spinocerebellar degeneration,True,Spinocerebellar Degenerations,D013132,2
+spinocerebellar ataxia type 7,False,Spinocerebellar Ataxias,D020754,2
+bilateral headache,False,Headache,D006261,2
+bilateral deafness,False,"Hearing Loss, Bilateral",D006312,2
+sirenomelia,False,Ectromelia,D004480,2
+genitourinary neoplasms,True,Urogenital Neoplasms,D014565,2
+focal clonic seizures,False,"Epilepsy, Partial, Motor",D020938,2
+flaccid muscle tone,False,Muscle Hypotonia,D009123,2
+fissured tongue,True,"Tongue, Fissured",D014063,2
+sinus tachycardia,True,"Tachycardia, Sinus",D013616,2
+staphylococcal pneumonia,True,"Pneumonia, Staphylococcal",D011023,2
+sporadic retinoblastoma,False,Retinoblastoma,D012175,2
+sporadic cerebral amyloid angiopathy,False,Cerebral Amyloid Angiopathy,D016657,2
+lobstein disease,False,Osteogenesis Imperfecta,D010013,2
+lobar holoprosencephaly,False,Holoprosencephaly,D016142,2
+hepatic vein thrombosis,False,Budd-Chiari Syndrome,D006502,2
+group a streptococcal infections,False,Streptococcal Infections,D013290,2
+"granular dystrophy, corneal",False,"Corneal Dystrophies, Hereditary",D003317,2
+hereditary motor and sensory neuropathies,True,Hereditary Sensory and Motor Neuropathy,D015417,2
+hereditary coproporphyria,True,"Coproporphyria, Hereditary",D046349,2
+"leukemia, monocytic, chronic",False,"Leukemia, Myeloid",D007951,2
+sideroblastic anemia,True,"Anemia, Sideroblastic",D000756,2
+sialuria,True,Sialic Acid Storage Disease,D029461,2
+"brain infarction, posterior circulation",False,Brain Infarction,D020520,2
+bone necrosis,True,Osteonecrosis,D010020,2
+bladder pain syndrome,False,"Cystitis, Interstitial",D018856,2
+sheehan syndrome,False,Hypopituitarism,D007018,2
+melnick-needles syndrome,False,Osteochondrodysplasias,D010009,2
+meleda disease,False,"Keratoderma, Palmoplantar",D007645,2
+metastatic dermatofibrosarcoma protuberans,False,Dermatofibrosarcoma,D018223,2
+mesencephalic neoplasms,False,Brain Stem Neoplasms,D020295,2
+sharp headache,False,Headache,D006261,2
+severe congenital microcephaly,False,Microcephaly,D008831,2
+"sensory neuropathy, hereditary",False,Hereditary Sensory and Autonomic Neuropathies,D009477,2
+branchio-oculo-facial syndrome,False,Branchio-Oto-Renal Syndrome,D019280,2
+milk-alkali syndrome,False,Hypercalcemia,D006934,2
+fibrous histiocytoma of tendon sheath,True,Giant Cell Tumor of Tendon Sheath,D000070779,2
+"fibromatosis, palmar",False,Dupuytren Contracture,D004387,2
+"brain stem neoplasms, primary",False,Brain Stem Neoplasms,D020295,2
+semilobar holoprosencephaly,False,Holoprosencephaly,D016142,2
+"arterial diseases, common carotid",False,Carotid Artery Diseases,D002340,2
+atelectasis,True,Pulmonary Atelectasis,D001261,2
+"ataxias, hereditary",False,Spinocerebellar Degenerations,D013132,2
+"ataxia, motor",False,Ataxia,D001259,2
+lipidemias,False,Hyperlipidemias,D006949,2
+linear scleroderma,False,"Scleroderma, Localized",D012594,2
+hermaphroditism,False,Disorders of Sex Development,D012734,2
+hemicrania,False,Headache,D006261,2
+heart neoplasm,True,Heart Neoplasms,D006338,2
+lupus meningoencephalitis,False,"Lupus Vasculitis, Central Nervous System",D020945,2
+central apnea,True,"Sleep Apnea, Central",D020182,2
+mononeuritis multiplex,False,Mononeuropathies,D020422,2
+fetal mummification,False,Fetal Death,D005313,2
+fetal malnutrition,False,Fetal Nutrition Disorders,D048070,2
+saldino-noonan syndrome,False,Short Rib-Polydactyly Syndrome,D012779,2
+"seizure, febrile, simple",False,"Seizures, Febrile",D003294,2
+secondary trigeminal neuralgia,False,Trigeminal Neuralgia,D014277,2
+secondary peritonitis,False,Peritonitis,D010538,2
+"schwartz-jampel syndrome, type 1",False,Osteochondrodysplasias,D010009,2
+"schwannomatosis, plexiform",False,Neurilemmoma,D009442,2
+"cancer, embryonal and mixed",False,"Neoplasms, Germ Cell and Embryonal",D009373,2
+bronchospasm,True,Bronchial Spasm,D001986,2
+bronchopulmonary aspergillosis,False,Pulmonary Aspergillosis,D055732,2
+broca aphasia,True,"Aphasia, Broca",D001039,2
+branchiootorenal syndrome 2,False,Branchio-Oto-Renal Syndrome,D019280,2
+branchiootorenal syndrome 1,False,Branchio-Oto-Renal Syndrome,D019280,2
+familial partial lipodystrophy,True,"Lipodystrophy, Familial Partial",D052496,2
+familial juvenile parkinsonism,False,Parkinsonian Disorders,D020734,2
+residual cancer,False,"Neoplasm, Residual",D018365,2
+central neurocytoma,False,Neurocytoma,D018306,2
+lesion of sciatic nerve,False,Sciatic Neuropathy,D020426,2
+leopard syndrome 1,False,LEOPARD Syndrome,D044542,2
+lenticulostriate disorders,False,Basal Ganglia Diseases,D001480,2
+lens opacities,False,Cataract,D002386,2
+hepatic stupor,False,Hepatic Encephalopathy,D006501,2
+hepatic ductular hypoplasia,False,Alagille Syndrome,D016738,2
+hepatic coma,False,Hepatic Encephalopathy,D006501,2
+hemophagocytic syndrome,False,"Lymphohistiocytosis, Hemophagocytic",D051359,2
+hemoglobin h disease,True,alpha-Thalassemia,D017085,2
+subacute bacterial endocarditis,True,"Endocarditis, Subacute Bacterial",D004698,2
+symphysis pubis dysfunction,False,Pelvic Girdle Pain,D059388,2
+subcortical infarction,False,Cerebral Infarction,D002544,2
+"huntington disease, late onset",False,Huntington Disease,D006816,2
+ramsay hunt paralysis syndrome,False,Parkinsonian Disorders,D020734,2
+radiculitis,False,Radiculopathy,D011843,2
+cerebral edema,False,Brain Edema,D001929,2
+"cerebral amyloid angiopathy, hereditary",False,"Cerebral Amyloid Angiopathy, Familial",D028243,2
+reproductive tract infection,True,Reproductive Tract Infections,D060737,2
+mps iii b,False,Mucopolysaccharidosis III,D009084,2
+"motor neuron disease, lower",False,Motor Neuron Disease,D016472,2
+"myasthenic syndromes, congenital, slow channel",False,"Myasthenic Syndromes, Congenital",D020294,2
+"myasthenia gravis, ocular",False,Myasthenia Gravis,D009157,2
+"reflex, corneal, decreased",False,"Reflex, Abnormal",D012021,2
+ruptured appendicitis,False,Appendicitis,D001064,2
+"rickets, x-linked hypophosphatemic",False,Familial Hypophosphatemic Rickets,D053098,2
+retro-ocular headache,False,Headache,D006261,2
+retinal pigment epithelial detachment,False,Retinal Detachment,D012163,2
+"familial partial lipodystrophy, type 2",False,"Lipodystrophy, Familial Partial",D052496,2
+familial cold urticaria,False,Cryopyrin-Associated Periodic Syndromes,D056587,2
+familial cerebral amyloid angiopathy,True,"Cerebral Amyloid Angiopathy, Familial",D028243,2
+familial benign neonatal epilepsy,False,"Epilepsy, Benign Neonatal",D020936,2
+pulmonary venous return anomaly,False,Scimitar Syndrome,D012587,2
+"pulmonary hypertension, primary, fenfluramine-associated",False,Familial Primary Pulmonary Hypertension,D065627,2
+tachyarrhythmia,False,Tachycardia,D013610,2
+systolic hypertension,False,Isolated Systolic Hypertension,D000092244,2
+systemic anaplastic large cell lymphoma,True,"Lymphoma, Large-Cell, Anaplastic",D017728,2
+arhinencephaly,False,Holoprosencephaly,D016142,2
+aqueductal stenosis,False,Hydrocephalus,D006849,2
+apraxia of phonation,False,Apraxias,D001072,2
+aphthous stomatitis,True,"Stomatitis, Aphthous",D013281,2
+"aphasia, progressive",False,Aphasia,D001037,2
+left ventricle remodeling,False,Ventricular Remodeling,D020257,2
+"hereditary sensory autonomic neuropathy, type 5",False,Hereditary Sensory and Autonomic Neuropathies,D009477,2
+"hereditary sensory autonomic neuropathy, type 2",False,Hereditary Sensory and Autonomic Neuropathies,D009477,2
+myelocele,False,Meningomyelocele,D008591,2
+external ophthalmoplegia,False,Ophthalmoplegia,D009886,2
+external carotid artery diseases,False,Carotid Artery Diseases,D002340,2
+human anaplasmosis,False,Anaplasmosis,D000712,2
+horizontal nystagmus,False,"Nystagmus, Pathologic",D009759,2
+hmn (hereditary motor neuropathy) proximal type i,False,Hereditary Sensory and Motor Neuropathy,D015417,2
+hidradenoma papilliferum,False,Tubular Sweat Gland Adenomas,D000074009,2
+heymann nephritis,False,"Glomerulonephritis, Membranous",D015433,2
+heterotopic ossification,True,"Ossification, Heterotopic",D009999,2
+anterior cerebral circulation infarction,False,Brain Infarction,D020520,2
+anoxic-ischemic encephalopathy,False,"Hypoxia-Ischemia, Brain",D020925,2
+"anoxia-ischemia, cerebral",False,"Hypoxia-Ischemia, Brain",D020925,2
+"anoxia-ischemia, brain",False,"Hypoxia-Ischemia, Brain",D020925,2
+mucinous neoplasm,False,"Neoplasms, Cystic, Mucinous, and Serous",D018297,2
+myelodysplastic syndrome acute myeloid leukemia,False,GATA2 Deficiency,D000077428,2
+familial dementia,False,Dementia,D003704,2
+prodromal stage,False,Prodromal Symptoms,D062706,2
+"pulmonary hypertension, primary, dexfenfluramine-associated",False,Familial Primary Pulmonary Hypertension,D065627,2
+anoxemia,False,Hypoxia,D000860,2
+juvenile huntington disease,False,Huntington Disease,D006816,2
+junctional epidermolysis bullosa,True,"Epidermolysis Bullosa, Junctional",D016109,2
+hyperopic astigmatism,False,Astigmatism,D001251,2
+"hyalinosis, systemic",True,Hyaline Fibromatosis Syndrome,D057770,2
+talipes equinovalgus,False,Equinus Deformity,D004863,2
+"angioma, cavernous",False,"Hemangioma, Cavernous",D006392,2
+"aneurysm, mycotic",False,"Aneurysm, Infected",D000785,2
+"pulmonary hypertension, primary, 1, with hereditary hemorrhagic telangiectasia",False,Familial Primary Pulmonary Hypertension,D065627,2
+"pulmonary hypertension, primary, 1",False,Familial Primary Pulmonary Hypertension,D065627,2
+pulmonary histiocytosis x,False,"Histiocytosis, Langerhans-Cell",D006646,2
+chronic alcoholic hepatitis,False,"Hepatitis, Alcoholic",D006519,2
+chorioangioma,False,Hemangioma,D006391,2
+chorea acanthocytosis syndrome,True,Neuroacanthocytosis,D054546,2
+chronic liver failure,False,End Stage Liver Disease,D058625,2
+prodromal period,False,Prodromal Symptoms,D062706,2
+"epilepsy, tonic-clonic, familial",False,"Epilepsy, Tonic-Clonic",D004830,2
+necrotizing fasciitis,True,"Fasciitis, Necrotizing",D019115,2
+myxopapillary ependymoma,False,Ependymoma,D004806,2
+myxofibroma,False,Fibroma,D005350,2
+"neuralgia, ilioinguinal",False,Neuralgia,D009437,2
+"neuralgia, iliohypogastric nerve",False,Neuralgia,D009437,2
+"neuralgia, atypical",False,Neuralgia,D009437,2
+nerve pain,False,Neuralgia,D009437,2
+primary cutaneous anaplastic large cell lymphoma,True,"Lymphoma, Primary Cutaneous Anaplastic Large Cell",D054446,2
+"pseudohypoaldosteronism, type i",False,Pseudohypoaldosteronism,D011546,2
+pseudoaphakia,False,Cataract,D002386,2
+prosthesis loosening,False,Prosthesis Failure,D011475,2
+prostatic adenoma,False,Prostatic Hyperplasia,D011470,2
+"epilepsy, tonic-clonic, symptomatic",False,"Epilepsy, Tonic-Clonic",D004830,2
+alobar holoprosencephaly,False,Holoprosencephaly,D016142,2
+alcoholic steatohepatitis,False,"Fatty Liver, Alcoholic",D005235,2
+tonic-clonic epilepsy,True,"Epilepsy, Tonic-Clonic",D004830,2
+todd paralysis,False,Paralysis,D010243,2
+cogwheel rigidity,False,Muscle Rigidity,D009127,2
+posterior vitreous detachment,False,Vitreous Detachment,D020255,2
+pontine tumors,False,Brain Stem Neoplasms,D020295,2
+primary adrenal insufficiency,True,Addison Disease,D000224,2
+prelingual deafness,False,Deafness,D003638,2
+"neoplasms, embryonal and mixed",False,"Neoplasms, Germ Cell and Embryonal",D009373,2
+neonatal jaundice,True,"Jaundice, Neonatal",D007567,2
+neurogenic muscular atrophy,False,Muscular Atrophy,D009133,2
+neurofibromatosis 3,False,Neurofibromatoses,D017253,2
+"neuroepithelioma, peripheral",True,"Neuroectodermal Tumors, Primitive, Peripheral",D018241,2
+chronic progressive external ophthalmoplegia,True,"Ophthalmoplegia, Chronic Progressive External",D017246,2
+chronic periaortitis,False,Retroperitoneal Fibrosis,D012185,2
+"neuralgia, vidian",False,Neuralgia,D009437,2
+"neuralgia, supraorbital",False,Neuralgia,D009437,2
+"neuralgia, stump",False,Neuralgia,D009437,2
+"neuralgia, perineal",False,Neuralgia,D009437,2
+nodular tenosynovitis,False,Giant Cell Tumor of Tendon Sheath,D000070779,2
+congenital dyserythropoietic anemia,True,"Anemia, Dyserythropoietic, Congenital",D000742,2
+polyostotic fibrous dysplasia,True,"Fibrous Dysplasia, Polyostotic",D005359,2
+throbbing headache,False,Headache,D006261,2
+hyperphosphaturia,False,"Hypophosphatemia, Familial",D007015,2
+keratosis blennorrhagica,False,Keratosis,D007642,2
+keratoma,False,Keratosis,D007642,2
+kallmann syndrome 1,False,Kallmann Syndrome,D017436,2
+juvenile spinal muscular atrophy,False,Spinal Muscular Atrophies of Childhood,D014897,2
+juvenile neuronal ceroid lipofuscinosis,False,Neuronal Ceroid-Lipofuscinoses,D009472,2
+testicular feminization,False,Androgen-Insensitivity Syndrome,D013734,2
+anterior circulation brain infarction,False,Brain Infarction,D020520,2
+pituitary carcinoma,False,Pituitary Neoplasms,D010911,2
+pontiac fever,False,Legionnaires' Disease,D007877,2
+complex endometrial hyperplasia,False,Endometrial Hyperplasia,D004714,2
+complete hearing loss,False,Deafness,D003638,2
+type i mucolipidosis,False,Mucolipidoses,D009081,2
+"trisomy 21, mitotic nondisjunction",False,Down Syndrome,D004314,2
+"trisomy 21, meiotic nondisjunction",False,Down Syndrome,D004314,2
+"trigeminal neuralgia, idiopathic",False,Trigeminal Neuralgia,D014277,2
+hypophosphatemic rickets,True,"Rickets, Hypophosphatemic",D063730,2
+intracavitary tumors of the heart,False,Heart Neoplasms,D006338,2
+hyperlipoproteinemia type iib,False,Hyperlipoproteinemia Type II,D006938,2
+"hypercholesterolemia, autosomal recessive",False,Hyperlipoproteinemia Type III,D006952,2
+altitude hypoxia,False,Altitude Sickness,D000532,2
+alagille syndrome 2,False,Alagille Syndrome,D016738,2
+"congenital myasthenic syndromes, presynaptic",False,"Myasthenic Syndromes, Congenital",D020294,2
+"congenital myasthenic syndromes, postsynaptic",False,"Myasthenic Syndromes, Congenital",D020294,2
+congenital nonbullous ichthyosiform erythroderma,True,"Ichthyosis, Lamellar",D017490,2
+"dystonia, primary",False,Dystonic Disorders,D020821,2
+"dystonia, limb",False,Dystonia,D004421,2
+noise-induced hearing loss,True,"Hearing Loss, Noise-Induced",D006317,2
+"dyskinesias, paroxysmal",False,Chorea,D002819,2
+dysesthesia,False,Paresthesia,D010292,2
+pigeon breeder's lung,False,Bird Fancier's Lung,D001716,2
+phosphate diabetes,False,"Hypophosphatemia, Familial",D007015,2
+polymorphic reticulosis,False,"Granuloma, Lethal Midline",D006103,2
+polyglandular type iii autoimmune syndrome,False,"Polyendocrinopathies, Autoimmune",D016884,2
+"polycystic kidney, type 1 autosomal dominant disease",False,"Polycystic Kidney, Autosomal Dominant",D016891,2
+pleomorphic lipoma,False,Lipoma,D008067,2
+"neuroma, acoustic, bilateral",False,Neurofibromatosis 2,D016518,2
+neurologic signs,False,Neurologic Manifestations,D009461,2
+eccrine poroma,False,Poroma,D057091,2
+early awakening,False,Sleep Initiation and Maintenance Disorders,D007319,2
+ocular rosacea,False,Rosacea,D012393,2
+ocular headache,False,Headache,D006261,2
+occipital encephalocele,False,Encephalocele,D004677,2
+distal renal tubular acidosis,False,"Acidosis, Renal Tubular",D000141,2
+duodenal cancer,False,Duodenal Neoplasms,D004379,2
+duchenne and becker muscular dystrophy,False,"Muscular Dystrophy, Duchenne",D020388,2
+drug allergy,True,Drug Hypersensitivity,D004342,2
+oral dyskinesia,False,Dyskinesias,D020820,2
+pathological dilatation,True,"Dilatation, Pathologic",D004108,2
+pfeiffer syndrome,False,Acrocephalosyndactylia,D000168,2
+pfaundler-hurler syndrome,False,Mucopolysaccharidosis I,D008059,2
+coronary artery vasospasm,True,Coronary Vasospasm,D003329,2
+cornelia de lange syndrome 1,False,De Lange Syndrome,D003635,2
+periorbital headache,False,Headache,D006261,2
+congenital pain insensitivity,True,"Pain Insensitivity, Congenital",D000699,2
+congenital osteopetrosis,False,Osteopetrosis,D010022,2
+xanthoma,False,Xanthomatosis,D014973,2
+"deafness, acquired",False,Deafness,D003638,2
+deaf mutism,False,Deafness,D003638,2
+immediate hypersensitivity,True,"Hypersensitivity, Immediate",D006969,2
+pancreatic islet cell tumors,False,"Adenoma, Islet Cell",D007516,2
+dengue shock syndrome,False,Severe Dengue,D019595,2
+immune reconstitution syndrome,True,Immune Reconstitution Inflammatory Syndrome,D054019,2
+degenerative intervertebral discs,False,Intervertebral Disc Degeneration,D055959,2
+osteopetrosis autosomal dominant type 2,False,Osteopetrosis,D010022,2
+urinary schistosomiasis,False,Schistosomiasis haematobia,D012553,2
+unilateral cryptorchidism,False,Cryptorchidism,D003456,2
+ventral hernia,True,"Hernia, Ventral",D006555,2
+"venous infarction, brain",False,Brain Infarction,D020520,2
+variegate porphyria,True,"Porphyria, Variegate",D046350,2
+"vertigo, paroxysmal",False,Vertigo,D014717,2
+ornithine carbamoyltransferase deficiency,True,Ornithine Carbamoyltransferase Deficiency Disease,D020163,2
+generalized headache,False,Headache,D006261,2
+spinocerebellar ataxia type 5,False,Spinocerebellar Ataxias,D020754,2
+paroxysmal nerve pain,False,Neuralgia,D009437,2
+opioid use disorder,False,Opioid-Related Disorders,D009293,2
+opiate abuse,False,Opioid-Related Disorders,D009293,2
+vitamin d-resistant rickets,False,"Rickets, Hypophosphatemic",D063730,2
+voice fatigue,False,Voice Disorders,D014832,2
+"tyrosinemia, type i",False,Tyrosinemias,D020176,2
+acute inflammatory demyelinating polyneuropathy,False,Guillain-Barre Syndrome,D020275,2
+usher syndrome,True,Usher Syndromes,D052245,2
+indolent systemic mastocytosis,False,"Mastocytosis, Systemic",D034721,2
+dental white spot,False,Dental Caries,D003731,2
+dental fluorosis,True,"Fluorosis, Dental",D009050,2
+dent's disease,True,Dent Disease,D057973,2
+parasomnia,True,Parasomnias,D020447,2
+parainfluenza virus infections,False,Paramyxoviridae Infections,D018184,2
+writer's cramp,False,Dystonic Disorders,D020821,1
+acampomelic campomelic dysplasia,False,Campomelic Dysplasia,D055036,1
+"acanthoma, clear cell",False,Acanthoma,D049309,1
+waardenburg syndrome type 1,False,Waardenburg Syndrome,D014849,1
+water stress,False,Dehydration,D003681,1
+wernicke-korsakoff syndrome,True,Korsakoff Syndrome,D020915,1
+acute basophilic leukemia,True,"Leukemia, Basophilic, Acute",D015471,1
+acute bacterial prostatitis,False,Prostatitis,D011472,1
+"acquired metabolic diseases, nervous system",False,"Brain Diseases, Metabolic",D001928,1
+acquired meningomyelocele,False,Meningomyelocele,D008591,1
+intestinal schistosomiasis,False,Schistosomiasis mansoni,D012555,1
+vasogenic brain edema,False,Brain Edema,D001929,1
+vasogenic cerebral edema,False,Brain Edema,D001929,1
+vasovagal syncope,True,"Syncope, Vasovagal",D019462,1
+verbal auditory hallucinations,False,Hallucinations,D006212,1
+unconscious state,True,Unconsciousness,D014474,1
+unilateral hypotonia,False,Muscle Hypotonia,D009123,1
+urge incontinence,True,"Urinary Incontinence, Urge",D053202,1
+adhesive capsulitis,False,Bursitis,D002062,1
+adiadochokinesis,False,Cerebellar Ataxia,D002524,1
+adolescent gynecomastia,False,Gynecomastia,D006177,1
+acute inferior myocardial infarction,False,Inferior Wall Myocardial Infarction,D056989,1
+vanishing white matter disease,False,Leukoencephalopathies,D056784,1
+typhus,False,"Typhus, Epidemic Louse-Borne",D014438,1
+hysterical amnesia,False,Amnesia,D000647,1
+"intracranial hypotension, secondary",False,Intracranial Hypotension,D019585,1
+desmoplastic fibroma,True,"Fibroma, Desmoplastic",D018220,1
+developmental coxa vara,False,Coxa Vara,D060905,1
+developmental reading disorder,False,Dyslexia,D004410,1
+"deafness, sudden",False,"Hearing Loss, Sudden",D003639,1
+"deficiency, hexosediphosphatase",False,"Fructose-1,6-Diphosphatase Deficiency",D015319,1
+diverticular bleeding,False,Diverticular Diseases,D000076385,1
+"double outlet right ventricle, noncommitted vsd",False,Double Outlet Right Ventricle,D004310,1
+"double outlet right ventricle, subaortic vsd",False,Double Outlet Right Ventricle,D004310,1
+"double outlet right ventricle, subpulmonary vsd",False,Double Outlet Right Ventricle,D004310,1
+organoid nevus phakomatosis,False,"Nevus, Sebaceous of Jadassohn",D054000,1
+pancreatic vipoma,True,Vipoma,D003969,1
+papillary ependymoma,False,Ependymoma,D004806,1
+papulopustular rosacea,False,Rosacea,D012393,1
+parakeratosis variegata,False,Parapsoriasis,D010267,1
+"paralysis, unilateral, vocal cord",False,Vocal Cord Paralysis,D014826,1
+"paraneoplastic cerebellar degeneration, anti-yo-associated",False,Paraneoplastic Cerebellar Degeneration,D020362,1
+diabetic mononeuropathy,False,Diabetic Neuropathies,D003929,1
+oligodendroblastoma,False,Oligodendroglioma,D009837,1
+opisthorchis viverrini infection,False,Opisthorchiasis,D009889,1
+opsoclonus,False,Ocular Motility Disorders,D015835,1
+optic disc edema,True,Papilledema,D010211,1
+cytotoxic brain edema,False,Brain Edema,D001929,1
+cytotoxic cerebral edema,False,Brain Edema,D001929,1
+darkness tremor,False,Tremor,D014202,1
+daytime somnolence,False,Disorders of Excessive Somnolence,D006970,1
+partial monosomy,False,Chromosome Deletion,D002872,1
+partial paralysis (paresis) vocal cords,False,Vocal Cord Paralysis,D014826,1
+passive tremor,False,Tremor,D014202,1
+delayed sleep phase syndrome,False,"Sleep Disorders, Circadian Rhythm",D020178,1
+demyelination,False,Demyelinating Diseases,D003711,1
+"dermatofibrosarcoma protuberans, myxoid",False,Dermatofibrosarcoma,D018223,1
+desmoplastic fibroblastoma,True,"Fibroma, Desmoplastic",D018220,1
+digestive system disorders,True,Digestive System Diseases,D004066,1
+dissociative amnesia,False,Amnesia,D000647,1
+obstructive hydrocephalus,False,Hydrocephalus,D006849,1
+odontogenesis imperfecta,False,Odontodysplasia,D018126,1
+craniofacial pain,False,Facial Pain,D005157,1
+cranioschisis,False,Nervous System Malformations,D009421,1
+"creutzfeldt-jakob disease, familial",False,Creutzfeldt-Jakob Syndrome,D007562,1
+cruveilhier-baumgarten syndrome,False,"Hypertension, Portal",D006975,1
+cryptogenic chronic hepatitis,False,"Hepatitis, Chronic",D006521,1
+cryptozoospermia,False,Oligospermia,D009845,1
+perinatal subarachnoid hemorrhage,False,Subarachnoid Hemorrhage,D013345,1
+paratubal cyst,False,Parovarian Cyst,D010310,1
+cystic periventricular leukomalacia,False,"Leukomalacia, Periventricular",D007969,1
+diabetic amyotrophy,False,Diabetic Neuropathies,D003929,1
+diabetic asymmetric polyneuropathy,False,Diabetic Neuropathies,D003929,1
+diabetic autonomic neuropathy,False,Diabetic Neuropathies,D003929,1
+persistent tremor,False,Tremor,D014202,1
+petechiae,False,Purpura,D011693,1
+petrous sinus thrombophlebitis,False,"Sinus Thrombosis, Intracranial",D012851,1
+petrous sinus thrombosis,False,"Sinus Thrombosis, Intracranial",D012851,1
+conus medullaris syndrome,False,Spinal Cord Compression,D013117,1
+corneal scar,False,Corneal Injuries,D065306,1
+cornelia de lange syndrome 3,False,De Lange Syndrome,D003635,1
+corpus luteum cyst,False,Ovarian Cysts,D010048,1
+cortical congenital hyperostosis,True,"Hyperostosis, Cortical, Congenital",D006958,1
+patent ductus arteriosus familial,False,"Ductus Arteriosus, Patent",D004374,1
+pelvic cancer,False,Pelvic Neoplasms,D010386,1
+pendular nystagmus,False,"Nystagmus, Pathologic",D009759,1
+coxiella burnetii infection,False,Q Fever,D011778,1
+craniofacial dysostosis type 1,False,Craniofacial Dysostosis,D003394,1
+"duane retraction syndrome, type 2",False,Duane Retraction Syndrome,D004370,1
+"duane retraction syndrome, type 3",False,Duane Retraction Syndrome,D004370,1
+"dysarthria, flaccid",False,Dysarthria,D004401,1
+"dysarthria, guttural",False,Dysarthria,D004401,1
+"dysarthria, mixed",False,Dysarthria,D004401,1
+"dysarthria, scanning",False,Dysarthria,D004401,1
+"dysarthria, spastic",False,Dysarthria,D004401,1
+dysbacteriosis,False,Dysbiosis,D064806,1
+nonketotic hyperglycinemia,True,"Hyperglycinemia, Nonketotic",D020158,1
+nonorganic insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+"dystonia, secondary",False,Dystonic Disorders,D020821,1
+pigmented villonodular synovitis,True,"Synovitis, Pigmented Villonodular",D013586,1
+pill rolling tremor,False,Tremor,D014202,1
+pinprick sensation diminished,False,Somatosensory Disorders,D020886,1
+congenital myotonic dystrophy,False,Myotonic Dystrophy,D009223,1
+congenital nystagmus,True,"Nystagmus, Congenital",D020417,1
+congestive ophthalmopathy,False,Graves Ophthalmopathy,D049970,1
+"periodontitis, acute nonsuppurative",False,Periapical Periodontitis,D010485,1
+ectopic pregnancy,True,"Pregnancy, Ectopic",D011271,1
+nuchal rigidity,False,Muscle Rigidity,D009127,1
+neurologic dysfunction,False,Neurologic Manifestations,D009461,1
+neuropathic pain,True,Neuralgia,D009437,1
+"neurosyphilis, asymptomatic",False,Neurosyphilis,D009494,1
+"neurosyphilis, symptomatic",False,Neurosyphilis,D009494,1
+ectopic tissue,True,Choristoma,D002828,1
+platelet alpha-granule deficiency,False,Gray Platelet Syndrome,D055652,1
+pleoconial myopathies,False,Mitochondrial Myopathies,D017240,1
+polyarthralgia,False,Arthralgia,D018771,1
+polyarticular juvenile idiopathic arthritis,False,"Arthritis, Juvenile",D001171,1
+polymyositis ossificans,False,Polymyositis,D017285,1
+phocomelia,False,Ectromelia,D004480,1
+photosensitive trichothiodystrophy,False,Trichothiodystrophy Syndromes,D054463,1
+physical anhedonia,False,Anhedonia,D059445,1
+okihiro syndrome,False,Duane Retraction Syndrome,D004370,1
+congenital generalized lipodystrophy type 1,False,"Lipodystrophy, Congenital Generalized",D052497,1
+"embolism, tumor",False,"Neoplastic Cells, Circulating",D009360,1
+embryopathies,False,Fetal Diseases,D005315,1
+endemic goiter,True,"Goiter, Endemic",D006043,1
+enterocutaneous fistula,False,Intestinal Fistula,D007412,1
+congenital hand deformities,True,"Hand Deformities, Congenital",D006228,1
+congenital hypofibrinogenemia,False,Afibrinogenemia,D000347,1
+congenital hypoplastic anemia,True,"Anemia, Hypoplastic, Congenital",D029502,1
+polysyndactyly,False,Syndactyly,D013576,1
+constrictive bronchiolitis,False,Bronchiolitis Obliterans,D001989,1
+continuous tremor,False,Tremor,D014202,1
+placenta disorders,True,Placenta Diseases,D010922,1
+placental steroid sulfatase deficiency,False,"Ichthyosis, X-Linked",D016114,1
+"dystonias, sporadic",False,Dystonic Disorders,D020821,1
+east coast fever,False,Theileriasis,D013801,1
+eccrine spiradenoma,False,Acrospiroma,D018250,1
+classic maple syrup urine disease,False,Maple Syrup Urine Disease,D008375,1
+"clinically isolated syndrome, cns demyelinating",False,Demyelinating Diseases,D003711,1
+presyncope,False,Syncope,D013575,1
+"porphyria, south african type",True,"Porphyria, Variegate",D046350,1
+position sense disorders,False,Somatosensory Disorders,D020886,1
+post cardiac arrest syndrome,True,Post-Cardiac Arrest Syndrome,D000080942,1
+post-dural puncture headaches,True,Post-Dural Puncture Headache,D051299,1
+post-lumbar puncture headache,False,Post-Dural Puncture Headache,D051299,1
+post-treatment lyme disease syndrome,False,Post-Lyme Disease Syndrome,D000077342,1
+posterior choroidal artery infarction,False,Cerebral Infarction,D002544,1
+coarse tremor,False,Tremor,D014202,1
+color blindness,False,Color Vision Defects,D003117,1
+"color blindness, blue",False,Color Vision Defects,D003117,1
+"polymyositis, idiopathic",False,Polymyositis,D017285,1
+"polyneuropathy, motor",False,Polyneuropathies,D011115,1
+"congenital dyserythropoietic anemia, type iii",False,"Anemia, Dyserythropoietic, Congenital",D000742,1
+precursor b-cell lymphoblastic lymphoma,True,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,D015452,1
+preexcitation syndrome,True,Pre-Excitation Syndromes,D011226,1
+eosinophilic pneumonia,False,Pulmonary Eosinophilia,D011657,1
+eperythrozoonosis,False,Mycoplasma Infections,D009175,1
+epidermolysis bullosa progressiva,False,"Epidermolysis Bullosa, Junctional",D016109,1
+neurogenic arthropathy,True,"Arthropathy, Neurogenic",D001177,1
+neurologic deficits,False,Neurologic Manifestations,D009461,1
+necrotizing scleritis,False,Scleritis,D015423,1
+neointima formation,False,Neointima,D058426,1
+neonatal alloimmune thrombocytopenia,True,"Thrombocytopenia, Neonatal Alloimmune",D054098,1
+neonatal late-onset sepsis,False,Neonatal Sepsis,D000071074,1
+premenstrual tension,False,Premenstrual Syndrome,D011293,1
+chronic sialadenitis,True,Sialadenitis,D012793,1
+chylopericardium,False,Pericardial Effusion,D010490,1
+cicatrization,False,Cicatrix,D002921,1
+circadian rhythm disorders,False,Chronobiology Disorders,D021081,1
+primary insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+"neoplasms, therapy-associated",False,"Neoplasms, Second Primary",D016609,1
+"nephrogenic diabetes insipidus, type i",False,"Diabetes Insipidus, Nephrogenic",D018500,1
+nephropathia epidemica,False,Hemorrhagic Fever with Renal Syndrome,D006480,1
+nerve tremors,False,Tremor,D014202,1
+nagana,False,"Trypanosomiasis, African",D014353,1
+narcotic abuse,False,Narcotic-Related Disorders,D000079524,1
+narcotic dependence,False,Narcotic-Related Disorders,D000079524,1
+primary peritonitis,False,Peritonitis,D010538,1
+primary systemic amyloidosis,True,Immunoglobulin Light-chain Amyloidosis,D000075363,1
+chronic insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+chronic lyme disease,True,Post-Lyme Disease Syndrome,D000077342,1
+chronic neutrophilic leukemia,True,"Leukemia, Neutrophilic, Chronic",D015467,1
+common carotid artery stenosis,False,Carotid Stenosis,D016893,1
+common carotid artery thrombosis,False,Carotid Artery Thrombosis,D002341,1
+posttransfusion purpura,False,Transfusion Reaction,D065227,1
+episodic cluster headache,False,Cluster Headache,D003027,1
+erysipelothrix infection,True,Erysipelothrix Infections,D004889,1
+erythematotelangiectatic rosacea,False,Rosacea,D012393,1
+erythrocytosis,False,Polycythemia,D011086,1
+"erythroderma, maculopapular",False,Parapsoriasis,D010267,1
+esodeviation,False,Esotropia,D004948,1
+esophageal spasm,True,"Esophageal Spasm, Diffuse",D015155,1
+"myoclonus, action",False,Myoclonus,D009207,1
+"myoclonus, eyelid",False,Myoclonus,D009207,1
+exodeviation,False,Exotropia,D005099,1
+pseudo pelger-huet anomaly,False,Pelger-Huet Anomaly,D010381,1
+pseudodystonia,False,Dystonic Disorders,D020821,1
+"pseudohypoaldosteronism, type i, autosomal dominant",False,Pseudohypoaldosteronism,D011546,1
+"pseudohypoaldosteronism, type i, autosomal recessive",False,Pseudohypoaldosteronism,D011546,1
+primary erythermalgia,False,Erythromelalgia,D004916,1
+primary hypothyroidism,False,Hypothyroidism,D007037,1
+childhood onset dystonias,False,Dystonic Disorders,D020821,1
+childhood progressive bulbar palsy,False,"Bulbar Palsy, Progressive",D010244,1
+choking,False,Airway Obstruction,D000402,1
+chondromalacia,False,Cartilage Diseases,D002357,1
+rabson-mendenhall syndrome,False,Donohue Syndrome,D056731,1
+pseudohypoparathyroidism type 1b,False,Pseudohypoparathyroidism,D011547,1
+"pseudohypoparathyroidism, type ib",False,Pseudohypoparathyroidism,D011547,1
+psychogenic inversion of circadian rhythm,False,Chronobiology Disorders,D021081,1
+psychophysiological insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+chromosomal translocation,True,"Translocation, Genetic",D014178,1
+chronic bacterial prostatitis,False,Prostatitis,D011472,1
+chronic daily headache,False,Headache Disorders,D020773,1
+chronic headache,False,Headache Disorders,D020773,1
+prodromal states,False,Prodromal Symptoms,D062706,1
+progressive muscular atrophy,False,"Muscular Atrophy, Spinal",D009134,1
+proprioceptive disorders,False,Somatosensory Disorders,D020886,1
+extensor rigidity,False,Muscle Rigidity,D009127,1
+external carotid artery stenosis,False,Carotid Stenosis,D016893,1
+external carotid artery thrombosis,False,Carotid Artery Thrombosis,D002341,1
+extra-adrenal paraganglioma,True,"Paraganglioma, Extra-Adrenal",D010236,1
+myofibroblastoma,False,"Neoplasms, Muscle Tissue",D009379,1
+myopathic ophthalmopathy,False,Graves Ophthalmopathy,D049970,1
+"myxedema, congenital",False,Congenital Hypothyroidism,D003409,1
+mycobacterium abscessus infection,False,"Mycobacterium Infections, Nontuberculous",D009165,1
+mycoplasma pneumoniae infection,False,"Pneumonia, Mycoplasma",D011019,1
+extrapyramidal rigidity,False,Muscle Rigidity,D009127,1
+extravasation of contrast media,False,Extravasation of Diagnostic and Therapeutic Materials,D005119,1
+facial paresis,False,Facial Paralysis,D005158,1
+familial acoustic neuroma,False,Neurofibromatosis 2,D016518,1
+chiari malformation type ii,False,Arnold-Chiari Malformation,D001139,1
+child malnutrition,False,Child Nutrition Disorders,D015362,1
+childhood absence epilepsy,False,"Epilepsy, Absence",D004832,1
+"cerebellar ataxia, late onset",False,Spinocerebellar Degenerations,D013132,1
+cerebellar hemiataxia,False,Cerebellar Ataxia,D002524,1
+cerebral angiitis,False,"Vasculitis, Central Nervous System",D020293,1
+rales,False,Respiratory Sounds,D012135,1
+reactive hemophagocytic syndrome,False,"Lymphohistiocytosis, Hemophagocytic",D051359,1
+rebound insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+"cerebral infarction, left hemisphere",False,Cerebral Infarction,D002544,1
+"cerebral infarction, right hemisphere",False,Cerebral Infarction,D002544,1
+cervical migraine syndrome,False,Migraine Disorders,D008881,1
+cervical spondylosis,False,Spondylosis,D055009,1
+pulmonary thromboembolisms,False,Pulmonary Embolism,D011655,1
+"familial amyloid neuropathy, portuguese type",False,"Amyloid Neuropathies, Familial",D028227,1
+myelopathic muscular atrophy,False,"Muscular Atrophy, Spinal",D009134,1
+myocardial preinfarction syndrome,False,"Angina, Unstable",D000789,1
+mps iii d,False,Mucopolysaccharidosis III,D009084,1
+multicystic encephalomalacia,False,Encephalomalacia,D004678,1
+rem sleep deprivation,False,Sleep Deprivation,D012892,1
+"renal tubular acidosis, type ii",False,"Acidosis, Renal Tubular",D000141,1
+"multiple sclerosis, acute relapsing",False,"Multiple Sclerosis, Relapsing-Remitting",D020529,1
+muscle eye brain disease,False,Walker-Warburg Syndrome,D058494,1
+muscle tenderness,False,Myalgia,D063806,1
+muscle tone atonic,False,Muscle Hypotonia,D009123,1
+"muscular atrophy, spinal, infantile chronic form",False,Spinal Muscular Atrophies of Childhood,D014897,1
+"muscular atrophy, spinal, type ii",False,Spinal Muscular Atrophies of Childhood,D014897,1
+"myasthenia gravis, generalized",False,Myasthenia Gravis,D009157,1
+morphine abuse,False,Morphine Dependence,D009021,1
+mps iii c,False,Mucopolysaccharidosis III,D009084,1
+familial dystonia,False,Dystonic Disorders,D020821,1
+familial hemiplegic migraine,False,Migraine with Aura,D020325,1
+familial hypobetalipoproteinemia,True,Hypobetalipoproteinemias,D006995,1
+replication error phenotype,False,Microsatellite Instability,D053842,1
+central retinal artery occlusion,False,Retinal Artery Occlusion,D015356,1
+"familial partial lipodystrophy, type 1",False,"Lipodystrophy, Familial Partial",D052496,1
+familial periodic paralysis,True,"Paralyses, Familial Periodic",D010245,1
+mitochondrial respiratory chain deficiencies,False,Mitochondrial Diseases,D028361,1
+familial thrombotic thrombocytopenic purpura,False,"Purpura, Thrombotic Thrombocytopenic",D011697,1
+familial ventricular tachycardia,False,Polymorphic Catecholaminergic Ventricular Tachycardia,D000098850,1
+fanconi-bickel syndrome,False,Fanconi Syndrome,D005198,1
+"fasciculation, tongue",False,Fasciculation,D005207,1
+fatal familial insomnia,True,"Insomnia, Fatal Familial",D034062,1
+fazio-londe syndrome,False,"Bulbar Palsy, Progressive",D010244,1
+"retinoschisis, juvenile, x-linked",False,Retinoschisis,D041441,1
+retractile mesenteritis,False,"Panniculitis, Peritoneal",D015436,1
+retrograde amnesia,True,"Amnesia, Retrograde",D000648,1
+right atrial isomerism,False,Heterotaxy Syndrome,D059446,1
+right ventricular dysfunction,True,"Ventricular Dysfunction, Right",D018497,1
+right-sided breast neoplasms,False,Unilateral Breast Neoplasms,D000069584,1
+round cell liposarcoma,True,"Liposarcoma, Myxoid",D018208,1
+fetal pyelectasis,True,Pyelectasis,D058536,1
+fibroadenosis,False,Adenofibroma,D000232,1
+fibroatheroma,False,"Plaque, Atherosclerotic",D058226,1
+fibrocartilaginous dysplasia of bone,False,Fibrous Dysplasia of Bone,D005357,1
+carotid body paraganglioma,True,Carotid Body Tumor,D002345,1
+carotid ulcer,False,Carotid Stenosis,D016893,1
+catatonic rigidity,False,Muscle Rigidity,D009127,1
+cellular ependymoma,False,Ependymoma,D004806,1
+central nervous system metabolic disorders,False,"Brain Diseases, Metabolic",D001928,1
+cannabis-related disorder,False,Marijuana Abuse,D002189,1
+"carcinoid, goblet cell",False,Carcinoid Tumor,D002276,1
+cacosmia,False,Olfaction Disorders,D000857,1
+respiratory depression,False,Respiratory Insufficiency,D012131,1
+retinal arterial macroaneurysms,True,Retinal Arterial Macroaneurysm,D000080346,1
+familial hypophosphatemia,True,"Hypophosphatemia, Familial",D007015,1
+familial motor neuron disease,False,Motor Neuron Disease,D016472,1
+senile paranoid dementia,False,Dementia,D003704,1
+senile tremor,False,Tremor,D014202,1
+campylobacter infection,True,Campylobacter Infections,D002169,1
+cancer-associated retinopathy,False,"Paraneoplastic Syndromes, Ocular",D059545,1
+saturnine tremor,False,Tremor,D014202,1
+"schwannoma, acoustic, bilateral",False,Neurofibromatosis 2,D016518,1
+"scotoma, arcuate",False,Scotoma,D012607,1
+"scotoma, central",False,Scotoma,D012607,1
+secondary insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+secondary open angle glaucoma,False,"Glaucoma, Open-Angle",D005902,1
+"carney complex, type 1",False,Carney Complex,D056733,1
+"carney complex, type 2",False,Carney Complex,D056733,1
+female pseudo-turner syndrome,False,Noonan Syndrome,D009634,1
+female pseudohermaphroditism,False,"46, XX Disorders of Sex Development",D058489,1
+mixed oligodendroglioma-ependymoma,False,Oligodendroglioma,D009837,1
+mohr syndrome,False,Orofaciodigital Syndromes,D009958,1
+semantic-pragmatic disorder,False,Language Development Disorders,D007805,1
+fibrocystic disease of pancreas,False,Cystic Fibrosis,D003550,1
+fibrocystic dysplasia of bone,False,Fibrous Dysplasia of Bone,D005357,1
+mikulicz disease,True,Mikulicz' Disease,D008882,1
+minimally conscious state,False,Persistent Vegetative State,D018458,1
+"membranoproliferative glomerulonephritis, type ii",False,"Glomerulonephritis, Membranoproliferative",D015432,1
+"membranoproliferative glomerulonephritis, type iii",False,"Glomerulonephritis, Membranoproliferative",D015432,1
+"meningitis, meningococcal, serogroup a",False,"Meningitis, Meningococcal",D008585,1
+"meningitis, meningococcal, serogroup b",False,"Meningitis, Meningococcal",D008585,1
+"meningitis, meningococcal, serogroup c",False,"Meningitis, Meningococcal",D008585,1
+"meningitis, meningococcal, serogroup w-135",False,"Meningitis, Meningococcal",D008585,1
+"meningitis, meningococcal, serogroup y",False,"Meningitis, Meningococcal",D008585,1
+bronchiolitis obliterans organizing pneumonia,True,Cryptogenic Organizing Pneumonia,D018549,1
+"bronchiolitis, exudative",False,Bronchiolitis Obliterans,D001989,1
+"bronchiolitis, proliferative",False,Bronchiolitis Obliterans,D001989,1
+brugada syndrome 1,False,Brugada Syndrome,D053840,1
+serous otitis media,False,Otitis Media with Effusion,D010034,1
+"menstruation, retrograde",False,Menstruation Disturbances,D008599,1
+mesenteric vascular insufficiency,True,Mesenteric Ischemia,D065666,1
+mesoblastic nephroma,True,"Nephroma, Mesoblastic",D018201,1
+mesothelial neoplasms,True,"Neoplasms, Mesothelial",D018301,1
+"metabolic disorder, central nervous system, acquired",False,"Brain Diseases, Metabolic",D001928,1
+"melanoma, cloudman s91",False,"Melanoma, Experimental",D008546,1
+"melanoma, harding-passey",False,"Melanoma, Experimental",D008546,1
+melanoma-associated retinopathy,False,"Paraneoplastic Syndromes, Ocular",D059545,1
+"membranoproliferative glomerulonephritis, type i",False,"Glomerulonephritis, Membranoproliferative",D015432,1
+fine tremor,False,Tremor,D014202,1
+"blindness, legal",False,Blindness,D001766,1
+brain aneurysm,False,Intracranial Aneurysm,D002532,1
+"brain diseases, metabolic, acquired",False,"Brain Diseases, Metabolic",D001928,1
+brain hypoxia,True,"Hypoxia, Brain",D002534,1
+sick headaches,False,Migraine Disorders,D008881,1
+sindbis virus infection,False,Alphavirus Infections,D018354,1
+flea infestation,True,Flea Infestations,D058267,1
+floppy muscles,False,Muscle Hypotonia,D009123,1
+focal dystonia,False,Dystonic Disorders,D020821,1
+focal neurologic deficits,False,Neurologic Manifestations,D009461,1
+food allergy,True,Food Hypersensitivity,D005512,1
+fraxa syndrome,False,Fragile X Syndrome,D005600,1
+generalized lipodystrophy,True,"Lipodystrophy, Congenital Generalized",D052497,1
+"maple syrup urine disease, thiamine responsive",False,Maple Syrup Urine Disease,D008375,1
+marasmus,False,Protein-Energy Malnutrition,D011502,1
+massive tremor,False,Tremor,D014202,1
+sleep initiation dysfunction,False,Sleep Initiation and Maintenance Disorders,D007319,1
+bile duct adenoma,True,"Adenoma, Bile Duct",D002759,1
+binswanger disease,False,"Dementia, Vascular",D015140,1
+birdshot chorioretinitis,True,Birdshot Chorioretinopathy,D000080365,1
+sleep-related painful erections,False,REM Sleep Parasomnias,D020923,1
+sore throat,False,Pharyngitis,D010612,1
+frontal encephalocele,False,Encephalocele,D004677,1
+"gait, scissors",False,"Gait Disorders, Neurologic",D020233,1
+megaconial myopathies,False,Mitochondrial Myopathies,D017240,1
+giant cell granuloma,True,"Granuloma, Giant Cell",D006101,1
+glandular neoplasms,False,"Neoplasms, Glandular and Epithelial",D009375,1
+"glanzmann thrombasthenia, type a",True,Thrombasthenia,D013915,1
+spastic,False,Muscle Spasticity,D009128,1
+spastic gait,False,"Gait Disorders, Neurologic",D020233,1
+bare lymphocyte syndrome,False,Severe Combined Immunodeficiency,D016511,1
+bedwetting,True,Nocturnal Enuresis,D053206,1
+benign mastocytoma,True,Mastocytoma,D034801,1
+benign prostatic hypertrophy,False,Prostatic Hyperplasia,D011470,1
+benign teratoma,False,Teratoma,D013724,1
+specific language impairment,True,Specific Language Disorder,D000080888,1
+simple endometrial hyperplasia,False,Endometrial Hyperplasia,D004714,1
+spinocerebellar ataxia type 4,False,Spinocerebellar Ataxias,D020754,1
+gliomatosis cerebri,False,"Neoplasms, Neuroepithelial",D018302,1
+global amnesia,False,Amnesia,D000647,1
+"glomerulonephritis, minimal change",True,"Nephrosis, Lipoid",D009402,1
+"gonadal dysgenesis, 45,x",False,Turner Syndrome,D014424,1
+gegenhalten,False,Muscle Rigidity,D009127,1
+"lymphoma, lymphocytic, intermediate",False,"Lymphoma, Mantle-Cell",D020522,1
+"hallucinations, auditory",False,Hallucinations,D006212,1
+"hallucinations, hypnagogic",False,Hallucinations,D006212,1
+"hallucinations, hypnapompic",False,Hallucinations,D006212,1
+hammer toe,False,Hammer Toe Syndrome,D037801,1
+autosomal recessive familial dystonia,False,Dystonic Disorders,D020821,1
+bagassosis,False,Pneumoconiosis,D011009,1
+ballismus,False,Dyskinesias,D020820,1
+social anhedonia,False,Anhedonia,D059445,1
+"somatotrophinoma, familial",False,Growth Hormone-Secreting Pituitary Adenoma,D049912,1
+autosomal dominant familial dystonia,False,Dystonic Disorders,D020821,1
+hashish abuse,False,Marijuana Abuse,D002189,1
+"granuloma, giant cell reparative",False,"Granuloma, Giant Cell",D006101,1
+granulomatous angiitis,False,"Vasculitis, Central Nervous System",D020293,1
+granulosa cell cancer,False,Granulosa Cell Tumor,D006106,1
+hepatobiliary disease,False,Digestive System Diseases,D004066,1
+loeffler's endocarditis,False,Hypereosinophilic Syndrome,D017681,1
+loeys-dietz aortic aneurysm syndrome,False,Loeys-Dietz Syndrome,D055947,1
+"loeys-dietz syndrome, type 1a",False,Loeys-Dietz Syndrome,D055947,1
+long qt syndrome 1,True,Romano-Ward Syndrome,D029597,1
+squamous cell carcinoma of the nasal cavity,False,Squamous Cell Carcinoma of Head and Neck,D000077195,1
+staphylococcus aureus pneumonia,False,"Pneumonia, Staphylococcal",D011023,1
+status migrainosus,False,Migraine Disorders,D008881,1
+stomach diverticulum,True,"Diverticulum, Stomach",D013273,1
+stress-induced polymorphic ventricular tachycardia,False,Polymorphic Catecholaminergic Ventricular Tachycardia,D000098850,1
+"spina bifida, open",False,Spina Bifida Cystica,D016137,1
+luft disease,False,Mitochondrial Myopathies,D017240,1
+hematomyelia,False,Spinal Cord Vascular Diseases,D020758,1
+hemiballismus,False,Dyskinesias,D020820,1
+hemicrania migraine,False,Migraine Disorders,D008881,1
+"leukemia, natural killer cell large granular lymphocytic",False,"Leukemia, Large Granular Lymphocytic",D054066,1
+leukokeratosis,False,Leukoplakia,D007971,1
+lichen simplex chronicus,False,Neurodermatitis,D009450,1
+lingual-facial-buccal dyskinesia,False,Dyskinesias,D020820,1
+lipoatrophic diabetes mellitus,True,"Diabetes Mellitus, Lipoatrophic",D003923,1
+asymmetric diabetic proximal motor neuropathy,False,Diabetic Neuropathies,D003929,1
+asymptomatic inflammatory prostatitis,False,Prostatitis,D011472,1
+atheroma,False,"Plaque, Atherosclerotic",D058226,1
+arterial fatty streak,False,"Plaque, Atherosclerotic",D058226,1
+"arthritis, suppurative",False,"Arthritis, Infectious",D001170,1
+"arthritis, viral",False,"Arthritis, Infectious",D001170,1
+"auditory processing disorder, central",False,Language Development Disorders,D007805,1
+"subarachnoid hemorrhage, aneurysmal",False,Subarachnoid Hemorrhage,D013345,1
+"subarachnoid hemorrhage, intracranial",False,Subarachnoid Hemorrhage,D013345,1
+"subarachnoid hemorrhage, spontaneous",False,Subarachnoid Hemorrhage,D013345,1
+subcortical band heterotopia,False,Classical Lissencephalies and Subcortical Band Heterotopias,D054221,1
+subcortical vascular dementia,False,"Dementia, Vascular",D015140,1
+superior semicircular canal dehiscence syndrome,True,Semicircular Canal Dehiscence,D000084322,1
+suppurative periapical periodontitis,True,Periapical Abscess,D010482,1
+symmetric diabetic proximal motor neuropathy,False,Diabetic Neuropathies,D003929,1
+symptomatic infantile spasms,False,"Spasms, Infantile",D013036,1
+syncopal episode,False,Syncope,D013575,1
+synostotic anterior plagiocephaly,False,Craniosynostoses,D003398,1
+asherman syndrome,False,Gynatresia,D006175,1
+asterixis,False,Dyskinesias,D020820,1
+hemopericardium,False,Pericardial Effusion,D010490,1
+"hemorrhagic fever, argentinian",False,"Hemorrhagic Fever, American",D006478,1
+letterer-siwe disease,False,"Histiocytosis, Langerhans-Cell",D006646,1
+hsan type iv,False,Hereditary Sensory and Autonomic Neuropathies,D009477,1
+htlv infections,False,Deltaretrovirus Infections,D006800,1
+hereditary motor and sensory-neuropathy type ii,False,Charcot-Marie-Tooth Disease,D002607,1
+hereditary motor neuronopathy,False,"Muscular Atrophy, Spinal",D009134,1
+hereditary nephritis,True,"Nephritis, Hereditary",D009394,1
+"hereditary sensory autonomic neuropathy, type 1",False,Hereditary Sensory and Autonomic Neuropathies,D009477,1
+hereditary sensory radicular neuropathy,False,Hereditary Sensory and Autonomic Neuropathies,D009477,1
+herlitz disease,False,"Epidermolysis Bullosa, Junctional",D016109,1
+left bundle-branch block,False,Bundle-Branch Block,D002037,1
+heroin smoking,False,Heroin Dependence,D006556,1
+herpetic acute necrotizing encephalitis,False,"Encephalitis, Herpes Simplex",D020803,1
+herpetic meningoencephalitis,False,"Encephalitis, Herpes Simplex",D020803,1
+"aortic aneurysm, ruptured",False,Aortic Rupture,D001019,1
+aortitis syndrome,False,Takayasu Arteritis,D013625,1
+"aphasia, expressive",False,"Aphasia, Broca",D001039,1
+tactile amnesia,False,Amnesia,D000647,1
+late infantile neuroaxonal dystrophy,False,Neuroaxonal Dystrophies,D019150,1
+hyperosmolar hyperglycemic state,False,Hyperglycemic Hyperosmolar Nonketotic Coma,D006944,1
+irregular menstruation,False,Menstruation Disturbances,D008599,1
+irvine-gass syndrome,False,Macular Edema,D008269,1
+islet cell adenoma,True,"Adenoma, Islet Cell",D007516,1
+joint tuberculosis,False,"Tuberculosis, Osteoarticular",D014394,1
+temporal arteritis,False,Giant Cell Arteritis,D013700,1
+temporary amnesia,False,Amnesia,D000647,1
+angiostrongylus infections,False,Strongylida Infections,D017206,1
+anosognosia,False,Agnosia,D000377,1
+anterior choroidal artery infarction,False,Cerebral Infarction,D002544,1
+hibernoma,False,Lipoma,D008067,1
+hidrotic ectodermal dysplasia,False,Ectodermal Dysplasia,D004476,1
+histomoniasis,False,Protozoan Infections,D011528,1
+lennox-gastaut syndrome,True,Lennox Gastaut Syndrome,D065768,1
+kerion celsi,False,Tinea Capitis,D014006,1
+"hyperpotassemia and hypertension, familial",False,Pseudohypoaldosteronism,D011546,1
+"hypersomnolence, idiopathic",True,Idiopathic Hypersomnia,D020177,1
+"hypertension, goldblatt",False,"Hypertension, Renovascular",D006978,1
+"hypertrophic osteoarthropathy, primary, autosomal dominant",False,"Osteoarthropathy, Primary Hypertrophic",D010004,1
+testotoxicosis,False,"Puberty, Precocious",D011629,1
+thalassemia intermedia,False,beta-Thalassemia,D017086,1
+thalassemia minor,False,beta-Thalassemia,D017086,1
+thermal sensation disorders,False,Somatosensory Disorders,D020886,1
+anal fistula,False,Rectal Fistula,D012003,1
+amelia,False,Ectromelia,D004480,1
+ametropia,False,Refractive Errors,D012030,1
+talipes calcaneovalgus,False,Flatfoot,D005413,1
+taussig-bing anomaly,False,Double Outlet Right Ventricle,D004310,1
+"telangiectasia, hereditary hemorrhagic, type 1",False,"Telangiectasia, Hereditary Hemorrhagic",D013683,1
+ketonuria,False,Ketosis,D007662,1
+language delay,False,Language Development Disorders,D007805,1
+"amino acid metabolism, inherited disorders",False,"Amino Acid Metabolism, Inborn Errors",D000592,1
+amnestic state,False,Amnesia,D000647,1
+thyroid hypoplasia,False,Thyroid Dysgenesis,D050033,1
+"tic, motor",False,Tics,D020323,1
+tick-borne relapsing fever,False,Relapsing Fever,D012061,1
+"tooth agenesis, familial",False,Anodontia,D000848,1
+toxemia of pregnancy,True,Pre-Eclampsia,D011225,1
+alexia,False,Dyslexia,D004410,1
+"alport syndrome, autosomal dominant",False,"Nephritis, Hereditary",D009394,1
+"alport syndrome, autosomal recessive",False,"Nephritis, Hereditary",D009394,1
+alternating exotropia,False,Exotropia,D005099,1
+juvenile neuroaxonal dystrophy,False,Neuroaxonal Dystrophies,D019150,1
+juvenile-onset vitelliform macular dystrophy,False,Vitelliform Macular Dystrophy,D057826,1
+intravenous drug abuse,False,"Substance Abuse, Intravenous",D015819,1
+involuntary quiver,False,Tremor,D014202,1
+hyperphenylalaninaemia,False,Phenylketonurias,D010661,1
+"hypoalphalipoproteinemia, familial",False,Hypoalphalipoproteinemias,D052456,1
+hypochromic anemia,True,"Anemia, Hypochromic",D000747,1
+"hyper-immunoglobulin e syndrome, autosomal recessive",False,Job Syndrome,D007589,1
+hyperkalemic periodic paralysis,True,"Paralysis, Hyperkalemic Periodic",D020513,1
+"intracranial arteriovenous malformation, ruptured",False,Intracranial Arteriovenous Malformations,D002538,1
+"intracranial hypotension, essential",False,Intracranial Hypotension,D019585,1
+hypogeusia,False,Ageusia,D000370,1
+hypomineralization of enamel of tooth,True,Dental Enamel Hypomineralization,D000094603,1
+"tremor, muscle",False,Tremor,D014202,1
+"tremor, neonatal",False,Tremor,D014202,1
+"tremor, perioral",False,Tremor,D014202,1
+"tremor, semirhythmic",False,Tremor,D014202,1
+trigeminal nerve disorder,True,Trigeminal Nerve Diseases,D020433,1
+tumor of rete testis,False,Testicular Neoplasms,D013736,1
+"turner syndrome, male",False,Noonan Syndrome,D009634,1
+type 1 duane retraction syndrome,False,Duane Retraction Syndrome,D004370,1
+intracranial sinus thrombophlebitis,False,"Sinus Thrombosis, Intracranial",D012851,1
+intracranial tuberculoma,True,"Tuberculoma, Intracranial",D016862,1
+intermediate maple syrup urine disease,False,Maple Syrup Urine Disease,D008375,1
+ichthyosis congenita ii,False,"Ichthyosis, Lamellar",D017490,1
+idiopathic familial dystonia,False,Dystonic Disorders,D020821,1
+idiopathic hypoparathyroidism,False,Hypoparathyroidism,D007011,1
+idiopathic retroperitoneal fibrosis,True,Retroperitoneal Fibrosis,D012185,1
+adult-onset idiopathic torsion dystonias,False,Dystonic Disorders,D020821,1
+afferent pupillary defect,False,Pupil Disorders,D011681,1
+akathisia,False,Psychomotor Agitation,D011595,1
+"adrenoleukodystrophy, neonatal",False,Peroxisomal Disorders,D018901,1
+adult fanconi syndrome,False,Fanconi Syndrome,D005198,1
+transient insomnia,False,Sleep Initiation and Maintenance Disorders,D007319,1
+"tremor, limb",False,Tremor,D014202,1
+hypertyrosinemia,True,Tyrosinemias,D020176,1
+"hypoaldosteronism, hyporeninemic",False,Hypoaldosteronism,D006994,1
+vertebrobasilar dolichoectasia,False,Vertebrobasilar Insufficiency,D014715,1
+zellweger-like syndrome,False,Zellweger Syndrome,D015211,1
+abdominal migraine,False,Migraine Disorders,D008881,1
+vertical nystagmus,False,"Nystagmus, Pathologic",D009759,1
+visceral myopathy,False,Intestinal Pseudo-Obstruction,D007418,1
+abdominal compartment syndrome,False,Intra-Abdominal Hypertension,D059325,1
+xmrv infection,False,Retroviridae Infections,D012192,1
+"46, xy disorders of sex development",True,"Disorder of Sex Development, 46,XY",D058490,1
+wrist-drop,False,Radial Neuropathy,D020425,1
+adult neuroaxonal dystrophy,False,Neuroaxonal Dystrophies,D019150,1
+adult-onset dystonias,False,Dystonic Disorders,D020821,1
+adult-onset idiopathic focal dystonias,False,Dystonic Disorders,D020821,1
+immersion related epilepsy,False,"Epilepsy, Reflex",D020195,1
+intermittent maple syrup urine disease,False,Maple Syrup Urine Disease,D008375,1
+intermittent tremor,False,Tremor,D014202,1
+internal carotid artery thrombosis,False,Carotid Artery Thrombosis,D002341,1
+parapsoriasis en plaques,False,Parapsoriasis,D010267,1
+pachymeningitis,False,Meningitis,D008581,1
+paget's disease of the nipple,True,"Paget's Disease, Mammary",D010144,1
+pain sensation diminished,False,Somatosensory Disorders,D020886,1
+"impairment, light touch sensation",False,Somatosensory Disorders,D020886,1
+infantile sialic acid storage disease,False,Sialic Acid Storage Disease,D029461,1
+"infections, arenavirus",False,Arenaviridae Infections,D001117,1
+"infections, bunyavirus",False,Bunyaviridae Infections,D002044,1
+"infections, parvovirus",False,Parvoviridae Infections,D010322,1
+infectious myelitis,False,Myelitis,D009187,1
+"inguinal hernia, indirect",False,"Hernia, Inguinal",D006552,1
+inherited bone marrow failure syndrome,True,Congenital Bone Marrow Failure Syndromes,D000080984,1
+acute cholecystitis,True,"Cholecystitis, Acute",D041881,1
+acute confusional migraine,False,Migraine Disorders,D008881,1
+acute hypercapnic respiratory failure,False,Respiratory Insufficiency,D012131,1
+verrucous epidermal nevus,False,"Nevus, Sebaceous of Jadassohn",D054000,1
+thoracic aortic dissection,True,"Dissection, Thoracic Aorta",D000094629,0
+choroidal melanoma,False,Uveal Melanoma,D000098943,0
+colon adenocarcinoma,False,Colonic Neoplasms,D003110,0
+"obesity, maternal",True,Pregnancy in Obesity,D000079262,0
+gastric cancer,False,Stomach Neoplasms,D013274,0

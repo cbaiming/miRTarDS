@@ -1,0 +1,115 @@
+{
+  "model": "BioLORD MONDO DoRA step600",
+  "dimension": 768,
+  "maximum_input_tokens": 64,
+  "per_file_limit_bytes": 100000000,
+  "frozen_merged_weight_sha256": "9f740c507074c6d679e0237cb5b4ab2ae6151d1685abf33e35bb2d959446eb3f",
+  "source_tensor_identity_verified": true,
+  "public_offline_inference_verified": true,
+  "training_packet_sampler_verified": true,
+  "files": {
+    "adapter_step600.pt": {
+      "sha256": "a6745ed9ea3a710b55d0981a3aaca369d7f56cf51ec4c6ae2a90900794bcb586",
+      "bytes": 229147
+    },
+    "config_sentence_transformers.json": {
+      "sha256": "76ee53d4d53776213e0ef24cccfc798fe733eda69aeb4692f2638ad989460cb3",
+      "bytes": 85
+    },
+    "EXPORT_AUDIT.json": {
+      "sha256": "f085c16440792b0331fadecd7f3fb746142574cad6df8609e6c559ea61d0cbe9",
+      "bytes": 3299
+    },
+    "inference_reference.npz": {
+      "sha256": "ce7645e33b8b3633d384be88708ce5c3689f4a16269a1b264f58f168b8df1c68",
+      "bytes": 29929
+    },
+    "modules.json": {
+      "sha256": "70b34f6f5ab7c62399dc4144110f80c23ef130adb883a98241a31dcc0fbb9ab1",
+      "bytes": 243
+    },
+    "README.md": {
+      "sha256": "effc67455c40eccd9c7b1667e696279fdeb48cd870d463e32e09d295da0eff9e",
+      "bytes": 2715
+    },
+    "0_Transformer/config.json": {
+      "sha256": "33930446d15bf9f3f8a713b753062c4422cb3b2306186353cad9de6bcbb0dfe2",
+      "bytes": 577
+    },
+    "0_Transformer/model-00001-of-00006.safetensors": {
+      "sha256": "20994e4336650e0757444176ba739917bcf89e04b2bd675a745ddb80009f9eba",
+      "bytes": 1585472
+    },
+    "0_Transformer/model-00002-of-00006.safetensors": {
+      "sha256": "3ef4ddc84035f18b5778fe6aed060cb973538480ef2bffbca668d633ed75bbcb",
+      "bytes": 93788624
+    },
+    "0_Transformer/model-00003-of-00006.safetensors": {
+      "sha256": "c71b447c68d5e171d70f85183cf94d037cab5e82f9e4a649f0c0d5347429139d",
+      "bytes": 94519240
+    },
+    "0_Transformer/model-00004-of-00006.safetensors": {
+      "sha256": "9f325f41d16800edaf6d7c7f772b07a1f2dd4b4c0735dc2affc0e6200922e634",
+      "bytes": 94506496
+    },
+    "0_Transformer/model-00005-of-00006.safetensors": {
+      "sha256": "1cd1fa233694735430c68fc46b9bc701fe3b3fa2ad7f59f44ee0daf803c67067",
+      "bytes": 94506496
+    },
+    "0_Transformer/model-00006-of-00006.safetensors": {
+      "sha256": "fc8353c91a94ab050960e681547ff563ca76b5d8c55990977adc836070774a07",
+      "bytes": 59061096
+    },
+    "0_Transformer/model.safetensors.index.json": {
+      "sha256": "af7f41981bcaa4f82dde4407080afae2be6eae53dd611027943be7aa73b53dcc",
+      "bytes": 16378
+    },
+    "0_Transformer/sentence_bert_config.json": {
+      "sha256": "e938f936ec4aae1ec7b178977b4e9cf8593ae9ee3481759a4612d78e4d442001",
+      "bytes": 53
+    },
+    "0_Transformer/special_tokens_map.json": {
+      "sha256": "ee4a0725232fc563c865a9a1014f7eae985a6efbe44c58a35f46cd5e878aeed4",
+      "bytes": 964
+    },
+    "0_Transformer/tokenizer.json": {
+      "sha256": "70954833673ecddf378cb7e86f9e0f03700f3b8509d1d67eb11da33aa7577398",
+      "bytes": 711831
+    },
+    "0_Transformer/tokenizer_config.json": {
+      "sha256": "0036782376af874cc1959f183cff6cc90c4402ea7785b6e7df240815002e9c51",
+      "bytes": 1501
+    },
+    "0_Transformer/vocab.txt": {
+      "sha256": "dbd90cb94e2247bd4d4ccaecbf616d2290e66691d7d5e5bb81f063c2d0649ada",
+      "bytes": 231536
+    },
+    "1_Pooling/config.json": {
+      "sha256": "ffe35d1251a99bc1f8187575f90682524294a62c51d7f27d2c520bb9e34371e4",
+      "bytes": 297
+    },
+    "results/evaluation_summary.json": {
+      "sha256": "28c56fc9967cc7b210856cb39f3b1e523d8898bc5084b01b5526f4c2d783240c",
+      "bytes": 1422
+    },
+    "results/ontology_development_history.csv": {
+      "sha256": "f1368ff76ec7e007e8136c250875acc17c845d830c9f30eaf3454b7bb1cebcde",
+      "bytes": 548
+    },
+    "results/public_inference_audit.json": {
+      "sha256": "a96e83ebf6322663ebf8118fb4b06596c318165a24410c3e5fbd961295159471",
+      "bytes": 316
+    },
+    "results/public_training_audit.json": {
+      "sha256": "7ec0add9d8b7ddd773dcac8615f5e8a10155d050c7d1e16a77efd9aeee7994ef",
+      "bytes": 305
+    }
+  },
+  "tools": {
+    "src/mirtards_release/biolord.py": "709ff2299f0dc4a96cd560f4bf0d993ae6030ff4b62f6e3c508959c1025dfcf9",
+    "scripts/model_tools/infer.py": "65c625dd91bef9e11c701431a2fa3cc2d95265efb8c78dc7b231271ab2b62651",
+    "scripts/model_tools/merge_adapter.py": "9c215f1a5d6bc66fef0725d1beef373661eb87f54d2fcd9f43dd30b34d883464",
+    "scripts/model_tools/train_dora.py": "4ce7904b669a3f606c805075cf4d12abab294b0fde544819a4c79dda0876620e",
+    "scripts/model_tools/training_config.json": "afc48b788008eb588d7173e5192de0880a57b0df2b53daadae78be2561d48605"
+  }
+}

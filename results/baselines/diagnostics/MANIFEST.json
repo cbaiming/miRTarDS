@@ -1,0 +1,57 @@
+{
+  "status": "Formula and mapping sensitivity audit, 2026-11-16",
+  "files": {
+    "results/baselines/diagnostics/formula_audit.json": {
+      "sha256": "0a6c5c9b232529a6ba37f8b4457aafb00a84dee399f6f7a68b585e0b4d5462cf",
+      "bytes": 702
+    },
+    "results/baselines/diagnostics/metrics.csv": {
+      "sha256": "137018039f71a1b86e8bec59e6ee6094e4054563231f73bde75e87e02bc18e49",
+      "bytes": 870
+    },
+    "results/baselines/diagnostics/official_alias_audit.json": {
+      "sha256": "9eed4bd95e999db2a113ab1803bb70939f40fdcd687e90fb0beeb58c94b7abf7",
+      "bytes": 731
+    },
+    "results/baselines/diagnostics/official_alias_coverage.csv": {
+      "sha256": "56d1ec4ab891eabf258fb292526fcda611b026d72d582098651deff1e2be2252",
+      "bytes": 1261
+    },
+    "results/baselines/diagnostics/official_alias_examples.csv": {
+      "sha256": "30f42c2c9243cf92118b01bebed2d1ace81a9ec0f8ad15f979bc7b89516f45d2",
+      "bytes": 135124
+    },
+    "results/baselines/diagnostics/official_alias_intervals.json": {
+      "sha256": "5ba422e2a23e47eed9b246529ed8efb39fe4a054a4ea22c28ff0bc57ee25f644",
+      "bytes": 1415
+    },
+    "results/baselines/diagnostics/official_alias_mean_results.csv": {
+      "sha256": "a51f321529a35c7300f759022472bfa25a21fdaeb2be18b32434c1a4fd94d86e",
+      "bytes": 1258
+    },
+    "results/baselines/diagnostics/official_alias_protocol.json": {
+      "sha256": "704b68c50730c1763610e0c8f73bdcb94c01cb4864f0d69f308c19c46ec8b18e",
+      "bytes": 928
+    },
+    "results/baselines/diagnostics/official_alias_verification.json": {
+      "sha256": "58a62eadfcf805a3380d96a8591d3cc8706c9a904c70635a42031fd7ff75c3c9",
+      "bytes": 416
+    },
+    "results/baselines/diagnostics/README.md": {
+      "sha256": "266ac39b45a899ebadd47cd3cec38c0055765e65a7818716a71f18f34bb63777",
+      "bytes": 1667
+    },
+    "results/baselines/diagnostics/SUMMARY.json": {
+      "sha256": "c2f3b2e2e6f565a59368c519917bb2e75d15321b3f156713f9d643616cde1d3e",
+      "bytes": 3269
+    },
+    "scripts/audit_misim_aliases.py": {
+      "sha256": "1e8546ff5f641674da10005e58c636daa6a2e2b47553096072a675a602507318",
+      "bytes": 10720
+    },
+    "src/mirtards_release/baselines.py": {
+      "sha256": "91415f24538b59aa8d80879ea2eb99e29ed2934b9cfdb2a2833cf80de8b2d8cd",
+      "bytes": 10678
+    }
+  }
+}

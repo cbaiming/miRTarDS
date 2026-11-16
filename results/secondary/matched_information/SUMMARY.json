@@ -1,0 +1,83 @@
+{
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "candidate": 892,
+  "common_information": "Unique same MeSH descriptor sets for Jaccard, MISIM and miRTarDS; lowercased descriptor names encoded for embeddings.",
+  "coverage": [
+    {
+      "data_seed": 0,
+      "original_rows": 338,
+      "rows": 336,
+      "P": 163,
+      "U": 173,
+      "mature_sequence_seen_test_rows": 5
+    },
+    {
+      "data_seed": 1,
+      "original_rows": 354,
+      "rows": 353,
+      "P": 176,
+      "U": 177,
+      "mature_sequence_seen_test_rows": 0
+    },
+    {
+      "data_seed": 2,
+      "original_rows": 328,
+      "rows": 324,
+      "P": 163,
+      "U": 161,
+      "mature_sequence_seen_test_rows": 0
+    }
+  ],
+  "macro_means": {
+    "Jaccard": {
+      "balanced_aps_mean": 0.5764379971368622,
+      "raw_aps_mean": 0.5724234921605462,
+      "auroc_mean": 0.5752194568671368
+    },
+    "MISIM2010": {
+      "balanced_aps_mean": 0.5659399808214537,
+      "raw_aps_mean": 0.5617780858361141,
+      "auroc_mean": 0.5665470067589452
+    },
+    "miRTarDS": {
+      "balanced_aps_mean": 0.6436221629045792,
+      "raw_aps_mean": 0.6399828392079557,
+      "auroc_mean": 0.6515021691786212
+    }
+  },
+  "mirtards_minus_baseline": {
+    "MISIM2010": 0.0776821820831255,
+    "Jaccard": 0.06718416576771702
+  },
+  "mirtards_data_seed_sd": 0.03543120994880526,
+  "mirtards_training_sd_rms": 0.0041516922648665916,
+  "paired_mean_intervals": {
+    "MISIM2010": {
+      "draws": 2000,
+      "interval_95": [
+        0.0030750316638387264,
+        0.1456020319244404
+      ]
+    },
+    "Jaccard": {
+      "draws": 2000,
+      "interval_95": [
+        -0.0026528060100196723,
+        0.1341371099568915
+      ]
+    }
+  },
+  "mirtards_mean_aps_interval_95": [
+    0.5946729878446367,
+    0.7149489964706457
+  ]
+}

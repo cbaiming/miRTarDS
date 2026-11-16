@@ -1,0 +1,11 @@
+{
+  "source_sha256": "6c188ae00ab7995c708c29a449b2adb33001fc695677ec92f29176bcf86a4a8a",
+  "row_alignment": "row_id exactly matches rows.tsv.gz",
+  "definition": "AB/AA/BB x mean,max,population_std,biased_skew; off-diagonal AA/BB; clip cosine [0,1]; identical text token=1; round6",
+  "raw_embedding_vectors_included": false,
+  "source_model": "text-embedding-3-large",
+  "output_dimension": 3072,
+  "utf8_correction_applied": true,
+  "original_reused_feature_rows_preserved": true,
+  "source_reference": "Frozen UTF-8-corrected feature matrix identified by source_sha256"
+}

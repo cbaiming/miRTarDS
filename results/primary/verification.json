@@ -1,0 +1,69 @@
+{
+  "model_groups": 18,
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "complete_features": true,
+  "classification_threshold": 0.5,
+  "source_verification_sha256": "d9a69f8ced54b481d5525e3ff85c85905e2cdc872d35395f32a8d97dd0316d04",
+  "independent_AP_and_confusion_formulas_checked": true,
+  "files_sha256": {
+    "all_predictions.tsv.gz": "5ba53dda94a8ee29e3229a51675e44f3861958524c5ff8d3ab9d101aa2eb41a9",
+    "baseline_comparison_per_training_seed.csv": "c7e18597930c2bb87d5337a8d5c6dbf355e6d0ec78a1e558191f082fd9f5c6b1",
+    "baseline_provenance.json": "16d3a267c0cfa0d1e969c8de26e6bba9cbf8eaeddd792904904446915a0f010c",
+    "comparison_common_mapped.csv": "7454d9c235aac695161e504fe24fddd59044be1fc05d47789258d113c3f9fdbb",
+    "comparison_full_test.csv": "4e04e8859308d3842518e5775889827a717f9988aab222464d564aea2babe78b",
+    "paired_intervals.json": "a423e7a384018ee9d49f98d251319ba6ffd5467a6b0d7ddbef03176fc336d1ec",
+    "per_data_summary.csv": "7fe2596ab18dd3f835499b5c512db9efe50354574b797cb6381ab76a0f0ffeff",
+    "per_training_seed.csv": "71f35d9a8b96237b1dea6bd02796f3bae884adf241a39944c49fa04d7101061c",
+    "provenance.json": "051a7a43252f5c7b87ed0c903b5a4b3ff1aedbe9d1ecc71c0c185e6734396a38",
+    "SUMMARY.json": "69b4a662597926eaba063bc0d6df74bed3074e0cb968db76f5f3c2fb7b83aaa0",
+    "predictions/biolord/data0/training_seed0.tsv.gz": "9c9633a1d3dbc8052fd5ace6744bbe074a2be27ace8e40222f3e9d6f1322f526",
+    "predictions/biolord/data0/training_seed1.tsv.gz": "0905ed1b572ab6a4cdca215c16bed72dc42f4d12681c0533988b6e4a638fb9db",
+    "predictions/biolord/data0/training_seed2.tsv.gz": "4c90e78f426ac893b3295c5d30b811ba1cea4a379539877bdff60fd6fd82caf6",
+    "predictions/biolord/data1/training_seed0.tsv.gz": "79a993d6fbc313ab1114dbafa603e5bc9731f854da75239b8a4a368ef4fde91d",
+    "predictions/biolord/data1/training_seed1.tsv.gz": "4cabcb1c965f0609331876b828e013099c8956020756776a340d64f8ac5f3bd8",
+    "predictions/biolord/data1/training_seed2.tsv.gz": "1e3fabf784fea0f747120cf355aada520984254d8005ea0b0b6ce7418dbcd302",
+    "predictions/biolord/data2/training_seed0.tsv.gz": "c8e6276c57933f4ca9ded3a48f9d2d53c9bbb42174e84976c1413f1b3adf6a03",
+    "predictions/biolord/data2/training_seed1.tsv.gz": "36efa7beca1351242ac6e46058db3bec3026fb2ae93e381a0ab1cdc68a7ab9b2",
+    "predictions/biolord/data2/training_seed2.tsv.gz": "dbaec2e82fb02ac383853497939e8d9c6821ee0c66a7e8cd8a1b0bf04bb2d818",
+    "predictions/openai_large/data0/training_seed0.tsv.gz": "5a5edd651f8461926f824bcf3835dc90736205620e7a590a31e391419125d259",
+    "predictions/openai_large/data0/training_seed1.tsv.gz": "d880471e328199458f39c69c182b83e4043aceb408da0d223da4102e9357404f",
+    "predictions/openai_large/data0/training_seed2.tsv.gz": "cd972c34c89744b353286b24eff44e566bef71b45b47774d45be26d339f0d27b",
+    "predictions/openai_large/data1/training_seed0.tsv.gz": "fb858c80d26a512ef45c00eb5d16d0408c9583d7bc4dadd144594f84e10cd145",
+    "predictions/openai_large/data1/training_seed1.tsv.gz": "ce325df5ef195f76fdf35ce18a251e1cd6f747156aa73bda114e18206b53e22a",
+    "predictions/openai_large/data1/training_seed2.tsv.gz": "e9adb93d1499f662d8d0f14021670eb8609acde9d8c0c9a44d5b35f08d4103e7",
+    "predictions/openai_large/data2/training_seed0.tsv.gz": "1c5c83ddc6678c071be93737bd17cbee37d0cb46e1a5e6bd8bdde8e2da35edd1",
+    "predictions/openai_large/data2/training_seed1.tsv.gz": "e10e561b263204a9afc608b002435b1b2e8038691a4183450d58e17a84044423",
+    "predictions/openai_large/data2/training_seed2.tsv.gz": "0d3b8f91772ce7d4aa920f61d754696445f270f984cc336c819cebaecd99a09f",
+    "sequence_overlap_sensitivity.csv": "2af10e9c633ac98af4614222da0b7e9a702d1519c30f24a6b4cfaec04775183d",
+    "sequence_overlap_sensitivity_summary.json": "327a3105209b845a5cd71916e6cce6b8573e9cd68cd5c7507d88bee29b1328fd"
+  },
+  "sequence_overlap_sensitivity": {
+    "current_model_groups": 18,
+    "data_seeds": [
+      0,
+      1,
+      2
+    ],
+    "training_seeds": [
+      0,
+      1,
+      2
+    ],
+    "frozen_prediction_rows_verified": true,
+    "sequence_exclusions": {
+      "0": 5,
+      "1": 0,
+      "2": 0
+    },
+    "independent_balanced_ap_checked": true
+  }
+}

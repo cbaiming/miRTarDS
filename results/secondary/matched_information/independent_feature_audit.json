@@ -1,0 +1,572 @@
+{
+  "status": "completed",
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "feature_precision_decimals": 6,
+  "checked_input_and_code_hashes": {
+    "inputs/data0.npz": "9c32d222c7f2455b9018aa9c0402d0c3987cd858534116c8885fca2be86edfa6",
+    "inputs/data1.npz": "6d486467119d54335f0a5f091a28c79af8ead2b597740ca7b84789804a1119b4",
+    "inputs/data2.npz": "965145fbfcd3e5fcdcb6e2276a0927fc2b523e260f220e0979eec9956de6771e",
+    "inputs/profiles.json": "2a870c482846818fbb25d7dfa4bdf3cd0aa6228436f043cdba81cde2a612ce00",
+    "engine.py": "511926f30106835f9357f96547323a5919a3ff3d17035110a8d7db27b453b30e",
+    "runtime.py": "4e371d261ca93b288a5987946669eff2a2c3ed2cd613a74258a8dfacf6bb399d",
+    "candidate_language.py": "5546df15fe05c47fd07bb6ecd019af759e85be76e3ec25c33c533fb5959dd5af",
+    "candidate892.py": "1700769020ff7dc09de69faab1eefa331e9a72b03f40c92e8de1a82bfb8c7aae",
+    "features.py": "15160f5e1e97aea8c48c5fdc81141b6716a377dde92b341c288a81dacbc84d61",
+    "train.py": "c2490285bb3f4e09b0672cb7bc12989c016b43a11a7e4a2a8d3cd6e1c4c0ab45",
+    "launch.py": "7e134a3693ed74b591b5a9c5bb69c5a9016d6623b69add336dcf719547a37084"
+  },
+  "heldout_labels_hidden_in_training_inputs": true,
+  "test_labels_used_only_locally_for_collision_description": true,
+  "features_seal": {
+    "names": 3311,
+    "encoder": "text-embedding-3-large",
+    "dimension": 3072,
+    "profile_information": "Unique exact-mapped MeSH descriptor sets only; all methods share sets.",
+    "feature_sha256": {
+      "0": "2c425a2abd6d43ef152312ee483953a0e6c004a9712773f1a713e76f0789b62f",
+      "1": "e637b0fff61c8d6e8006ccfdbbf83b1e6edcc48b3962998b80c6b323a5662a81",
+      "2": "951300318db89c263f08f1d23a58c66847993d5cb82ee50b1dbbf810b4d61e6b"
+    },
+    "sources": {
+      "original_vectors": "73bae31039ad748a8986ca9ebf160ba322f7732541b50916ad98ccaa84fad6ab",
+      "extra_vectors": "6d6ee88cf06092874093765d8797bac9d8f1c69ce642eb886ff205f4aadda322",
+      "supplement": "594ee5409db4c4c2cc8ef5dce33cf48688c281461ddc979c5972452c7f9d4e73"
+    },
+    "api_calls": 0,
+    "dense_reference_max_error": 8.215650382226158e-15,
+    "gpu": "NVIDIA RTX A6000"
+  },
+  "per_seed": {
+    "0": {
+      "feature_sha256": "2c425a2abd6d43ef152312ee483953a0e6c004a9712773f1a713e76f0789b62f",
+      "partitions": {
+        "outer_train_test": {
+          "full_D12": {
+            "source_rows": 15711,
+            "target_rows": 336,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 15711,
+            "target_rows": 336,
+            "target_rows_matching_source": 1,
+            "source_rows_matching_target": 161,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 1
+            }
+          },
+          "B_self_block": {
+            "source_rows": 15711,
+            "target_rows": 336,
+            "target_rows_matching_source": 11,
+            "source_rows_matching_target": 213,
+            "shared_feature_keys": 3,
+            "target_label_match_counts": {
+              "only_same_label": 3,
+              "only_opposite_label": 0,
+              "both_source_labels": 8
+            }
+          }
+        },
+        "inner0_fit_tune": {
+          "full_D12": {
+            "source_rows": 5583,
+            "target_rows": 624,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 5583,
+            "target_rows": 624,
+            "target_rows_matching_source": 6,
+            "source_rows_matching_target": 38,
+            "shared_feature_keys": 2,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 1,
+              "both_source_labels": 5
+            }
+          },
+          "B_self_block": {
+            "source_rows": 5583,
+            "target_rows": 624,
+            "target_rows_matching_source": 8,
+            "source_rows_matching_target": 90,
+            "shared_feature_keys": 2,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 1,
+              "both_source_labels": 7
+            }
+          }
+        },
+        "inner1_fit_tune": {
+          "full_D12": {
+            "source_rows": 5642,
+            "target_rows": 657,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 5642,
+            "target_rows": 657,
+            "target_rows_matching_source": 5,
+            "source_rows_matching_target": 69,
+            "shared_feature_keys": 2,
+            "target_label_match_counts": {
+              "only_same_label": 1,
+              "only_opposite_label": 1,
+              "both_source_labels": 3
+            }
+          },
+          "B_self_block": {
+            "source_rows": 5642,
+            "target_rows": 657,
+            "target_rows_matching_source": 18,
+            "source_rows_matching_target": 94,
+            "shared_feature_keys": 4,
+            "target_label_match_counts": {
+              "only_same_label": 3,
+              "only_opposite_label": 0,
+              "both_source_labels": 15
+            }
+          }
+        }
+      },
+      "within_partitions": {
+        "train": {
+          "rows": 15711,
+          "unique_feature_vectors": 15704,
+          "repeated_vector_groups": 6,
+          "rows_in_repeated_vector_groups": 13,
+          "conflicting_vector_groups": 1,
+          "rows_in_conflicting_vector_groups": 2
+        },
+        "test": {
+          "rows": 336,
+          "unique_feature_vectors": 336,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "0_fit": {
+          "rows": 5583,
+          "unique_feature_vectors": 5580,
+          "repeated_vector_groups": 3,
+          "rows_in_repeated_vector_groups": 6,
+          "conflicting_vector_groups": 1,
+          "rows_in_conflicting_vector_groups": 2
+        },
+        "0_tune": {
+          "rows": 624,
+          "unique_feature_vectors": 624,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "1_fit": {
+          "rows": 5642,
+          "unique_feature_vectors": 5639,
+          "repeated_vector_groups": 3,
+          "rows_in_repeated_vector_groups": 6,
+          "conflicting_vector_groups": 1,
+          "rows_in_conflicting_vector_groups": 2
+        },
+        "1_tune": {
+          "rows": 657,
+          "unique_feature_vectors": 657,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        }
+      }
+    },
+    "1": {
+      "feature_sha256": "e637b0fff61c8d6e8006ccfdbbf83b1e6edcc48b3962998b80c6b323a5662a81",
+      "partitions": {
+        "outer_train_test": {
+          "full_D12": {
+            "source_rows": 16190,
+            "target_rows": 353,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 16190,
+            "target_rows": 353,
+            "target_rows_matching_source": 1,
+            "source_rows_matching_target": 147,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 1
+            }
+          },
+          "B_self_block": {
+            "source_rows": 16190,
+            "target_rows": 353,
+            "target_rows_matching_source": 9,
+            "source_rows_matching_target": 193,
+            "shared_feature_keys": 2,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 9
+            }
+          }
+        },
+        "inner0_fit_tune": {
+          "full_D12": {
+            "source_rows": 6157,
+            "target_rows": 701,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 6157,
+            "target_rows": 701,
+            "target_rows_matching_source": 9,
+            "source_rows_matching_target": 67,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 9
+            }
+          },
+          "B_self_block": {
+            "source_rows": 6157,
+            "target_rows": 701,
+            "target_rows_matching_source": 13,
+            "source_rows_matching_target": 69,
+            "shared_feature_keys": 5,
+            "target_label_match_counts": {
+              "only_same_label": 4,
+              "only_opposite_label": 0,
+              "both_source_labels": 9
+            }
+          }
+        },
+        "inner1_fit_tune": {
+          "full_D12": {
+            "source_rows": 6156,
+            "target_rows": 417,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 6156,
+            "target_rows": 417,
+            "target_rows_matching_source": 5,
+            "source_rows_matching_target": 41,
+            "shared_feature_keys": 2,
+            "target_label_match_counts": {
+              "only_same_label": 1,
+              "only_opposite_label": 0,
+              "both_source_labels": 4
+            }
+          },
+          "B_self_block": {
+            "source_rows": 6156,
+            "target_rows": 417,
+            "target_rows_matching_source": 1,
+            "source_rows_matching_target": 75,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 1
+            }
+          }
+        }
+      },
+      "within_partitions": {
+        "train": {
+          "rows": 16190,
+          "unique_feature_vectors": 16184,
+          "repeated_vector_groups": 6,
+          "rows_in_repeated_vector_groups": 12,
+          "conflicting_vector_groups": 3,
+          "rows_in_conflicting_vector_groups": 6
+        },
+        "test": {
+          "rows": 353,
+          "unique_feature_vectors": 353,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "0_fit": {
+          "rows": 6157,
+          "unique_feature_vectors": 6156,
+          "repeated_vector_groups": 1,
+          "rows_in_repeated_vector_groups": 2,
+          "conflicting_vector_groups": 1,
+          "rows_in_conflicting_vector_groups": 2
+        },
+        "0_tune": {
+          "rows": 701,
+          "unique_feature_vectors": 701,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "1_fit": {
+          "rows": 6156,
+          "unique_feature_vectors": 6153,
+          "repeated_vector_groups": 3,
+          "rows_in_repeated_vector_groups": 6,
+          "conflicting_vector_groups": 1,
+          "rows_in_conflicting_vector_groups": 2
+        },
+        "1_tune": {
+          "rows": 417,
+          "unique_feature_vectors": 417,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        }
+      }
+    },
+    "2": {
+      "feature_sha256": "951300318db89c263f08f1d23a58c66847993d5cb82ee50b1dbbf810b4d61e6b",
+      "partitions": {
+        "outer_train_test": {
+          "full_D12": {
+            "source_rows": 15532,
+            "target_rows": 324,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 15532,
+            "target_rows": 324,
+            "target_rows_matching_source": 1,
+            "source_rows_matching_target": 188,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 1
+            }
+          },
+          "B_self_block": {
+            "source_rows": 15532,
+            "target_rows": 324,
+            "target_rows_matching_source": 4,
+            "source_rows_matching_target": 202,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 4
+            }
+          }
+        },
+        "inner0_fit_tune": {
+          "full_D12": {
+            "source_rows": 6035,
+            "target_rows": 675,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 6035,
+            "target_rows": 675,
+            "target_rows_matching_source": 3,
+            "source_rows_matching_target": 77,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 3
+            }
+          },
+          "B_self_block": {
+            "source_rows": 6035,
+            "target_rows": 675,
+            "target_rows_matching_source": 11,
+            "source_rows_matching_target": 85,
+            "shared_feature_keys": 3,
+            "target_label_match_counts": {
+              "only_same_label": 1,
+              "only_opposite_label": 0,
+              "both_source_labels": 10
+            }
+          }
+        },
+        "inner1_fit_tune": {
+          "full_D12": {
+            "source_rows": 4807,
+            "target_rows": 833,
+            "target_rows_matching_source": 0,
+            "source_rows_matching_target": 0,
+            "shared_feature_keys": 0,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 0
+            },
+            "matches": []
+          },
+          "A_self_block": {
+            "source_rows": 4807,
+            "target_rows": 833,
+            "target_rows_matching_source": 13,
+            "source_rows_matching_target": 50,
+            "shared_feature_keys": 1,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 0,
+              "both_source_labels": 13
+            }
+          },
+          "B_self_block": {
+            "source_rows": 4807,
+            "target_rows": 833,
+            "target_rows_matching_source": 15,
+            "source_rows_matching_target": 59,
+            "shared_feature_keys": 3,
+            "target_label_match_counts": {
+              "only_same_label": 0,
+              "only_opposite_label": 1,
+              "both_source_labels": 14
+            }
+          }
+        }
+      },
+      "within_partitions": {
+        "train": {
+          "rows": 15532,
+          "unique_feature_vectors": 15520,
+          "repeated_vector_groups": 10,
+          "rows_in_repeated_vector_groups": 22,
+          "conflicting_vector_groups": 5,
+          "rows_in_conflicting_vector_groups": 10
+        },
+        "test": {
+          "rows": 324,
+          "unique_feature_vectors": 324,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "0_fit": {
+          "rows": 6035,
+          "unique_feature_vectors": 6031,
+          "repeated_vector_groups": 3,
+          "rows_in_repeated_vector_groups": 7,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "0_tune": {
+          "rows": 675,
+          "unique_feature_vectors": 675,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        },
+        "1_fit": {
+          "rows": 4807,
+          "unique_feature_vectors": 4805,
+          "repeated_vector_groups": 2,
+          "rows_in_repeated_vector_groups": 4,
+          "conflicting_vector_groups": 1,
+          "rows_in_conflicting_vector_groups": 2
+        },
+        "1_tune": {
+          "rows": 833,
+          "unique_feature_vectors": 833,
+          "repeated_vector_groups": 0,
+          "rows_in_repeated_vector_groups": 0,
+          "conflicting_vector_groups": 0,
+          "rows_in_conflicting_vector_groups": 0
+        }
+      }
+    }
+  },
+  "notes": [
+    "No partitions, mapping, features, candidate, or training files were changed by this audit.",
+    "Repeated single endpoint self-statistic blocks do not establish complete input-vector leakage.",
+    "The miRTarDS transform retains the original D12 columns, so a transformed full-vector duplicate requires a D12 duplicate.",
+    "This is a deliberate common-information ablation on the original partitions; reduced disease profiles can coincide across partitions."
+  ]
+}

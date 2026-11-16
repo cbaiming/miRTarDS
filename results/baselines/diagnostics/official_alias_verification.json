@@ -1,0 +1,12 @@
+{
+  "exact_original_scores_reproduced": true,
+  "exact_misim_max_error": 0.0,
+  "raw_jaccard_max_error_below": 1e-15,
+  "comparison_candidates_identical": true,
+  "graph_unchanged": true,
+  "aliases_based_on_official_descriptor_data": true,
+  "no_fuzzy_mapping": true,
+  "no_test_label_mapping_selection": true,
+  "portable_scorer_outputs_bit_exact": true,
+  "portable_sha256_python310_compatible": true
+}

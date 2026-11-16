@@ -1,0 +1,15 @@
+{
+  "misim": "Wang2010 equations1-5, delta0.5, adapted to miRNA-gene disease profiles",
+  "misim_reference": "https://doi.org/10.1093/bioinformatics/btq241",
+  "mapping": "NFKC + whitespace collapse + lowercase exact MeSH Category C name matching",
+  "unmapped": "Omit unmapped names; abstain if either mapped endpoint is empty",
+  "aliases_or_fuzzy_matching": false,
+  "score_direction": "Higher MISIM/Jaccard similarity predicts P; lower Jaccard distance predicts P",
+  "labels_used_for_scoring": false,
+  "profiles_sha256": "ed1cce8bc55c7ce880a38ed4889639bf77e7fd8d22126b69ecf74dc93f2d0aef",
+  "rows_sha256": "15c0963e095f982dd9e2e2ad26da5c561ae9194ef71b2822259f5b99fc64c9a0",
+  "mesh_sha256": "3b76b96e8020faee03235a9ecbb849352b394740aa680c51b911e14d66f3ff4b",
+  "partition": "test",
+  "rows": 354,
+  "misim_covered_rows": 353
+}

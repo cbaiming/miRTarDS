@@ -1,0 +1,33 @@
+{
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "mesh_sha256": "3b76b96e8020faee03235a9ecbb849352b394740aa680c51b911e14d66f3ff4b",
+  "sources": {
+    "0": {
+      "predictions_sha256": "2ecee546de4f5b2aed94c5cbd12155c012d1914d8fedaed6ee860f1c4bd5703c",
+      "profiles_sha256": "4321b5555b4bd84760e93180177a8029b0f0b087a9e32f55516b1c07556cbf2b",
+      "rows_sha256": "0375e735b13b3abf85f91848cd5263b51d8c9120bbd7da56381aaac63d8491c5",
+      "output_sha256": "8d0925dbdf14a3417569254eb10e70438c532198709822aacbe57e3344441c36"
+    },
+    "1": {
+      "predictions_sha256": "8f8dcd403a06fe6078dfb4d4c02e0b02250c6030521b33cc6ec519b56dcfd0df",
+      "profiles_sha256": "ed1cce8bc55c7ce880a38ed4889639bf77e7fd8d22126b69ecf74dc93f2d0aef",
+      "rows_sha256": "15c0963e095f982dd9e2e2ad26da5c561ae9194ef71b2822259f5b99fc64c9a0",
+      "output_sha256": "c5118d02e80652b1c3d593dc47f6d7f422d19e02aab9bca8182429b585fc4671"
+    },
+    "2": {
+      "predictions_sha256": "096936d8a3642c2a2bde1ee550fe1ae62c4d35ad43678ee3803de136cf250c37",
+      "profiles_sha256": "904112700dea0b744b84315f9e70b45af01ac379edde9c8a5b1fcbdfda938b8d",
+      "rows_sha256": "0f75d03b4e94284de1bd5ab06c52eac94d2a3d064ccfd578c50ef3eb7943bd65",
+      "output_sha256": "d4055cebb524c4a7a2c283ee862e4da52513f32f114df5e02b802640719647b4"
+    }
+  },
+  "mapping": "Exact normalized MeSH preferred descriptor names; no aliases",
+  "raw_jaccard": "Original complete normalized disease text sets",
+  "mapped_jaccard": "Identical unique mapped MeSH descriptor sets used by MISIM",
+  "score_orientation": "Higher similarity predicts observed P",
+  "missing": "MISIM and mapped Jaccard abstain on empty mapped endpoints; compare common mapped rows without imputation"
+}

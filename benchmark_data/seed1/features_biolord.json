@@ -1,0 +1,17 @@
+{
+  "encoder": "Fine-tuned BioLORD MONDO DoRA-small step600",
+  "dimension": 768,
+  "model_directory": "models/biolord-mondo-dora",
+  "frozen_merged_weight_sha256": "9f740c507074c6d679e0237cb5b4ab2ae6151d1685abf33e35bb2d959446eb3f",
+  "feature_sha256": "deeb3f193019fdf4ccc9fc1261d5d3e1ca6004abd0d90be054d297c4126fc443",
+  "computed_rows": 16745,
+  "rows": 17614,
+  "profile_information": "Original complete concept/name lists; no MeSH restriction; distinct concepts sharing a name retain multiplicity.",
+  "feature_definition": "AB/AA/BB mean,max,population SD,skew; clip cosine to[0,1]; remove position diagonals only in AA/BB; round6",
+  "token_limit": 64,
+  "maximum_tokens": 63,
+  "cached_feature_rows_reused": 0,
+  "labels_used_for_features": false,
+  "api_calls": 0,
+  "portable_reference_max_abs": 0.0
+}

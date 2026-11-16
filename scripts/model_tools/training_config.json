@@ -1,0 +1,42 @@
+{
+  "seed": 42,
+  "steps": 600,
+  "checks": [
+    0,
+    25,
+    50,
+    100,
+    200,
+    400,
+    600
+  ],
+  "learning_rate": 0.00001,
+  "warmup": 60,
+  "weight_decay": 0.01,
+  "rank": 4,
+  "alpha": 8,
+  "target_layers": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "targets": [
+    "q",
+    "v"
+  ],
+  "counts": [
+    77,
+    38,
+    13
+  ],
+  "precision": "fp32",
+  "microbatch": 64,
+  "scale": 20,
+  "label_gap": 0.05,
+  "anchor_weight": 10,
+  "geometry_weight": 10,
+  "max_dev_displacement": 0.01,
+  "max_dev_cosine_rmse": 0.03,
+  "max_length": 64
+}

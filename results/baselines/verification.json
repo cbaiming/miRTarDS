@@ -1,0 +1,28 @@
+{
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "scope": "Primary complete-profile supervised miRTarDS models on full rows and common candidate rows with fixed similarity baselines",
+  "method_information": "Raw-name Jaccard and both trained encoders use complete profiles; MISIM and mapped-descriptor Jaccard use exact mapped unique descriptors",
+  "ranking_metric": "Class-balanced average precision",
+  "original_fixed_baseline_scores_preserved": true,
+  "current_evaluator_verification_sha256": "d9a69f8ced54b481d5525e3ff85c85905e2cdc872d35395f32a8d97dd0316d04",
+  "files_sha256": {
+    "matched_scores_seed0.tsv.gz": "8d0925dbdf14a3417569254eb10e70438c532198709822aacbe57e3344441c36",
+    "matched_scores_seed1.tsv.gz": "c5118d02e80652b1c3d593dc47f6d7f422d19e02aab9bca8182429b585fc4671",
+    "matched_scores_seed2.tsv.gz": "d4055cebb524c4a7a2c283ee862e4da52513f32f114df5e02b802640719647b4",
+    "per_data_and_training_seed.csv": "edfe99a68623e8f0e4226415e969efa36d8af436f384ea05a411a5d6330fb624",
+    "per_data_summary.csv": "dde42e7b90c078cfff40fa1c1346fb516934b2f14ef678e7b58a02b0df2ab42f",
+    "three_seed_summary.csv": "5ed50bf427216357afaf8ddf8c3743de776b627b0ec55f87d4c403a6d548f48d",
+    "protocol.json": "c96ae1c9d4e9c6a2895a80eeb9f83e15cb503f1a8f423a4f3c8fd9797ee83dd6",
+    "diagnostics/formula_audit.json": "0a6c5c9b232529a6ba37f8b4457aafb00a84dee399f6f7a68b585e0b4d5462cf"
+  },
+  "formula_verification": "diagnostics/formula_audit.json"
+}

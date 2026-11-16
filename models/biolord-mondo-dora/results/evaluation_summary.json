@@ -1,0 +1,51 @@
+{
+  "base_ontology_development": {
+    "mean_spearman": 0.5472626454143175,
+    "displacement": 3.517065089405092e-17,
+    "mean_cosine_rmse": 0.0,
+    "strata": {
+      "seen_seen": {
+        "spearman": 0.5512619954467091,
+        "cosine_rmse": 0.0,
+        "rows": 39842
+      },
+      "seen_unseen": {
+        "spearman": 0.5496506535428627,
+        "cosine_rmse": 0.0,
+        "rows": 216694
+      },
+      "unseen_unseen": {
+        "spearman": 0.5408752872533807,
+        "cosine_rmse": 0.0,
+        "rows": 14663
+      }
+    },
+    "eligible": true
+  },
+  "selected_dora_ontology_development": {
+    "step": 600,
+    "mean_spearman": 0.5483930128846342,
+    "displacement": 0.0002662979269085232,
+    "mean_cosine_rmse": 0.007628444278342863,
+    "strata": {
+      "seen_seen": {
+        "spearman": 0.5524888182577652,
+        "cosine_rmse": 0.007515122767512286,
+        "rows": 39842
+      },
+      "seen_unseen": {
+        "spearman": 0.5508655420874937,
+        "cosine_rmse": 0.0076574460575782625,
+        "rows": 216694
+      },
+      "unseen_unseen": {
+        "spearman": 0.5418246783086437,
+        "cosine_rmse": 0.007712764009938039,
+        "rows": 14663
+      }
+    },
+    "eligible": true,
+    "checkpoint_sha256": "a6745ed9ea3a710b55d0981a3aaca369d7f56cf51ec4c6ae2a90900794bcb586"
+  },
+  "miRNA_target_labels_used_for_encoder_training": false
+}

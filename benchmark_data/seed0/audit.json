@@ -1,0 +1,111 @@
+{
+  "data_seed": 0,
+  "training_seeds": [
+    41,
+    42,
+    43
+  ],
+  "inner_seed": 10000,
+  "feasible": true,
+  "infeasible_partitions": [],
+  "counts": {
+    "train": {
+      "rows": 15920,
+      "P": 3952,
+      "U": 11968
+    },
+    "valid": {
+      "rows": 282,
+      "P": 141,
+      "U": 141
+    },
+    "test": {
+      "rows": 338,
+      "P": 164,
+      "U": 174
+    },
+    "0_fit": {
+      "rows": 5681,
+      "P": 1459,
+      "U": 4222
+    },
+    "0_tune": {
+      "rows": 626,
+      "P": 162,
+      "U": 464
+    },
+    "0_train": {
+      "rows": 10043,
+      "P": 2561,
+      "U": 7482
+    },
+    "0_assess": {
+      "rows": 703,
+      "P": 158,
+      "U": 545
+    },
+    "1_fit": {
+      "rows": 5716,
+      "P": 1372,
+      "U": 4344
+    },
+    "1_tune": {
+      "rows": 666,
+      "P": 172,
+      "U": 494
+    },
+    "1_train": {
+      "rows": 10238,
+      "P": 2530,
+      "U": 7708
+    },
+    "1_assess": {
+      "rows": 626,
+      "P": 162,
+      "U": 464
+    }
+  },
+  "mature_sequence_seen_test_rows": 5,
+  "no_pair_precursor_gene_profile_overlap": true,
+  "original_matching_and_quarantine_reused": true,
+  "source_hashes": {
+    "MTI/mature_master_v1/work/pairs.sqlite": "d604b31ecc686e83201dc41d24c776c625c7fe31f827c82a65593b49388f9a29",
+    "MTI/mature_master_v1/profiles/miRNA_profiles.tsv": "4419185ba3e7f4dd535166c268657c2514e37786444eb7c32a2d65190f34c5c3",
+    "MTI/mature_master_v1/profiles/gene_profiles.tsv": "e16913af237a9d73b7ac26c9f109ceb0f870be3456a636ba0fff8d68cd6d2689",
+    "MTI/mature_master_v1/associations/miRNA_disease_deduplicated.tsv.gz": "d306e198aaa9f1dd8654758776db3b81a572a1a4f2353dddb520e6db1f961056",
+    "MTI/mature_master_v1/associations/gene_disease_deduplicated.tsv.gz": "a94ae3263bc0a1f896c89364b9847efc9b803a01304c5c0413888a35a99f37c3",
+    "MTI/mature_master_v1/audit/verification.json": "b7cc7560d46c6a5fabe4fce2644e07ed9a50d1dcaf0e21f5699ab4dececd5535"
+  },
+  "builder_sha256": "4f4b24f728765363205ccb641694c4c68c6f54af599690cc7b9b0a8160328b56",
+  "protocol_sha256": "4c98f24dc8e992e93c4fe7ef979687fe4c9606d4aa089acb9561338d31b967c1",
+  "files": {
+    "rows.tsv.gz": "0375e735b13b3abf85f91848cd5263b51d8c9120bbd7da56381aaac63d8491c5",
+    "indices.npz": "eeb83be665c676d24fe88ffc8b5dfa9835d305afb93d1bf3dde9585c73d1a1c4",
+    "legacy/disease_profiles.json": "489d8789005d2e020b4984838cc6318e624be25f43bb4bfe5034cf367cfe9e4a",
+    "legacy/manifest.json": "92994bfb2a409af5081f7d0aa8b749071602e356fc84e69e21cd0aac298539b0"
+  },
+  "frozen_builder_sha256": "4f4b24f728765363205ccb641694c4c68c6f54af599690cc7b9b0a8160328b56",
+  "release_notes": {
+    "model_training_seeds": [
+      41,
+      42,
+      43
+    ],
+    "unused_partitions": "Native valid and quarantine rows retain source identities and split indices. Features are available on train/test only; native valid/quarantine have NaN statistics and are excluded from fitting and evaluation.",
+    "feature_names": [
+      "AB_mean",
+      "AB_max",
+      "AB_population_std",
+      "AB_biased_skew",
+      "AA_mean",
+      "AA_max",
+      "AA_population_std",
+      "AA_biased_skew",
+      "BB_mean",
+      "BB_max",
+      "BB_population_std",
+      "BB_biased_skew"
+    ],
+    "source_software": "Original mature-chain, source-stratified, count-matched double-cold generator."
+  }
+}

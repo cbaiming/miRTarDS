@@ -1,0 +1,151 @@
+{
+  "encoder": "biolord_mondo_dora_step600",
+  "selected_step": 600,
+  "dimension": 768,
+  "frozen_merged_weight_sha256": "9f740c507074c6d679e0237cb5b4ab2ae6151d1685abf33e35bb2d959446eb3f",
+  "encoder_files": {
+    "model.safetensors": "9f740c507074c6d679e0237cb5b4ab2ae6151d1685abf33e35bb2d959446eb3f",
+    "config.json": "33930446d15bf9f3f8a713b753062c4422cb3b2306186353cad9de6bcbb0dfe2",
+    "vocab.txt": "dbd90cb94e2247bd4d4ccaecbf616d2290e66691d7d5e5bb81f063c2d0649ada",
+    "tokenizer_config.json": "0036782376af874cc1959f183cff6cc90c4402ea7785b6e7df240815002e9c51",
+    "special_tokens_map.json": "ee4a0725232fc563c865a9a1014f7eae985a6efbe44c58a35f46cd5e878aeed4",
+    "tokenizer.json": "1ec10dfc2325c20ac88e7a47bf319a1313a8a45207692f90a5878e4cbed07717"
+  },
+  "profile_information": "Original complete concept/name lists; no MeSH restriction; distinct concepts sharing a name retain multiplicity.",
+  "feature_definition": "AB/AA/BB mean,max,population SD,skew; clip cosine to[0,1]; remove position diagonals only in AA/BB; round6",
+  "pooling": "FP32 attention-mask mean; float64 L2; public offdiag12 float64 normalization",
+  "maximum_tokens": 63,
+  "token_limit": 64,
+  "batch_size": 64,
+  "names": 28679,
+  "counts": {
+    "0": {
+      "total_rows": 17148,
+      "computed_rows": 16258,
+      "train_rows": 15920,
+      "test_rows": 338
+    },
+    "1": {
+      "total_rows": 17614,
+      "computed_rows": 16745,
+      "train_rows": 16391,
+      "test_rows": 354
+    },
+    "2": {
+      "total_rows": 16854,
+      "computed_rows": 16049,
+      "train_rows": 15721,
+      "test_rows": 328
+    }
+  },
+  "input_data_sha256": {
+    "0": "4494b40cea108aef690019b690ca3f52c108ad8509821410d8cf54b03351925d",
+    "1": "2bcc298771da3aa33f5cf68a2e168d704c85bb1229b870c5fe2e600bbecc93fb",
+    "2": "6dc159037f943e29bc42f97349875f1ab9750d71b5f8ffe09dfa23ab5867240f"
+  },
+  "source_files": {
+    "inputs/profiles.json.gz": "ff99eecd13aaf8060bc8906ec559803f2057b5fbfefd4ec10aab508e4d1956d7",
+    "biolord_api.py": "709ff2299f0dc4a96cd560f4bf0d993ae6030ff4b62f6e3c508959c1025dfcf9",
+    "biolord_features_reference.py": "5e12bd73821b57ddb2fe85f32793aad2b16a42daf4d85d80b89124d04eee6c6e",
+    "biolord_model_manifest.json": "47d3bd67a20e53fad16040b79ebb0d5f9924112dad829f23b408e8f8c39f3e85",
+    "biolord_inference_reference.npz": "ce7645e33b8b3633d384be88708ce5c3689f4a16269a1b264f58f168b8df1c68",
+    "biolord_legacy_reference.npz": "289181ccd464a8f1bc0d6caa57bb06e120169cdbb890e668b5a1bb2e9cdd867f"
+  },
+  "preparation_sources_sha256": "4d2c74b84c056f45fdad6c32e26b1c76acdcda98dcf32a8617209497541c84c7",
+  "preparation_script_sha256": "64df4f012037235df7524536a582f7d3c85de5b0771dc22edeb4836d27e2d41f",
+  "feature_sha256": {
+    "0": "cc4547f62c0fd987adc85b7f2f17e2def9382ebd45f5d237e4f25f33997e357e",
+    "1": "deeb3f193019fdf4ccc9fc1261d5d3e1ca6004abd0d90be054d297c4126fc443",
+    "2": "f003553745c823d365a2454fa6ee9ed7efbdf779acf68118798ba40e2a92abbf"
+  },
+  "public_inference_reference_max_abs": 1.1561499773521389e-07,
+  "portable_D12_reference": {
+    "0": {
+      "rows": 70,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "max_abs_by_column": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "1": {
+      "rows": 69,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "max_abs_by_column": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "2": {
+      "rows": 70,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "max_abs_by_column": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "legacy_D12_reference": {
+    "rows": 128,
+    "max_abs": 1.000000000139778e-06,
+    "mean_abs": 2.018229166643387e-08,
+    "max_abs_by_column": [
+      0.0,
+      0.0,
+      0.0,
+      1.000000000139778e-06,
+      0.0,
+      1.0000000000287557e-06,
+      0.0,
+      1.000000000139778e-06,
+      0.0,
+      1.0000000000287557e-06,
+      0.0,
+      1.000000000139778e-06
+    ]
+  },
+  "api_calls": 0,
+  "raw_embedding_cache": false,
+  "cached_feature_rows_reused": 0,
+  "labels_used_for_features": false,
+  "model_search_started": false,
+  "torch_version": "2.6.0+cu118",
+  "numpy_version": "1.26.4",
+  "transformers_version": "4.57.6",
+  "gpu": "NVIDIA RTX A6000",
+  "elapsed_seconds": 107.0642518736422,
+  "model_directory": "models/biolord-mondo-dora"
+}

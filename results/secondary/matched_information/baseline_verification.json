@@ -1,0 +1,6 @@
+{
+  "direct_formula_pair_checks": 45,
+  "max_misim_absolute_error": 2.220446049250313e-16,
+  "jaccard_recomputed": true,
+  "exact_same_restricted_sets": true
+}

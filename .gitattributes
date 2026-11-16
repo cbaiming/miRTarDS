@@ -1,0 +1,13 @@
+*.safetensors binary
+*.pt binary
+*.bin binary
+*.npz binary
+*.npy binary
+*.gz binary
+*.png binary
+*.xlsx binary
+*.zip binary
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+

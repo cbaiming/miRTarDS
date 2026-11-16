@@ -1,0 +1,183 @@
+{
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "dataset_selection": "The released data seeds0/1/2 were selected after examination of five exploratory resplits. Current results use training seeds0/1/2; old prediction and performance outputs have been removed.",
+  "files": {
+    "BIOLORD_FEATURE_AUDIT.json": {
+      "sha256": "1c1a6ce256d10f5141d4c32247401eabfcc96b4228450ff72e0a684c18dadaaa",
+      "bytes": 4783
+    },
+    "DATA_LICENSES.md": {
+      "sha256": "5476bfa851c4ac41211b473c0b2d1091dbf20a2b215e4a98e9936ca3d2495853",
+      "bytes": 2194
+    },
+    "README.md": {
+      "sha256": "5947d5ca0ff9e31d0881253192b482294312a1f4862f129a25360c334d3e02b7",
+      "bytes": 1570
+    },
+    "seed0/audit.json": {
+      "sha256": "7acc29e8b86b9269e9b2dda0463cbd207306579a1e8104d2c96bca66aa95b7b5",
+      "bytes": 3405
+    },
+    "seed0/features.json": {
+      "sha256": "6bf375b41d2ac4b83a6510f01a60f2b2ff80db3c1f8f55e9bc36e12fa78c5614",
+      "bytes": 586
+    },
+    "seed0/features_biolord.json": {
+      "sha256": "677dd0e11398cb86a5e50cebe656d7d010fd9562b27a7155586776668f45e7d2",
+      "bytes": 829
+    },
+    "seed0/features_biolord.npz": {
+      "sha256": "cc4547f62c0fd987adc85b7f2f17e2def9382ebd45f5d237e4f25f33997e357e",
+      "bytes": 946584
+    },
+    "seed0/features_biolord_original.json": {
+      "sha256": "bc82652063f4353078035571dbdac033da923a3c6f5bc379b1a451164888c77b",
+      "bytes": 500
+    },
+    "seed0/features_biolord_original.npz": {
+      "sha256": "871d32f3035df4c51a1a114805d20bc4cb9582a3f2870563db3c8c76da39bb25",
+      "bytes": 946145
+    },
+    "seed0/features_openai_large.npz": {
+      "sha256": "10c1aec1b1e7808d5e67f94f374af09637af09aaf83c7ec62bc70f0efbad3903",
+      "bytes": 1029096
+    },
+    "seed0/indices.npz": {
+      "sha256": "eeb83be665c676d24fe88ffc8b5dfa9835d305afb93d1bf3dde9585c73d1a1c4",
+      "bytes": 80459
+    },
+    "seed0/profiles.json.gz": {
+      "sha256": "4321b5555b4bd84760e93180177a8029b0f0b087a9e32f55516b1c07556cbf2b",
+      "bytes": 5546165
+    },
+    "seed0/rows.tsv.gz": {
+      "sha256": "0375e735b13b3abf85f91848cd5263b51d8c9120bbd7da56381aaac63d8491c5",
+      "bytes": 1324642
+    },
+    "seed0/sampling_audit.tsv.gz": {
+      "sha256": "266306f3b76c88dd2783f3be27fb7f9507a26255929dcce28dc90a037212217a",
+      "bytes": 628656
+    },
+    "seed1/audit.json": {
+      "sha256": "288457c694277903ef1c47a706bd5a2d5926846a4535133ddbb050cf4dec90b6",
+      "bytes": 3404
+    },
+    "seed1/features.json": {
+      "sha256": "c8d26a8a632b674d641e8443bb785579b27767dbd766454d4bdc91a9cc613c2c",
+      "bytes": 586
+    },
+    "seed1/features_biolord.json": {
+      "sha256": "aaf58f71dd41a2fd7b188f316a788a19a5a168e6192925d8c0a3268dc718abf2",
+      "bytes": 829
+    },
+    "seed1/features_biolord.npz": {
+      "sha256": "deeb3f193019fdf4ccc9fc1261d5d3e1ca6004abd0d90be054d297c4126fc443",
+      "bytes": 972604
+    },
+    "seed1/features_biolord_original.json": {
+      "sha256": "35b0ccca046d1186b35615cbcea74c66198a0b05501f93cd473779ec2d7b5647",
+      "bytes": 500
+    },
+    "seed1/features_biolord_original.npz": {
+      "sha256": "9640254b16579d7b794068ef636bda5dceeda7c2cb804181939f019ae19e552d",
+      "bytes": 972904
+    },
+    "seed1/features_openai_large.npz": {
+      "sha256": "6c188ae00ab7995c708c29a449b2adb33001fc695677ec92f29176bcf86a4a8a",
+      "bytes": 1054944
+    },
+    "seed1/indices.npz": {
+      "sha256": "5dd6416567fe72a2494cf079fb5abb19065440f73d8fd8c8530430bf458bf1f7",
+      "bytes": 83911
+    },
+    "seed1/profiles.json.gz": {
+      "sha256": "ed1cce8bc55c7ce880a38ed4889639bf77e7fd8d22126b69ecf74dc93f2d0aef",
+      "bytes": 5590855
+    },
+    "seed1/rows.tsv.gz": {
+      "sha256": "15c0963e095f982dd9e2e2ad26da5c561ae9194ef71b2822259f5b99fc64c9a0",
+      "bytes": 1353928
+    },
+    "seed1/sampling_audit.tsv.gz": {
+      "sha256": "b7c71bb8f39222d01613a43e43fcae580cdf1eaa4154c1dfce2e54e1acefbcb9",
+      "bytes": 642246
+    },
+    "seed2/audit.json": {
+      "sha256": "4de17f63add3656f6e40d42d25d1f9a7690c499a92c6056fb6f44e114afda35b",
+      "bytes": 3403
+    },
+    "seed2/features.json": {
+      "sha256": "cfbade554bab09b9c95204b1c6826488937c9144642134c3cea5f618d8235258",
+      "bytes": 586
+    },
+    "seed2/features_biolord.json": {
+      "sha256": "4295f42fa2194dfc4906b68e7f10b05de80f8104c291b3ded1e1c3c002cb5afb",
+      "bytes": 829
+    },
+    "seed2/features_biolord.npz": {
+      "sha256": "f003553745c823d365a2454fa6ee9ed7efbdf779acf68118798ba40e2a92abbf",
+      "bytes": 932269
+    },
+    "seed2/features_biolord_original.json": {
+      "sha256": "0ea093786a8ce73dd303faf1b044b7498155873ac8e8f27333b6cc076b3582ab",
+      "bytes": 500
+    },
+    "seed2/features_biolord_original.npz": {
+      "sha256": "663a0c81f9fe23a5dc24a27a9fd7c1272c9d90acb704ec6d2a5c0145dbcf4a06",
+      "bytes": 931748
+    },
+    "seed2/features_openai_large.npz": {
+      "sha256": "47a04e2ca8ab23efe1d07b96aa0f2b3f7a9f50eb1903a1cda165e85c9f6c4693",
+      "bytes": 1012848
+    },
+    "seed2/indices.npz": {
+      "sha256": "561c847b4b21dbde182e38ed1e65f75f8d51518fb8f73d9718bfb6cb98e44d5b",
+      "bytes": 80260
+    },
+    "seed2/profiles.json.gz": {
+      "sha256": "904112700dea0b744b84315f9e70b45af01ac379edde9c8a5b1fcbdfda938b8d",
+      "bytes": 5542172
+    },
+    "seed2/rows.tsv.gz": {
+      "sha256": "0f75d03b4e94284de1bd5ab06c52eac94d2a3d064ccfd578c50ef3eb7943bd65",
+      "bytes": 1297467
+    },
+    "seed2/sampling_audit.tsv.gz": {
+      "sha256": "1508756ec0f85d21ab8a10ef86deee8dc9cf0148db281d7c9b8e85f9ec0a17c9",
+      "bytes": 614366
+    },
+    "source/mirbase_r23_mature_catalog.tsv": {
+      "sha256": "c23f8a0b19555cea2af9f588b49b59ada0346e5969ef7ed71ee19a8f4726a749",
+      "bytes": 939322
+    },
+    "source/README.md": {
+      "sha256": "d225c9c9676532c9dd53f6efcb9df6b02d188e4d1962e147c8457a329ec03a1a",
+      "bytes": 1208
+    },
+    "source/requirements.json": {
+      "sha256": "3bc373216ac427882a888498b207a707465f4ca3af1960029341080ebfbf691f",
+      "bytes": 3679
+    }
+  },
+  "utf8_corrected": true,
+  "encoders": [
+    "biolord",
+    "openai_large"
+  ],
+  "model_groups": 18,
+  "encoder_controls": [
+    "biolord_original"
+  ],
+  "primary_model_groups": 18,
+  "additional_control_model_groups": 9,
+  "obsolete_feature_inputs_removed": true
+}

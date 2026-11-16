@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "eligible_pool_sizes": [
+    506291,
+    214974,
+    74384
+  ],
+  "packet_count": 600,
+  "packet_sha256": "4ba6e61945fe9306ea1cf62f6ef8e2de2ca67da2e92c638df09d762e5f3b0dac",
+  "archived_sampler_exact": true,
+  "dora_zero_initialization_exact": true,
+  "dora_explicit_forward": true
+}

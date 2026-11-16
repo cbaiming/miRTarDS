@@ -1,0 +1,109 @@
+{
+  "encoder": "Original BioLORD-2023",
+  "predictor": "miRTarDS",
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "model_groups": 9,
+  "information": "Original complete disease profiles, same original source rows and partitions",
+  "macro_metrics": {
+    "balanced_aps": 0.6536037198739203,
+    "raw_aps": 0.6505059673149759,
+    "auroc": 0.6571394722541025,
+    "f1": 0.5979248297620735,
+    "accuracy": 0.6087596215112353,
+    "precision": 0.6101560389434527,
+    "recall": 0.5862604270624113
+  },
+  "per_data": [
+    {
+      "data_seed": 0,
+      "rows": 338,
+      "P": 164,
+      "U": 174,
+      "balanced_aps_mean": 0.6835998558177186,
+      "balanced_aps_training_sd": 0.0044000994440263844,
+      "raw_aps_mean": 0.6715552651009853,
+      "raw_aps_training_sd": 0.004571146243926285,
+      "auroc_mean": 0.690858330997103,
+      "auroc_training_sd": 0.0018574132520606129,
+      "f1_mean": 0.6175850031087949,
+      "f1_training_sd": 0.010045784127357479,
+      "accuracy_mean": 0.636094674556213,
+      "accuracy_training_sd": 0.007827666600782806,
+      "precision_mean": 0.6299754633286995,
+      "precision_training_sd": 0.007178030428937473,
+      "recall_mean": 0.605691056910569,
+      "recall_training_sd": 0.012693085362598376
+    },
+    {
+      "data_seed": 1,
+      "rows": 354,
+      "P": 177,
+      "U": 177,
+      "balanced_aps_mean": 0.6536312182608545,
+      "balanced_aps_training_sd": 0.004300918271825465,
+      "raw_aps_mean": 0.6536312182608541,
+      "raw_aps_training_sd": 0.004300918271825465,
+      "auroc_mean": 0.6425356698266782,
+      "auroc_training_sd": 0.003373947858554202,
+      "f1_mean": 0.5961585888939395,
+      "f1_training_sd": 0.008054881178725212,
+      "accuracy_mean": 0.6007532956685498,
+      "accuracy_training_sd": 0.005880412427870484,
+      "precision_mean": 0.6030651340996168,
+      "precision_training_sd": 0.00530896799254833,
+      "recall_mean": 0.5894538606403014,
+      "recall_training_sd": 0.011760824855740851
+    },
+    {
+      "data_seed": 2,
+      "rows": 328,
+      "P": 165,
+      "U": 163,
+      "balanced_aps_mean": 0.6235800855431876,
+      "balanced_aps_training_sd": 0.002487036690745549,
+      "raw_aps_mean": 0.6263314185830883,
+      "raw_aps_training_sd": 0.002474268064927115,
+      "auroc_mean": 0.6380244159385263,
+      "auroc_training_sd": 0.00047373154498643626,
+      "f1_mean": 0.5800308972834859,
+      "f1_training_sd": 0.0035612641666527512,
+      "accuracy_mean": 0.589430894308943,
+      "accuracy_training_sd": 0.0017602142353342345,
+      "precision_mean": 0.5974275194020416,
+      "precision_training_sd": 0.0012863153319497532,
+      "recall_mean": 0.5636363636363636,
+      "recall_training_sd": 0.00606060606060603
+    }
+  ],
+  "classification_threshold": 0.5,
+  "aggregation": "Metrics per fitted model; mean training seeds within each data split; equal mean across data splits",
+  "trained_encoder_minus_original_balanced_APS": {
+    "biolord": {
+      "delta": 0.002419351761668076,
+      "interval_95": [
+        -0.002861487699526897,
+        0.007215781150298821
+      ],
+      "resamples": 2000
+    },
+    "openai_large": {
+      "delta": 0.055234372465502224,
+      "interval_95": [
+        0.019549229260189725,
+        0.09047010184044953
+      ],
+      "resamples": 2000
+    }
+  },
+  "uncertainty": "2000 paired endpoint-profile/precursor Poisson resamples across overlapping splits, conditional on fitted models; retraining uncertainty excluded",
+  "baseline_settings_rerun": false
+}

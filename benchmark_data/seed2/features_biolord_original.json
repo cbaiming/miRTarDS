@@ -1,0 +1,10 @@
+{
+  "encoder": "Original BioLORD-2023",
+  "dimension": 768,
+  "feature_sha256": "663a0c81f9fe23a5dc24a27a9fd7c1272c9d90acb704ec6d2a5c0145dbcf4a06",
+  "encoder_weight_sha256": "f8c969586cc6b0fd393faa7d879de93d6cc532123956041fefd3474194322050",
+  "pooling": "FP32 attention-mask mean, float64 L2 normalization",
+  "token_limit": 64,
+  "feature_definition": "AB/AA/BB mean,max,population SD,skew; exclude self-position diagonals; clipcosine[0,1];round6",
+  "labels_used_for_features": false
+}

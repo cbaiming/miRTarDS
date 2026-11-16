@@ -1,0 +1,40 @@
+{
+  "source": "MONDO ontology pair pools, frozen concept split seed42",
+  "purpose": "ontology-only encoder adaptation; no miRNA target labels",
+  "files": {
+    "train_natural.tsv.gz": {
+      "sha256": "b53d9868105a05449d7d7d5a4e55e9f9af5533e25a328618a13c3a6f16eb7210",
+      "bytes": 37445245
+    },
+    "train_structural.tsv.gz": {
+      "sha256": "fab327edcc65024f6aadb8bd38a13575d484c76a0d269fddf9ee2a1e0c4f3fde",
+      "bytes": 12843166
+    },
+    "train_synonyms.tsv.gz": {
+      "sha256": "8e07b7591d170e53fbc4337593f1f9b3682d5e23cae498a02921d978c26f1d4b",
+      "bytes": 2962115
+    },
+    "dev_seen_seen.tsv.gz": {
+      "sha256": "d680c39645ad7356a7e60c83c71d755b3450c07038e9cb6f40950a1ba9ae7fd8",
+      "bytes": 2869416
+    },
+    "dev_seen_unseen.tsv.gz": {
+      "sha256": "8b7c4b9add543240d6e5f9928b36aa2261cd2d0800343656f818d7b40ecb342a",
+      "bytes": 14880388
+    },
+    "dev_unseen_unseen.tsv.gz": {
+      "sha256": "a9d6e80c7dcac559dabdecb9cdbdb3d2115dcfb47d1c16a1ec28f902abe3a933",
+      "bytes": 993491
+    },
+    "concept_split.tsv": {
+      "sha256": "bb9a971e36fb893c3d37c5bdd8ef56aeb1ab00e0d8469da6c87e436a8c596b89",
+      "bytes": 2281520
+    },
+    "split_audit.json": {
+      "sha256": "132960f5055e938a1e15669da3bbadfe1f55199cc5208bc12c2a238957eaa147",
+      "bytes": 6831,
+      "historical_source_sha256": "07c955b12ff0cd2aebb591e2f990a0ddf82a9c8fee00a13fd8a462833832d573"
+    }
+  },
+  "metadata_redaction": "Historical machine paths removed from split_audit.json; original checksum retained."
+}

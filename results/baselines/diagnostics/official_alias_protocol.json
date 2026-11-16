@@ -1,0 +1,12 @@
+{
+  "official_source": "https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/desc2026.gz",
+  "production_year": 2026,
+  "base_graph": "Original Category-C CSV, unknown production year, never replaced",
+  "anchor": "Official DescriptorName matches original normalized preferred name exactly",
+  "strict": "Original exact name has priority, else globally unique alias among preferred concepts only, anchored to one existing descriptor",
+  "broad": "Original exact name has priority, else globally unique alias among all official descriptor concepts, anchored to one existing descriptor. Includes narrower/broader/related concepts within a descriptor.",
+  "no_fuzzy": true,
+  "outcomes_used_for_mapping": false,
+  "primary_test_subset": "Original MISIM both-end-covered test rows, fixed1013rows across data0/1/2",
+  "extra_coverage": "Reported separately, never substituted into primary performance difference"
+}

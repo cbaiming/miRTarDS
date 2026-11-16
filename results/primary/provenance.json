@@ -1,0 +1,64 @@
+{
+  "scope": "Current primary complete-profile two-encoder benchmark",
+  "data_seeds": [
+    0,
+    1,
+    2
+  ],
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "encoders": [
+    "biolord",
+    "openai_large"
+  ],
+  "encoder_labels": {
+    "biolord": "Fine-tuned BioLORD, original complete disease profiles",
+    "openai_large": "OpenAI text-embedding-3-large, original complete disease profiles"
+  },
+  "candidate": 892,
+  "candidate_sha256": "1700769020ff7dc09de69faab1eefa331e9a72b03f40c92e8de1a82bfb8c7aae",
+  "selection": "Frozen original BioLORD development search",
+  "inference": "Original complete-profile D12, unchanged miRTarDS branch recipe and weights",
+  "classification_threshold": 0.5,
+  "primary_seed_subset_requested_after_prior_five_seed_evaluation": true,
+  "training_environment": {
+    "biolord": {
+      "python": "3.10.12",
+      "numpy": "1.26.4",
+      "sklearn": "1.5.2",
+      "torch": "2.6.0+cu118",
+      "training_device": "cpu",
+      "threads": 2
+    },
+    "openai_large": {
+      "python": "3.10.12",
+      "numpy": "1.26.4",
+      "sklearn": "1.5.2",
+      "torch": "2.6.0+cu118",
+      "training_device": "cpu",
+      "threads": 2
+    }
+  },
+  "feature_sha256": {
+    "biolord": {
+      "0": "cc4547f62c0fd987adc85b7f2f17e2def9382ebd45f5d237e4f25f33997e357e",
+      "1": "deeb3f193019fdf4ccc9fc1261d5d3e1ca6004abd0d90be054d297c4126fc443",
+      "2": "f003553745c823d365a2454fa6ee9ed7efbdf779acf68118798ba40e2a92abbf"
+    },
+    "openai_large": {
+      "0": "10c1aec1b1e7808d5e67f94f374af09637af09aaf83c7ec62bc70f0efbad3903",
+      "1": "6c188ae00ab7995c708c29a449b2adb33001fc695677ec92f29176bcf86a4a8a",
+      "2": "47a04e2ca8ab23efe1d07b96aa0f2b3f7a9f50eb1903a1cda165e85c9f6c4693"
+    }
+  },
+  "biolord_frozen_merged_weight_sha256": "9f740c507074c6d679e0237cb5b4ab2ae6151d1685abf33e35bb2d959446eb3f",
+  "bio_feature_source_receipt_sha256": "f1debe2fb872f3f3510168d5e515bc17001463093949c8f6d5225d9d0a50ae13",
+  "evaluator_sha256": "5b9724b533720489b2c95b947ffa499e43c5ab8a2b554dd169add89449937824",
+  "evaluation_verification_sha256": "d9a69f8ced54b481d5525e3ff85c85905e2cdc872d35395f32a8d97dd0316d04",
+  "same_test_candidates": true,
+  "test_labels": "Observed database P versus unlabelled U",
+  "model_search_started": false
+}
